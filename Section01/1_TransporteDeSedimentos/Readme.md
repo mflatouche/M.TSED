@@ -6,6 +6,8 @@ Se entiende por _sedimentos_ a todas las partículas de suelo y roca de una cuen
 * **Cuenca**: generados por la erosión de la superficie del terreno de la cuenca hidrográfica debido a la acción del viento y la lluvia. 
 * **Lecho**: generados por la erosión del cauce principal y sus tributarios.
 
+#### Clasificación de los sedimentos según su tamaño
+En el siguiente cuadro se presenta la clasificación de los sedimentos según su tamaño con base en la clasificación de Rouse. Se muestra claramente lo que se define como arena, grava, suelos granulares y suelos cohesivos, lo cual es de gran utilidad en el transporte de sedimentos [^2].
 
 ### Clasificación del transporte de sedimentos
 
@@ -29,4 +31,5 @@ flowchart LR;
 |------------------------|----------------------------------------------------|----------------------------------------------------------------------------------------|
 
 
-[^1]: Manual de Ingeniería de Ríos
+[^1]: Camargo, J., & Franco, V. (1999). _Manual de Ingeniería de Ríos_. México: Universidad Autónoma de México Instituto de Ingeniería.
+[^2]: Rodríguez Díaz, H. A. (2010). _Hidráulica Fluvial. Fundamentos y aplicaciones. Socavación_. Colombia: Editorial Escuela Colombiana de Ingeniería.
