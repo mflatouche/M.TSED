@@ -84,19 +84,42 @@ $q_{s}=\int_{0}^{y}C(y)V(y)dy$
 ### Terminología del transporte de sedimentos
 La terminología del transporte de sedimentos a veces puede ser confusa, por lo tanto, es importante definir algunos de los términos más utilizados y establecer la relación entre ellos [^1].
 
-* Carga de sedimentos o carga total de sedimentos (G<sub>T</sub>)
-* Carga de lavado (G<sub>L</sub>)
-* Carga de material del lecho (G<sub>BT</sub>)
-* Carga por arrastre (G<sub>B</sub>)
-* Carga del material del lecho en suspensión (G<sub>BS</sub>)
-* Carga en suspensión (G<sub>S</sub>)
+* **Carga de sedimentos o carga total de sedimentos (G<sub>T</sub>)**:
+* **Carga de lavado (G<sub>L</sub>)**:
+* **Carga de material del lecho (G<sub>BT</sub>)**:
+* **Carga por arrastre (G<sub>B</sub>)**:
+* **Carga del material del lecho en suspensión (G<sub>BS</sub>)**:
+* **Carga en suspensión (G<sub>S</sub>)**:
 
 Los términos presentados pueden combinarse de varias maneras para obtener la carga total de sedimentos en un cauce:
-* La carga total de sedimentos es la suma de la carga en suspensión y la carga por arrastre
-* La carga total de sedimentos es la suma de la carga de lavado y la carga de material del lecho
-* La carga de material del lecho está conformada por la carga del material del lecho en suspensión y la carga por arrastre
-* La carga en suspensión está conformada por la carga del material del lecho en suspensión y la carga de lavado
+* La carga total de sedimentos es la suma de la carga en suspensión y la carga por arrastre:
+<div align="center">
+$G_{T}=G_{S}+G_{B}$
+</div>
+<br>
 
+* La carga total de sedimentos es la suma de la carga de lavado y la carga de material del lecho:
+<div align="center">
+$G_{T}=G_{L}+G_{BT}$
+</div>
+<br>
+
+* La carga de material del lecho está conformada por la carga del material del lecho en suspensión y la carga por arrastre:
+<div align="center">
+$G_{BT}=G_{BS}+G_{B}$
+</div>
+<br>
+
+* La carga en suspensión está conformada por la carga del material del lecho en suspensión y la carga de lavado:
+<div align="center">
+$G_{S}=G_{BS}+G_{L}$
+</div>
+<br>
+En la siguiente figura se muestran representadas esquemáticamente las ecuaciones presentadas.
+
+<div align="center">
+  <br><img src="https://raw.githubusercontent.com/mflatouche/M.TSED/main/Section01/1_TransporteDeSedimentos/Img/1_3.png" width="550px">
+</div>
 
 | [Actividad anterior]() | [Inicio](https://github.com/mflatouche/M.TSED/wiki) | [Actividad siguiente]()  |
 |------------------------|----------------------------------------------------|----------------------------------------------------------------------------------------|
