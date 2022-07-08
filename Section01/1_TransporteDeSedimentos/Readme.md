@@ -42,8 +42,14 @@ En el siguiente cuadro se presenta la clasificación de los sedimentos según su
 |  | Fina | 1/1024 mm - 1/2048 mm |  |
 |  | Muy fina | 1/2048 mm - 1/4096 mm  |  |
 
-### Clasificación del transporte de sedimentos
+### Modos de transporte de sedimentos
+Los sedimentos pueden ser transportados por una corriente principalmente de las siguientes formas [^2]: 
+* **Suspensión**: los materiales siguen los mismos movimientos del agua y se desplazan aproximadamente a la misma velocidad, se mantienen en suspensión debido a los remolinos generados por la turbulendia del flujo. En general, se tratan de partículas finas *(limos y arcillas)*, que se depositarán por gravedad sólo cuando el flujo es muy lento o se estanca. Parte del material en suspensión puede ser arcilla coloidal, que puede permanecer en suspensión durante períodos de tiempo muy largos.
+* **Arrastre**: el transporte de material por arrastre se realiza por la acción del esfuerzo cortante generado por la corriente sobre las partículas de sedimento. El movimiento de las partículas por arrastre puede ser de rodadura o deslizamiento sobre el lecho del cauce.
+* **Saltación**: algunas partículas pueden moverse también sobre el lecho del cauce en *saltación*, el cual es un movimiento de saltos sucesivos discontinuos, se produce cuando una partícula choca con otra, haciendo que rebote hacia arriba y luego caiga de nuevo hacia el lecho. 
 
+#### Clasificación del transporte de sedimentos
+Los sedimentos provenientes del material del lecho del cauce son transportados a lo largo del río por arrastre, y periódicamente pueden ser transportados en suspensión debido a la turbulencia del flujo. Los sedimentos provenientes de la cuenca son los materiales más finos transportados por la corriento, y por lo tanto, son transportados únicamente en suspensión.
 
 ```mermaid
 flowchart LR;
