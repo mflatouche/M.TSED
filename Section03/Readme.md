@@ -1,4 +1,4 @@
 Curso básico de transporte de sedimentos en HEC-RAS 1D
-Transporte de sedimentos by mlatouchefacenda@gmail.com
+<br> Transporte de sedimentos by mlatouchefacenda@gmail.com
 
-## Sección 1 - Definiciones básicas
+## Sección 3 - Modelo de transporte de sedimentos en HEC-RAS 1D
