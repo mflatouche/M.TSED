@@ -1,5 +1,4 @@
-Balance hidrológico de largo plazo para estimación de caudales medios usando SIG.  
-Long-term water balance by r.cfdtools@gmail.com
+Curso básico de transporte de sedimentos en HEC-RAS 1D
+Transporte de sedimentos by mlatouchefacenda@gmail.com
 
-## Sección 6 - Automatización de procesos geográficos
-
+## Sección 1 - Definiciones básicas
