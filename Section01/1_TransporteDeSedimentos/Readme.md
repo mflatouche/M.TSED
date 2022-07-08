@@ -69,6 +69,15 @@ flowchart LR;
    end;
 ```
 #### Distribución de velocidades y concentración de sedimentos en suspensión
+_NOTA: ¿valdrá la pena explicar las ecuaciones para aproximar la distribución de velocidades y de concentraciones?_
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mflatouche/M.TSED/main/Section01/1_TransporteDeSedimentos/Img/1_2.png" width="600px">
+</div>
+
+El **caudal sólido (Q<sub>s</sub>)** es el volumen de sedimentos por unidad de tiempo que cruza una sección transversal del cauce. El **caudal sólido por unidad de ancho (q<sub>s</sub>)** se obtiene como:
+
+$\sqrt{\frac{a}{b}}$
 
 
 | [Actividad anterior]() | [Inicio](https://github.com/mflatouche/M.TSED/wiki) | [Actividad siguiente]()  |
