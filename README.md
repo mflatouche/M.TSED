@@ -1,6 +1,6 @@
 <div align="center">
 <br><b>M.TSED </b>
-<br><b>Curso básico de transporte de sedimentos en HEC-RAS 1D </b>
+<br><b>Curso básico de transporte de sedimentos con HEC-RAS 1D </b>
 <br>Transporte de sedimentos by mlatouchefacenda@gmail.com<br>  
 </div>
 
