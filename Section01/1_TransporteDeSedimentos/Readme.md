@@ -127,6 +127,11 @@ En la siguiente figura se muestran representadas esquemáticamente las ecuacione
   <br><img src="https://raw.githubusercontent.com/mflatouche/M.TSED/main/Section01/1_TransporteDeSedimentos/Img/1_3.png" width="550px">
 </div>
 
+### Licencia, cláusulas y condiciones de uso
+
+M.TSED es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](https://github.com/mflatouche/M.TSED/wiki/License).
+
+
 | [Actividad anterior]() | [Inicio](https://github.com/mflatouche/M.TSED/wiki) | [Actividad siguiente]()  |
 |------------------------|----------------------------------------------------|----------------------------------------------------------------------------------------|
 
