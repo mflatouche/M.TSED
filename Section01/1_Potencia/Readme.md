@@ -1,5 +1,5 @@
 ## Potencia de la corriente
-Keywords: `Sediment transport` 
+Keywords: `Stream power` 
 
 ### Objetivos
 
