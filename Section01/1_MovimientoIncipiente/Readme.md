@@ -12,8 +12,11 @@ Keywords: `Shear stress` `Shields`
 Para el estudio del transporte de sedimentos, es necesario analizar el comienzo del movimiento de las partículas o _movimiento incipiente_. Si se supone una partícula de sedimento de forma esférica sobre el fondo del lecho de un cauce aluvial, con una pentiende longitudinal muy pequeña tal que se pueda despreciar la componente del peso en la dirección del movimiento, se presentan las siguientes fuerzas actuando sobre la partícula[^1].
 
 $F_{L}$ = Fuerza ascensional, producida por las componentes verticales de la velocidad
+
 $F_{D}$ = Fuerza de arrastre, producida por las componentes horizonatles de la velocidad
+
 $W_{S}$ = Peso sumergido de la partícula
+
 $F_{R}$ = Fuerza de resistencia, producida entre la frontera fija y las partículas en movimiento
 
 <div align="center">
