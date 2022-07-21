@@ -17,7 +17,7 @@ $W_{S}$ = Peso sumergido de la partícula
 $F_{R}$ = Fuerza de resistencia, producida entre la frontera fija y las partículas en movimiento
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mflatouche/M.TSED/main/Section01/1_TransporteDeSedimentos/Img/1_2.png" width="600px">
+  <img src="https://raw.githubusercontent.com/mflatouche/M.TSED/main/Section01/1_MovimientoIncipiente/Img/1_1.png" width="600px">
 </div>
 
 ### Licencia, cláusulas y condiciones de uso
