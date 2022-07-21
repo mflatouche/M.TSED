@@ -7,7 +7,7 @@ Keywords: `Shear stress` `Shields`
 
 ### Alcance
 
-### Movimiento incipiente. Definición
+### Definición. Análisis de fuerzas
 
 Para el estudio del transporte de sedimentos, es necesario analizar el comienzo del movimiento de las partículas o _movimiento incipiente_. Si se supone una partícula de sedimento de forma esférica sobre el fondo del lecho de un cauce aluvial, con una pentiende longitudinal muy pequeña tal que se pueda despreciar la componente del peso en la dirección del movimiento, se presentan las siguientes fuerzas actuando sobre la partícula[^1].
 
@@ -21,6 +21,16 @@ $F_{R}$ = Fuerza de resistencia, producida entre la frontera fija y las partícu
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/mflatouche/M.TSED/main/Section01/1_MovimientoIncipiente/Img/1_1.png" width="600px">
+</div>
+
+Cuando la partícula se encuentra en estado de movimiento incipiente se cumple algunas de estas condiciones:
+
+<div align="center">
+  $F_{L}=W_{S}$
+  
+  $F_{D}=F_{R}$
+  
+  $M_{0}=M_{R}$
 </div>
 
 ### Licencia, cláusulas y condiciones de uso
