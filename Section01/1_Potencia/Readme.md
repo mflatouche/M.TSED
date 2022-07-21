@@ -40,4 +40,4 @@ M.TSED es de uso libre para fines académicos, conoce nuestra licencia, cláusul
 |------------------------|----------------------------------------------------|----------------------------------------------------------------------------------------|
 
 [^1]: Rodríguez Díaz, H. A. (2010). _Hidráulica Fluvial. Fundamentos y aplicaciones. Socavación_. Colombia: Editorial Escuela Colombiana de Ingeniería.
-[^2]: Camargo, J., & Franco, V. (1999). _Manual de Ingeniería de Ríos_. México: Universidad Autónoma de México Instituto de Ingeniería.
+[^2]: Federal Agency Stream Restoration Working Group. (2001). Stream Corridor Restoration: Principles, Processes, and Practices. FISRWG.
