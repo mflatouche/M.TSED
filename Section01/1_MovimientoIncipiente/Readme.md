@@ -45,6 +45,27 @@ Los criterios más utilizados para determinar el movimiento incipiente toman com
 
 #### Aproximación de Shields
 
+
+La ecuación propuesta por Maza de la curva de shields en función del Número de Reynolds de corte es:
+
+<div align="center">
+  Si $R_{*}> 1500$ entonces $T=0.06$
+  <br> 
+  <br>
+  Si $R_{*}\leq 1500$ entonces $T=\frac{0.097}{R_{*}}+0.077 exp\left \{- (\frac{19.58}{R_{*}})^{0.3191} \right \}$
+</div>
+
+Se definió una función en Python para calcular el esfuerzo cortante adimensional utilizando la ecuación de Maza:
+
+```
+def T_shields(Rc):
+    if Rc <= 1500:
+        T=(0.097/Rc)+0.077*np.exp(-((19.58/Rc)**0.3191))
+    else:
+        T=0.06
+    return T
+```
+
 ### Licencia, cláusulas y condiciones de uso
 
 M.TSED es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](https://github.com/mflatouche/M.TSED/wiki/License).
