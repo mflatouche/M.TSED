@@ -33,6 +33,12 @@ Cuando la partícula se encuentra en estado de movimiento incipiente se cumple a
   $M_{0}=M_{R}$
 </div>
 
+Donde:
+
+$M_{0}$ = Momento del movimiento producido por  $F_{D}$ y $F_{R}$ 
+
+$M_{R}$ = Momento resistente al movimiento debdio a $F_{L}$ y $W_{S}$ 
+
 ### Licencia, cláusulas y condiciones de uso
 
 M.TSED es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](https://github.com/mflatouche/M.TSED/wiki/License).
