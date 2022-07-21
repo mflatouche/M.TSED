@@ -1,5 +1,5 @@
-## Potencia de la corriente
-Keywords: `Stream power` 
+## Movimiento Incipiente
+Keywords: `Shear stress` `Shields` 
 
 ### Objetivos
 
@@ -7,7 +7,8 @@ Keywords: `Stream power`
 
 ### Alcance
 
-### Contenido
+### Movimiento incipiente. Definición
+
 
 ### Licencia, cláusulas y condiciones de uso
 
