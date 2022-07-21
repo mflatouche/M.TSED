@@ -90,12 +90,12 @@ $q_{s}=\int_{0}^{y}C(y)V(y)dy$
 ### Terminología del transporte de sedimentos
 La terminología del transporte de sedimentos a veces puede ser confusa, por lo tanto, es importante definir algunos de los términos más utilizados y establecer la relación entre ellos [^1].
 
-* **Carga de sedimentos o carga total de sedimentos (G<sub>T</sub>)**:
-* **Carga de lavado (G<sub>L</sub>)**:
-* **Carga de material del lecho (G<sub>BT</sub>)**:
-* **Carga por arrastre (G<sub>B</sub>)**:
-* **Carga del material del lecho en suspensión (G<sub>BS</sub>)**:
-* **Carga en suspensión (G<sub>S</sub>)**:
+* **Carga de sedimentos o carga total de sedimentos (G<sub>T</sub>)**:la cantidad de sedimento que pasa por cualquier sección transversal de un río en un periodo de tiempo determinado, normalmente un día o un año. _Caudal sólido_, la masa o el volumen de sedimentos que pasa por una sección transversal de un arroyo en una unidad de tiempo. Las unidades típicas para la carga de sedimentos son toneladas, mientras que las unidades de caudal sólido son toneladas por día.
+* **Carga de lavado (G<sub>L</sub>)**: parte de la carga total de sedimentos que está compuesta de las partículas de sedimento que tienen tamaños más finos que los sedimentos encontrados en el lecho del cauce.
+* **Carga de material del lecho (G<sub>BT</sub>)**: parte de la carga total de sedimentos que está compuesta de las partículas de sedimento que tienen el mismo tamaño que los sedimentos encontrados en el lecho del cauce.
+* **Carga por arrastre (G<sub>B</sub>)**: parte de la carga total de sedimentos que se desplaza en el lecho del río o cerca de él por saltación, rodadura o deslizamiento en la capa de fondo.
+* **Carga del material del lecho en suspensión (G<sub>BS</sub>)**: parte de la carga de material del lecho que se transporta en suspensión en la columna de agua. La carga de material del lecho en suspensión y la carga por arrastre comprenden la carga total de material del lecho.
+* **Carga en suspensión (G<sub>S</sub>)**: parte de la carga total de sedimentos que es transportada en suspensión por la turbulencia del flujo de agua.
 
 Los términos presentados pueden combinarse de varias maneras para obtener la carga total de sedimentos en un cauce:
 * La carga total de sedimentos es la suma de la carga en suspensión y la carga por arrastre:
