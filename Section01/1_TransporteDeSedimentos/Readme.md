@@ -77,6 +77,8 @@ flowchart LR;
 #### Distribución de velocidades y concentración de sedimentos en suspensión
 _NOTA: ¿valdrá la pena explicar las ecuaciones para aproximar la distribución de velocidades y de concentraciones?_
 
+La distribución de velocidades en un flujo turbulento en canales a superficie libre, de acuerdo con la teoría de la capa límite, tiene una distribución logarítmica
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/mflatouche/M.TSED/main/Section01/1_TransporteDeSedimentos/Img/1_2.png" width="600px">
 </div>
