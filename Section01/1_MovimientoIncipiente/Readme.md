@@ -49,7 +49,9 @@ El arrastre de materiales no cohesivos con granulometría uniforme se ha estudia
 Shields realizó sus experimentos en un canal de laboratorio utilizando flujo turbulento completamente desarrollado y materiales con distintas densidades, pero con granulometría uniforme, partiendo siempre de la condición de fondo plano y considerando como condición crítica de arrastre aquella en la que existe movimiento generalizado de las partículas, pero el transporte de ellas o el _caudal sólido_ es muy pequeño y el fondo permanece plano[^2]. 
 
 Los resultados de sus experimentos los presentó en el "Diagrama de Shields" como función de dos parámetros adimensionales:
+FOTO
 
+Las fuerzas promotoras del movimiento están representadas como $\tau_{0}d^{2}$ y explican la acción del agua sobre el fondo. Estas fuerzas son contrarrestadas por la resistencia de las partículas que conforman el lecho (particularmente con su peso sumergido) la cual se puede expresar como $(\gamma_{s}-\gamma)d^{3}$. El primer parámetro de Shields, $\tau_{}$, denominado esfuerzo cortante crítico adimensional, relaciona las fuerzas causantes del movimiento con las fuerzas que se oponen a dicho movimiento. Este parámetro corresponde a las ordenadas del diagrama de Shields. Si se expresa $\tau_{0}$ en función de la velocidad de corte $U_{*}$, el parámetro presenta la misma estructura de un número de Froude.
 
 La ecuación propuesta por Maza de la curva de shields en función del Número de Reynolds de corte es:
 
