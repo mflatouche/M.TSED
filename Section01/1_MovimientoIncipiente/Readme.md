@@ -51,10 +51,26 @@ Shields realizó sus experimentos en un canal de laboratorio utilizando flujo tu
 Los resultados de sus experimentos los presentó en el "Diagrama de Shields" como función de dos parámetros adimensionales:
 
 <div align="center">
-  $\tau_{*}=\frac{\tau_{0}}{(\gamma_{s}-\gamma)d}$   y   $R_{*}=\frac{U_{*}d}{\nu}$
+  $\tau_{*}=\frac{\tau_{0}}{(\gamma_{s}-\gamma)d}$   y   $R_{*}=\frac{U_{*} d}{\nu}$
 </div>
 
 Donde:
+
+$\tau_{*}$ = Esfuerzo cortante crítico [adimensional]
+
+$R_{*}$ = Número de Reynolds de corte [adimensional]
+
+$\tau_{0}$ = Esfuerzo cortante en el lecho [$N/m^{2}$]
+
+$d$ = Diámetro característico de las partículas [$m$]
+
+$\gamma_{s}$ = Peso específico de las partículas [$N/m^{3}$]
+
+$\gamma$ = Peso específico del agua [$N/m^{3}$]
+
+$\nu$ = Viscosidad cinemática del agua [$m^{2}/s$]
+
+$U_{*}$ = Velocidad de corte [$m/s$]
 
 Las fuerzas promotoras del movimiento están representadas como $\tau_{0}d^{2}$ y explican la acción del agua sobre el fondo. Estas fuerzas son contrarrestadas por la resistencia de las partículas que conforman el lecho (particularmente con su peso sumergido) la cual se puede expresar como $(\gamma_{s}-\gamma)d^{3}$. El primer parámetro de Shields, $\tau_{*}$, denominado esfuerzo cortante crítico adimensional, relaciona las fuerzas causantes del movimiento con las fuerzas que se oponen a dicho movimiento. Este parámetro corresponde a las ordenadas del diagrama de Shields. Si se expresa $\tau_{0}$ en función de la velocidad de corte $U$, el parámetro presenta la misma estructura de un número de Froude[^1].
 
