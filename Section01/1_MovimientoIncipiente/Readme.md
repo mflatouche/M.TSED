@@ -37,7 +37,7 @@ Donde:
 
 $M_{0}$ = Momento del movimiento producido por  $F_{D}$ y $F_{R}$ 
 
-$M_{R}$ = Momento resistente al movimiento debdio a $F_{L}$ y $W_{S}$ 
+$M_{R}$ = Momento resistente al movimiento debido a $F_{L}$ y $W_{S}$ 
 
 La determinación del movimiento incipiente de las partículas o la condición _crítica_ de arrastre es de gran importancia en la ingeniería fluvial, debido a que permite inferir las condiciones que originarían el transporte de partículas del material del lecho o las condiciones que favorecerían su depositación [^2]. Los criterios más utilizados para determinar el movimiento incipiente toman como referencia los esfuerzos cortantes.
 
@@ -56,7 +56,7 @@ Las fuerzas promotoras del movimiento están representadas como $\tau_{0}d^{2}$ 
 El segundo parámetro, graficado en las abscisas, se denomina número de Reynolds de corte, $R_{*}$. Este número de Reynolds utiliza la velocidad de corte como la velocidad significativa, el diámetro característico de las partículas y la viscosidad cinemática[^1]. Al relacionar estos dos parámetros, experimentalmente se estableció una curva que representa la condición crítica de arrastre o de movimiento incipiente, en donde $\tau_{0}=\tau_{c}$. La zona por encima de esta curva, corresponde a situaciones en las que las partículas del cauce son transportadas por el flujo (hay movimiento del material del lecho), y por el contrario, en la zona debajo de la curva no existe movimiento[^2].
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mflatouche/M.TSED/main/Section01/1_MovimientoIncipiente/Img/1_1.png" width="600px">
+  <img src="https://raw.githubusercontent.com/mflatouche/M.TSED/main/Section01/1_MovimientoIncipiente/Img/1_2.jpg" width="600px">
 </div>
 
 > Diagrama de Shields. Fuente: Rodríguez Díaz, H. A. (2010)[^1]
