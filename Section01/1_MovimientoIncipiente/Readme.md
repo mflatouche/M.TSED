@@ -7,7 +7,7 @@ Keywords: `Shear stress` `Shields`
 
 ### Alcance
 
-### Definición. Análisis de fuerzas
+### Estudio del movimiento incipiente
 
 Para el estudio del transporte de sedimentos, es necesario analizar el comienzo del movimiento de las partículas o _movimiento incipiente_. Si se supone una partícula de sedimento de forma esférica sobre el fondo del lecho de un cauce aluvial, con una pentiende longitudinal muy pequeña tal que se pueda despreciar la componente del peso en la dirección del movimiento, se presentan las siguientes fuerzas actuando sobre la partícula[^1].
 
