@@ -56,7 +56,7 @@ Las fuerzas promotoras del movimiento están representadas como $\tau_{0}d^{2}$ 
 El segundo parámetro, graficado en las abscisas, se denomina número de Reynolds de corte, $R_{*}$. Este número de Reynolds utiliza la velocidad de corte como la velocidad significativa, el diámetro característico de las partículas y la viscosidad cinemática[^1]. Al relacionar estos dos parámetros, experimentalmente se estableció una curva que representa la condición crítica de arrastre o de movimiento incipiente, en donde $\tau_{0}=\tau_{c}$. La zona por encima de esta curva, corresponde a situaciones en las que las partículas del cauce son transportadas por el flujo (hay movimiento del material del lecho), y por el contrario, en la zona debajo de la curva no existe movimiento[^2].
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mflatouche/M.TSED/main/Section01/1_MovimientoIncipiente/Img/1_1.jpg" width="600px">
+  <img src="https://raw.githubusercontent.com/mflatouche/M.TSED/main/Section01/1_MovimientoIncipiente/Img/1_2.jpg"width="800px">
 </div>
 
 > Diagrama de Shields. Fuente: Rodríguez Díaz, H. A. (2010)[^1]
