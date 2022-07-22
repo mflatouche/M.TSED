@@ -72,6 +72,21 @@ $\nu$ = Viscosidad cinemática del agua [$m^{2}/s$]
 
 $U_{*}$ = Velocidad de corte [$m/s$]
 
+La velocidad de corte se define como:
+
+<div align="center">
+  $U_{*}=\sqrt{\frac{\tau_{0}}{\rho}}$   y   $\tau_{0}=\gamma R S_{0}$
+</div>
+
+Donde:
+
+$\rho$ = Densidad del fluido [$kg/m^{3}$]
+
+$R$ = Radio hidráulico [$m$]
+
+$S_{0}$ = Pendiende del fondo del canal [$m/m$]
+
+
 Las fuerzas promotoras del movimiento están representadas como $\tau_{0}d^{2}$ y explican la acción del agua sobre el fondo. Estas fuerzas son contrarrestadas por la resistencia de las partículas que conforman el lecho (particularmente con su peso sumergido) la cual se puede expresar como $(\gamma_{s}-\gamma)d^{3}$. El primer parámetro de Shields, $\tau_{*}$, denominado esfuerzo cortante crítico adimensional, relaciona las fuerzas causantes del movimiento con las fuerzas que se oponen a dicho movimiento. Este parámetro corresponde a las ordenadas del diagrama de Shields. Si se expresa $\tau_{0}$ en función de la velocidad de corte $U$, el parámetro presenta la misma estructura de un número de Froude[^1].
 
 El segundo parámetro, graficado en las abscisas, se denomina número de Reynolds de corte, $R_{*}$. Este número de Reynolds utiliza la velocidad de corte como la velocidad significativa, el diámetro característico de las partículas y la viscosidad cinemática[^1]. Al relacionar estos dos parámetros, experimentalmente se estableció una curva que representa la condición crítica de arrastre o de movimiento incipiente, en donde $\tau_{0}=\tau_{c}$. La zona por encima de esta curva, corresponde a situaciones en las que las partículas del cauce son transportadas por el flujo (hay movimiento del material del lecho), y por el contrario, en la zona debajo de la curva no existe movimiento[^2].
@@ -82,13 +97,12 @@ El segundo parámetro, graficado en las abscisas, se denomina número de Reynold
 
 > Diagrama de Shields. Fuente: Rodríguez Díaz, H. A. (2010)[^1]
 
-La ecuación propuesta por Maza de la curva de shields en función del Número de Reynolds de corte es:
+Maza propuso una ecuación que representa la curva del diagrama de Shields en función del Número de Reynolds de corte[^2]:
 
 <div align="center">
-  Si $R_{*}> 1500$ entonces $T=0.06$
-  <br> 
+  Si $1\leq R_{*}\leq 1500$ entonces $\tau_{*}=\frac{0.097}{R_{*}}+0.077 exp\left \{- (\frac{19.58}{R_{*}})^{0.3191} \right \}$
   <br>
-  Si $R_{*}\leq 1500$ entonces $T=\frac{0.097}{R_{*}}+0.077 exp\left \{- (\frac{19.58}{R_{*}})^{0.3191} \right \}$
+  Si $R_{*}> 1500$ entonces $\tau_{*}=0.06$
 </div>
 
 Se definió una función en Python para calcular el esfuerzo cortante adimensional utilizando la ecuación de Maza:
@@ -101,6 +115,11 @@ def T_shields(Rc):
         T=0.06
     return T
 ```
+La curva resultante de la ecuación de Maza es:
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mflatouche/M.TSED/main/Section01/1_MovimientoIncipiente/Img/1_3.jpg">
+</div>
 
 ### Licencia, cláusulas y condiciones de uso
 
