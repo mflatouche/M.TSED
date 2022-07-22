@@ -39,11 +39,16 @@ $M_{0}$ = Momento del movimiento producido por  $F_{D}$ y $F_{R}$
 
 $M_{R}$ = Momento resistente al movimiento debdio a $F_{L}$ y $W_{S}$ 
 
-Los criterios más utilizados para determinar el movimiento incipiente toman como referencia los esfuerzos cortantes.
+La determinación del movimiento incipiente de las partículas o la condición _crítica_ de arrastre es de gran importancia en la ingeniería fluvial, debido a que permite inferir las condiciones que originarían el transporte de partículas del material del lecho o las condiciones que favorecerían su depositación [^2]. Los criterios más utilizados para determinar el movimiento incipiente toman como referencia los esfuerzos cortantes.
 
 ### Aproximación de esfuerzos cortantes
 
 #### Aproximación de Shields
+El arrastre de materiales no cohesivos con granulometría uniforme se ha estudiado desde hace varios siglos[^2], para esto se han efectuado muchos experimentos de laboratorio, entre los que destacan los resultados presentados por Shields[^1].
+
+Shields realizó sus experimentos en un canal de laboratorio utilizando flujo turbulento completamente desarrollado y materiales con distintas densidades, pero con granulometría uniforme, partiendo siempre de la condición de fondo plano y considerando como condición crítica de arrastre aquella en la que existe movimiento generalizado de las partículas, pero el transporte de ellas o el _caudal sólido_ es muy pequeño y el fondo permanece plano[^2]. 
+
+Los resultados de sus experimentos los presentó en el "Diagrama de Shields" como función de dos parámetros adimensionales:
 
 
 La ecuación propuesta por Maza de la curva de shields en función del Número de Reynolds de corte es:
@@ -76,4 +81,4 @@ M.TSED es de uso libre para fines académicos, conoce nuestra licencia, cláusul
 
 
 [^1]: Rodríguez Díaz, H. A. (2010). _Hidráulica Fluvial. Fundamentos y aplicaciones. Socavación_. Colombia: Editorial Escuela Colombiana de Ingeniería.
-[^2]: Camargo, J., & Franco, V. (1999). _Manual de Ingeniería de Ríos_. México: Universidad Autónoma de México Instituto de Ingeniería.2
+[^2]: Camargo, J., & Franco, V. (1999). _Manual de Ingeniería de Ríos_. México: Universidad Autónoma de México Instituto de Ingeniería.
