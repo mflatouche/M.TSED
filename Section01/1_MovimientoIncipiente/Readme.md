@@ -112,12 +112,14 @@ La relación entre $\tau_{*c}$ y $D_{*c}$ permite determinar directamente el val
 
 > Diagrama de Shields, $D_{*c}$ vs $\tau_{*c}$. Fuente: Instituto de Ingeniería UNAM. (1999)[^2]
 
-Maza propuso una ecuación que representa la curva del diagrama de Shields en función del Número de Reynolds de corte[^2]:
+#### Ecuaciones de Maza
+
+Maza encontró una ecuación que representa la curva del diagrama de Shields en función del Número de Reynolds de corte[^2]:
 
 <div align="center">
-  Si $1\leq R_{*}\leq 1500$ entonces $\tau_{*}=\frac{0.097}{R_{*}}+0.077 exp\left \{- (\frac{19.58}{R_{*}})^{0.3191} \right \}$
+  Si $1\leq R_{*c}\leq 1500$ entonces $\tau_{*c}=\frac{0.097}{R_{*c}}+0.077 exp\left \{- (\frac{19.58}{R_{*c}})^{0.3191} \right \}$
   <br>
-  Si $R_{*}> 1500$ entonces $\tau_{*}=0.06$
+  Si $R_{*c}> 1500$ entonces $\tau_{*c}=0.06$
 </div>
 
 Se definió una función en Python para calcular el esfuerzo cortante adimensional utilizando la ecuación de Maza:
@@ -134,6 +136,14 @@ La curva resultante de la ecuación de Maza es:
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/mflatouche/M.TSED/main/Section01/1_MovimientoIncipiente/Img/1_3.jpg">
+</div>
+
+Maza también propuso una ecuación que representa la curva de movimiento incipiente en función de los parámetros $\tau_{*c}$ y $D_{*c}$ :
+
+<div align="center">
+  Si $1\leq D_{*c}\leq 333$ entonces $\tau_{*c}=\frac{0.2196}{D_{*c}}+0.077 exp\left \{- (\frac{30.35}{D_{*c}})^{0.563} \right \}$
+  <br>
+  Si $D_{*c}> 333$ entonces $\tau_{*c}=0.06$
 </div>
 
 ### Ejemplo práctico
