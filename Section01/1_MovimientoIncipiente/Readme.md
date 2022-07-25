@@ -135,7 +135,7 @@ def T_shields(Rc):
 La curva resultante de la ecuación de Maza es:
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mflatouche/M.TSED/main/Section01/1_MovimientoIncipiente/Img/1_3.jpg">
+  <img src="https://raw.githubusercontent.com/mflatouche/M.TSED/main/Section01/1_MovimientoIncipiente/Img/1_2.jpg">
 </div>
 
 Maza también propuso una ecuación que representa la curva de movimiento incipiente en función de los parámetros $\tau_{*c}$ y $D_{*c}$ :
