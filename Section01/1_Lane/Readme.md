@@ -1,4 +1,4 @@
-## PPredicción sobre la respuesta general de un río al cambio
+## Predicción sobre la respuesta general de un río al cambio
 Keywords: `Lane` 
 
 ### Objetivos
