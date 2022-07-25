@@ -121,21 +121,19 @@ Maza encontró una ecuación que representa la curva del diagrama de Shields en 
   <br>
   Si $R_{*c}> 1500$ entonces $\tau_{*c}=0.06$
 </div>
-
+<br>
 Se definió una función en Python para calcular el esfuerzo cortante adimensional utilizando la ecuación de Maza:
 
 ```
-def T_shields(Rc):
+def Tc_Rc(Rc):
     if Rc <= 1500:
         T=(0.097/Rc)+0.077*np.exp(-((19.58/Rc)**0.3191))
     else:
         T=0.06
     return T
 ```
-La curva resultante de la ecuación de Maza es:
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mflatouche/M.TSED/main/Section01/1_MovimientoIncipiente/Img/1_2.jpg">
+  <img src="https://raw.githubusercontent.com/mflatouche/M.TSED/main/Section01/1_MovimientoIncipiente/Img/1_3.jpg">
 </div>
 
 Maza también propuso una ecuación que representa la curva de movimiento incipiente en función de los parámetros $\tau_{*c}$ y $D_{*c}$ :
@@ -144,6 +142,20 @@ Maza también propuso una ecuación que representa la curva de movimiento incipi
   Si $1\leq D_{*c}\leq 333$ entonces $\tau_{*c}=\frac{0.2196}{D_{*c}}+0.077 exp\left \{- (\frac{30.35}{D_{*c}})^{0.563} \right \}$
   <br>
   Si $D_{*c}> 333$ entonces $\tau_{*c}=0.06$
+</div>
+<br>
+Para esta ecuación también se definió una función en Python para obtener $\tau_{*c}$ en función de $D_{*c}$:
+
+```
+def Tc_Dc(Dc):
+    if Dc <= 333:
+        T=(0.2196/Dc)+0.077*np.exp(-((30.35/Dc)**0.563))
+    else:
+        T=0.06
+    return T
+```
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mflatouche/M.TSED/main/Section01/1_MovimientoIncipiente/Img/1_4.jpg">
 </div>
 
 ### Ejemplo práctico
