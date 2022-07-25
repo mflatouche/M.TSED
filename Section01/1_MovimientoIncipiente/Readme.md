@@ -56,7 +56,7 @@ Los resultados de sus experimentos los presentó en el "Diagrama de Shields" com
 
 Donde:
 
-$\tau_{*}$ = Esfuerzo cortante crítico [adimensional]
+$\tau_{*}$ = Esfuerzo cortante adimensional [adimensional]
 
 $R_{*}$ = Número de Reynolds de corte [adimensional]
 
@@ -95,7 +95,22 @@ El segundo parámetro, graficado en las abscisas, se denomina número de Reynold
   <img src="https://raw.githubusercontent.com/mflatouche/M.TSED/main/Section01/1_MovimientoIncipiente/Img/1_2.jpg"width="800px">
 </div>
 
-> Diagrama de Shields. Fuente: Rodríguez Díaz, H. A. (2010)[^1]
+> Diagrama de Shields. Fuente: Instituto de Ingeniería UNAM. (1999)[^2]
+
+En la condición crítica de arrastre, el esfuerzo cortante crítico aparece en los dos parámetros adimensionales, por lo que para determinar $\tau_{c}$ se debe realizar un proceso iterativo. Si se eleva al cuadrado el parámetro $R_{*c}$ y se divide entre el valor de $\tau_{*c}$, al simplificar este valor se obtiene un parámetro adimensional que no contiene la variable $\tau_{c}$ y para no obtener cocientes demasiado grandes, al parámetro adimensional se le extrae la raíz cúbica[^2]:
+
+<div align="center">
+  $D_{*c}=\left (\frac{R_{*c}^{2}}{\tau _{*c}}  \right )^{1/3}=d\left (\frac{\left (\gamma_{s}-\gamma  \right )}{\gamma}\frac{g}{\nu^{2}}  \right )^{1/3}$
+  <br>
+</div>
+<br>
+La relación entre $\tau_{*c}$ y $D_{*c}$ permite determinar directamente el valor de $\tau_{c}$.
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mflatouche/M.TSED/main/Section01/1_MovimientoIncipiente/Img/1_2.jpg"width="800px">
+</div>
+
+> Diagrama de Shields, $D_{*c}$ vs $\tau_{*c}$. Fuente: Instituto de Ingeniería UNAM. (1999)[^2]
 
 Maza propuso una ecuación que representa la curva del diagrama de Shields en función del Número de Reynolds de corte[^2]:
 
