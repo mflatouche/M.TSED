@@ -13,6 +13,31 @@ Los cauces compuestos de material bien gradado tienden a desarrollar una coraza 
 
 En la siguiente figura se presenta un esquema del acorazamiento de un lecho, en donde el lecho original va siendo degradado hasta que se forma en el lecho una capa compuesta del material más grueso.
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mflatouche/M.TSED/main/Section01/1_MovimientoIncipiente/Img/1_1.png" width="600px">
+</div>
+
+> Figura adaptada de: Rodríguez Díaz, H. A. (2010)[^1]
+
+Donde:
+
+$e$ = Espesor total inical del lecho antes del proceso de acorazamiento
+
+$e_{a}$ = Espesor de la capa acorazada
+
+$e_{d}$ = Profundidad de degradación
+
+El espesor de la capa acorazada varía con el tamaño del material de acorazamiento, por lo general, el espesor es dos o tres veces el tamaño de este material y normalmente no supera los 15 cm [^1].
+
+En las siguientes fotos se puede observar un ejemplo del acorazamiento de un lecho, en donde el material de la superficie del lecho del Río De La Plata es mucho más grueso que el material subsuperficial.
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mflatouche/M.TSED/main/Section01/1_MovimientoIncipiente/Img/1_1.png" width="600px">
+</div>
+
+> Fuente: Hydrologic Engineering Center[^3]
+
+
 ### Licencia, cláusulas y condiciones de uso
 
 M.TSED es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](https://github.com/mflatouche/M.TSED/wiki/License).
