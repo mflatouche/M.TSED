@@ -15,6 +15,14 @@ Las ecuaciones de transporte de sedimentos son ecuaciones o algortimos empírico
 
 En general, las ecuaciones de transporte de sedimentos se basan en aproximaciones de [esfuerzos cortantes](https://github.com/mflatouche/M.TSED/tree/main/Section01/1_MovimientoIncipiente) o de la [potencia de la corriente](https://github.com/mflatouche/M.TSED/tree/main/Section01/1_Potencia)[^1]. En los siguientes módulos se presentarán algunas de las ecuaciones utilizadas para cuantificar el transporte de sedimentos.
 
+### Transporte de sedimentos por cuantificar según el caso de estudio
+
+En la literatura existe una gran cantidad de ecuaciones para determinar el potencial de transporte de sedimentos según el modo de transporte (arrastre, suspensión o total), siendo los métodos más completos aquellos que permiten determinar la carga total de sedimentos, sin embargo, no en todos los casos de estudio es necesario determinar el transporte total. Por ejemplo, si se necesita determinar el tiempo en el que se colmata el tramo aguas arriba de una presa derivadora, se tendría que calcular el transporte por arrastre. Por otro lado, si se necesita determinar la pérdida de capacidad del embalse de una gran presa se necesita cuantificar el transporte total, ya que aún las partículas más finas se depositan dentro del embalse [^2].
+
+En la siguiente tabla se indican algunos estudios y el transporte de sedimentos requerido para resolverlos:
+
+> Fuente: Instituto de Ingeniería UNAM. (1999)[^2]
+
 ### Licencia, cláusulas y condiciones de uso
 
 M.TSED es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](https://github.com/mflatouche/M.TSED/wiki/License).
@@ -25,5 +33,6 @@ M.TSED es de uso libre para fines académicos, conoce nuestra licencia, cláusul
 
 
 [^1]: Hydrologic Engineering Center. (s.f.). Hydrologic Engineering Center's (CEIWR-HEC) River Analysis System (HEC-RAS). Obtenido de 1D Sediment Transport Technical Reference Manual: https://www.hec.usace.army.mil/confluence/rasdocs/rassed1d/1d-sediment-transport-technical-reference-manual
-[^2]:Rodríguez Díaz, H. A. (2010). _Hidráulica Fluvial. Fundamentos y aplicaciones. Socavación_. Colombia: Editorial Escuela Colombiana de Ingeniería.
-[^3]: Instituto de Ingeniería UNAM. (1999). _Manual de Ingeniería de Ríos_. México: Universidad Autónoma de México.
+[^2]: Instituto de Ingeniería UNAM. (1999). _Manual de Ingeniería de Ríos_. México: Universidad Autónoma de México.
+[^3]:Rodríguez Díaz, H. A. (2010). _Hidráulica Fluvial. Fundamentos y aplicaciones. Socavación_. Colombia: Editorial Escuela Colombiana de Ingeniería.
+
