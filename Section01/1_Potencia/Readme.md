@@ -7,8 +7,8 @@ Keywords: `Stream power`
 
 ### Alcance
 
-### Definición
-La potencia de la corriente se define como la energía disponible por unidad de área[^1]:
+### Potencia de la corriente. Definición
+La _potencia de la corriente_ se define como la energía disponible por unidad de área[^1]:
 
 <div align="center">
 $P=\gamma  y  S_{o} V$
@@ -30,6 +30,10 @@ $S_{o}$ = Pendiente media del fondo del lecho [$m/m$]
 La capacidad de arrastre está directamente relacionada con la potencia de la corriente[^2] (V,$S_{o}$). La experiencia muestra que es posible estimar el transporte por arrastre en función de variables como el caudal, la velocidad o la pendiente media del lecho [^1].
 
 El caudal base que sigue el talweg altamente sinuoso _(la línea que marca los puntos más profundos a lo largo del cauce del río)_ en un río meándrico genera poca potencia de la corriente; por lo tanto, la capacidad del río para mover sedimentos es limitada. A mayores profundidades, el flujo sigue un curso más recto, lo que aumenta la pendiente, provocando un aumento de las tasas de transporte de sedimentos[^2]. 
+
+### Competencia de la corriente
+
+Se denomina _competencia de la corriente_ al tamaño de la partícula más grande que una corriente puede mover bajo un conjunto dado de condiciones hidráulicas[^2].
 
 ### Licencia, cláusulas y condiciones de uso
 
