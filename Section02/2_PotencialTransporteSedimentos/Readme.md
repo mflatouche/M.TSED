@@ -21,6 +21,8 @@ En la literatura existe una gran cantidad de ecuaciones para determinar el poten
 
 En la siguiente tabla se indican algunos estudios y el transporte de sedimentos requerido para resolverlos:
 
+INCLUIR TABLA PÁG 29 (DOC) DEL CAP 10 MIR
+
 > Fuente: Instituto de Ingeniería UNAM. (1999)[^2]
 
 ### Licencia, cláusulas y condiciones de uso
