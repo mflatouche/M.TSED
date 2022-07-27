@@ -21,7 +21,24 @@ En la literatura existe una gran cantidad de ecuaciones para determinar el poten
 
 En la siguiente tabla se indican algunos estudios y el transporte de sedimentos requerido para resolverlos:
 
-INCLUIR TABLA PÁG 29 (DOC) DEL CAP 10 MIR
+| Estudio | Transporte por cuantificar |
+|---|---|
+| Tiempo de llenado de una pequeña presa derivadora | $G_{B}$ |
+| Tiempo de llenado de una presa derivadora | $G_{B}$ o $G_{BT}$ |
+| Tiempo de llenado de una gran presa | $G_{T}$ |
+| Erosión aguas abajo de grandes presas | $G_{BT}$ |
+| Estabilidad de cauces y rectificaciones | $G_{B}$ o $G_{BT}$ |
+| Derivaciones en ríos hacia canales de riego | $G_{BS}$ |
+| Obras de defensa contra inundaciones |  |
+|           Bordos de protección | $G_{BT}$ |
+|           Desvíos temporales | $G_{BS}$ y $G_{L}$  |
+|           Cauces de alivio | $G_{BS}$ |
+| Bombeo directo de un río | $G_{BS}$ |
+| Tanques de sedimentación | $G_{B}$ o $G_{BT}$ |
+| Desvíos para acuacultura en lagunas costeras o estanques | $G_{BS}$ o $G_{L}$  |
+| Entubamiento de arroyos en su paso por centros urbanos | $G_{BT}$ |
+| Diseño de canales sin arrastre | $G_{B}=0$ (condición crítica de arrastre) |
+| Estudios de erosión y sedimentación de tramso de ríos | $G_{B}$ o $G_{BT}$ |
 
 > Fuente: Instituto de Ingeniería UNAM. (1999)[^2]
 
