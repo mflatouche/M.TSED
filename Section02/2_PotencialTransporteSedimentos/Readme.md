@@ -37,7 +37,7 @@ En la siguiente tabla se indican algunos estudios y el transporte de sedimentos 
 | Desvíos para acuacultura en lagunas costeras o estanques | $G_{BS}$ o $G_{L}$  |
 | Entubamiento de arroyos en su paso por centros urbanos | $G_{BT}$ |
 | Diseño de canales sin arrastre | $G_{B}=0$ (condición crítica de arrastre) |
-| Estudios de erosión y sedimentación de tramso de ríos | $G_{B}$ o $G_{BT}$ |
+| Estudios de erosión y sedimentación de tramos de ríos | $G_{B}$ o $G_{BT}$ |
 
 > Fuente: Instituto de Ingeniería UNAM. (1999)[^2]
 
