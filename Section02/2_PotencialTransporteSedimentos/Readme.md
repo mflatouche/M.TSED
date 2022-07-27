@@ -29,10 +29,9 @@ En la siguiente tabla se indican algunos estudios y el transporte de sedimentos 
 | Erosión aguas abajo de grandes presas | $G_{BT}$ |
 | Estabilidad de cauces y rectificaciones | $G_{B}$ o $G_{BT}$ |
 | Derivaciones en ríos hacia canales de riego | $G_{BS}$ |
-| Obras de defensa contra inundaciones |  |
-|           Bordos de protección | $G_{BT}$ |
-|           Desvíos temporales | $G_{BS}$ y $G_{L}$  |
-|           Cauces de alivio | $G_{BS}$ |
+| Obras de defensa contra inundaciones: Bordos de protección | $G_{BT}$ |
+| Obras de defensa contra inundaciones: Desvíos temporales | $G_{BS}$ y $G_{L}$  |
+| Obras de defensa contra inundaciones: Cauces de alivio | $G_{BS}$ |
 | Bombeo directo de un río | $G_{BS}$ |
 | Tanques de sedimentación | $G_{B}$ o $G_{BT}$ |
 | Desvíos para acuacultura en lagunas costeras o estanques | $G_{BS}$ o $G_{L}$  |
