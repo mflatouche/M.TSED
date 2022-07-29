@@ -1,12 +1,6 @@
 ## Cuantificación del potencial de transporte de sedimentos
 Keywords: `Sediment transport` 
 
-### Objetivos
-
-### Requerimientos
-
-### Alcance
-
 ### Potencial de transporte de sedimentos
 
 El _potencial de transporte de sedimentos_ es la máxima cantidad de sedimentos que se podrían transportar con base en las características hidráulicas dadas de una sección transversal [^1]. Entonces, el potencial de transporte de sedimentos siempre será mayor o igual al transporte real de sedimentos debido a que no tiene en cuenta la cantidad de sedimentos disponibles para el transporte.
