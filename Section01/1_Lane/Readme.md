@@ -25,6 +25,9 @@ $Q_{S}d_{50}\approx QS_{0}$
 </div>
 <br>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mflatouche/M.TSED/main/Section01/1_TransporteDeSedimentos/Img/1_1.png" width="600px">
+</div>
 
 
 ### Licencia, cláusulas y condiciones de uso
