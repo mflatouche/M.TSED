@@ -7,9 +7,14 @@ Los cauces de los ríos y sus llanuras de inundación se ajustan constantemente 
 
 Los cambios en el uso del suelo en la cuenca también pueden provocar niveles de ajuste similares. Del mismo modo, los cambios a largo plazo en la escorrentía o en la producción de sedimentos por causas naturales, como el cambio climático, incendios forestales, etc., o por causas humanas como el cultivo, el sobrepastoreo o las conversiones de zonas rurales a urbanas, pueden provocar ajustes a largo plazo de la sección transversal y la forma de la planta del cauce, que a menudo se describen como _evolución del canal_ [^1]. 
 
-Por lo general, los datos disponibles no son suficientes para realizar predicciones cuantitativas de la respuesta de un río, por lo que solo es posible analizar cualitativamente estos cambios. 
+Por lo general, los datos disponibles no son suficientes para realizar predicciones cuantitativas de la respuesta de un río, por lo que solo es posible analizar cualitativamente estos cambios. Los análisis sobre los posibles cambios en la morfología de un río se pueden resumir estableciendo las siguientes relaciones generales:
 
-
+* La profundidad de la lámina de agua ($y$) es directamente proporcional al caudal líquido ($Q$).
+* El ancho del canal en la superficie libre ($B$ o $T$) es directamente proporcional al caudal líquido ($Q$) y al caudal sólido ($Q_{S}$).
+* La relación del ancho a la profundidad ($B/y$) está directamente relacionada con el caudal sólido ($Q_{S}$).
+* La pendiente del río ($S_{0}$) es inversamente proporcional al caudal líquido ($Q$), y directamente proporcional al caudal sólido ($Q_{S}$) y al tamaño característico del material transportado ($d_{50}$).
+* La sinuosidad ($S$) es directamente proporcional a la pendiente del valle e inversamente proporcional a la carga de sedimentos ($Q_{S}$).
+* El caudal sólido ($Q_{S}$) está directamente relacionado con la potencia de la corriente ($\tau_{0}V$) y con la concentración de material fino ($C_{F}$) e inversamente proprocional al tamaño característico del material transportado ($d_{50}$).
 
 ### Licencia, cláusulas y condiciones de uso
 
