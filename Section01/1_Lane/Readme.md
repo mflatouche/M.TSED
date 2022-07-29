@@ -16,6 +16,17 @@ Por lo general, los datos disponibles no son suficientes para realizar prediccio
 * La sinuosidad ($S$) es directamente proporcional a la pendiente del valle e inversamente proporcional a la carga de sedimentos ($Q_{S}$).
 * El caudal sólido ($Q_{S}$) está directamente relacionado con la potencia de la corriente ($\tau_{0}V$) y con la concentración de material fino ($C_{F}$) e inversamente proprocional al tamaño característico del material transportado ($d_{50}$).
 
+### Analogía de la balanza de Lane
+
+Una de las primeras relaciones propuestas para explicar el comportamiento de los cauces fue sugerida por Lane (1955), que relacionó el caudal líquido ($Q$) y la pendiente del canal ($S_{0}$) con la carga de sedimentos del lecho ($Q_{S}$) y el tamaño medio de las partículas en el lecho del río ($d_{50}$)[^1]:
+
+<div align="center">
+$Q_{S}d_{50}\approx QS_{0}$
+</div>
+<br>
+
+
+
 ### Licencia, cláusulas y condiciones de uso
 
 M.TSED es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](https://github.com/mflatouche/M.TSED/wiki/License).
