@@ -5,7 +5,7 @@ Keywords: `Stream power`
 La _potencia de la corriente_ se define como la energía disponible por unidad de área[^1]:
 
 <div align="center">
-$P=\gamma  y  S_{o} V$
+$P=\gamma  y  S_{0} V$
 </div>
 <br>
 Donde:
@@ -19,7 +19,7 @@ $y$ = Profundidad de la lámina de agua [$m$]
 
 $V$ = Velocidad media de la corriente [$m/s$]
 
-$S_{o}$ = Pendiente media del fondo del lecho [$m/m$]
+$S_{0}$ = Pendiente media del fondo del lecho [$m/m$]
 
 La capacidad de arrastre está directamente relacionada con la potencia de la corriente[^2] (V,$S_{o}$). La experiencia muestra que es posible estimar el transporte por arrastre en función de variables como el caudal, la velocidad o la pendiente media del lecho [^1].
 
