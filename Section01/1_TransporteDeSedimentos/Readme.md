@@ -1,5 +1,5 @@
 ## Transporte de sedimentos 
-Keywords: `Sediment transport` 
+Keywords: `Sediment transport` `Bedload` `Suspended load` `Washload`
 ### Sedimentos
 Se entiende por _sedimentos_ a todas las partículas de suelo y roca de una cuenca que son arrastradas y transportadas por una corriente de agua[^1]. Los sedimentos transportados por un cauce pueden provenir de dos fuentes:
 * **Cuenca**: generados por la erosión de la superficie del terreno de la cuenca hidrográfica debido a la acción del viento y la lluvia. 
