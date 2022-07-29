@@ -25,6 +25,7 @@ $Q_{S}d_{50}\approx QS_{0}$
 
 La relación de Lane sugiere que un canal se mantendrá en equilibrio dinámico cuando los cambios en la carga de sedimentos y en el tamaño del material del lecho se equilibran por los cambios en el caudal líquido o en la pendiente del canal. Un cambio en una de estas variables provoca cambios en una o más de las de las otras variables, de manera que se reestablece el equilibrio dinámico[^1].
 
+**TERMINAR**
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/mflatouche/M.TSED/main/Section01/1_Lane/Img/1_1.png" width="600px">
