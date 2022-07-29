@@ -1,11 +1,5 @@
-## Movimiento Incipiente
-Keywords: `Shear stress` `Shields` 
-
-### Objetivos
-
-### Requerimientos
-
-### Alcance
+## Movimiento incipiente
+Keywords: `Shear stress` `Shields` `Incipient motion`
 
 ### Estudio del movimiento incipiente
 
