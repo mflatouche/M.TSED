@@ -36,9 +36,8 @@ La relación de Lane sugiere que un canal se mantendrá en equilibrio dinámico 
 
 M.TSED es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](https://github.com/mflatouche/M.TSED/wiki/License).
 
-
-| [Actividad anterior]() | [Inicio](https://github.com/mflatouche/M.TSED/wiki) | [Actividad siguiente]()  |
-|------------------------|----------------------------------------------------|----------------------------------------------------------------------------------------|
+| [Anterior]() | [:house: Inicio](https://github.com/rcfdtools/M.TSED/wiki) | [:beginner: Ayuda]()  | [Siguiente]() |
+|---------------------------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
 
 
 [^1]: Federal Agency Stream Restoration Working Group. (2001). Stream Corridor Restoration: Principles, Processes, and Practices. FISRWG.
