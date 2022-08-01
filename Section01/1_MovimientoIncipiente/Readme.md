@@ -98,7 +98,8 @@ En la condición crítica de arrastre, el esfuerzo cortante crítico aparece en 
   <br>
 </div>
 <br>
-La relación entre $\tau_{\*c}$ y $D_{\*c}$ permite determinar directamente el valor de $\tau_{c}$.
+
+La relación entre $\tau_{*c}$ y $D_{*c}$ permite determinar directamente el valor de $\tau_{c}$.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/mflatouche/M.TSED/main/Section01/1_MovimientoIncipiente/Img/1_2.3.png" width="700px">
