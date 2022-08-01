@@ -50,21 +50,21 @@ Los resultados de sus experimentos los presentó en el "Diagrama de Shields" com
 
 Donde:
 
-$\tau_{\*}$ = Esfuerzo cortante adimensional [adimensional]
+$\tau_{\*}$ = Esfuerzo cortante adimensional $[adimensional]$
 
-$R_{\*}$ = Número de Reynolds de corte [adimensional]
+$R_{\*}$ = Número de Reynolds de corte $[adimensional]$
 
-$\tau_{0}$ = Esfuerzo cortante en el lecho [$N/m^{2}$]
+$\tau_{0}$ = Esfuerzo cortante en el lecho $[N/m^{2}]$
 
-$d$ = Diámetro característico de las partículas [$m$]
+$d$ = Diámetro característico de las partículas $[m]$
 
-$\gamma_{s}$ = Peso específico de las partículas [$N/m^{3}$]
+$\gamma_{s}$ = Peso específico de las partículas $[N/m^{3}]$
 
-$\gamma$ = Peso específico del agua [$N/m^{3}$]
+$\gamma$ = Peso específico del agua $[N/m^{3}]$
 
-$\nu$ = Viscosidad cinemática del agua [$m^{2}/s$]
+$\nu$ = Viscosidad cinemática del agua $[m^{2}/s]$
 
-$U_{\*}$ = Velocidad de corte [$m/s$]
+$U_{\*}$ = Velocidad de corte $[m/s]$
 
 La velocidad de corte se define como:
 
@@ -74,11 +74,11 @@ La velocidad de corte se define como:
 
 Donde:
 
-$\rho$ = Densidad del fluido [$kg/m^{3}$]
+$\rho$ = Densidad del fluido $[kg/m^{3}]$
 
-$R$ = Radio hidráulico [$m$]
+$R$ = Radio hidráulico $[m]$
 
-$S_{0}$ = Pendiende del fondo del canal [$m/m$]
+$S_{0}$ = Pendiende del fondo del canal $[m/m]$
 
 
 Las fuerzas promotoras del movimiento están representadas como $\tau_{0}d^{2}$ y explican la acción del agua sobre el fondo. Estas fuerzas son contrarrestadas por la resistencia de las partículas que conforman el lecho (particularmente con su peso sumergido) la cual se puede expresar como $(\gamma_{s}-\gamma)d^{3}$. El primer parámetro de Shields, $\tau_{\*}$, denominado esfuerzo cortante crítico adimensional, relaciona las fuerzas causantes del movimiento con las fuerzas que se oponen a dicho movimiento. Este parámetro corresponde a las ordenadas del diagrama de Shields. Si se expresa $\tau_{0}$ en función de la velocidad de corte $U_{\*}$, el parámetro presenta la misma estructura de un número de Froude[^1].
@@ -99,7 +99,7 @@ En la condición crítica de arrastre, el esfuerzo cortante crítico aparece en 
 </div>
 <br>
 
-La relación entre $\tau_{*c}$ y $D_{*c}$ permite determinar directamente el valor de $\tau_{c}$.
+La relación entre $\tau_{\*c}$ y $D_{\*c}$ permite determinar directamente el valor de $\tau_{c}$.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/mflatouche/M.TSED/main/Section01/1_MovimientoIncipiente/Img/1_2.3.png" width="700px">
