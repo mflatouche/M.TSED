@@ -25,12 +25,13 @@ $Q_{S}d_{50}\approx QS_{0}$
 
 La relación de Lane sugiere que un canal se mantendrá en equilibrio dinámico cuando los cambios en la carga de sedimentos y en el tamaño del material del lecho se equilibran por los cambios en el caudal líquido o en la pendiente del canal. Un cambio en una de estas variables provoca cambios en una o más de las de las otras variables, de manera que se reestablece el equilibrio dinámico[^1].
 
-**TERMINAR**
+Lane propuso la analogía de la balanza en donde se representan las cuatro variables mencionadas anteriormente. En un brazo de la balanza se encuentra ubicado el caudal líquido $(Q)$ sobre el platillo y la magnitud de la pendiente del cauce $(S_{0})$ escalada en el brazo, y en el otro brazo de la balanza se encuentra el caudal sólido $(Q_{S})$ sobre el platillo y la magnitud del tamaño de las partículas $(d_{50})$ escalada en el brazo [^2]. En la siguiente figura se presenta un esquema de la balanza con las variables analizadas.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/mflatouche/M.TSED/main/Section01/1_Lane/Img/1_1.png" width="600px">
 </div>
 
+Partiendo de la condición de equilibrio, si el caudal líquido aumentara o si se incrementara la pendiente del cauce, el fiel de la balanza se movería a la izquierda, indicando erosión; en el caso contrario, si el caudal líquido disminuyera o se redujera la pendiente, el fiel de la balanza se movería a la derecha, indicando sedimentación [^2]. Este mismo análisis puede realizarse con las demás variables.
 
 ### Licencia, cláusulas y condiciones de uso
 
