@@ -140,10 +140,8 @@ En la siguiente figura se muestran representadas esquemáticamente las ecuacione
 
 M.TSED es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](https://github.com/mflatouche/M.TSED/wiki/License).
 
-
-| [Actividad anterior]() | [Inicio](https://github.com/mflatouche/M.TSED/wiki) | [Actividad siguiente]()  |
-|------------------------|----------------------------------------------------|----------------------------------------------------------------------------------------|
-
+| [Anterior]() | [:house: Inicio](https://github.com/rcfdtools/M.TSED/wiki) | [:beginner: Ayuda]()  | [Siguiente]() |
+|---------------------------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
 
 [^1]: Instituto de Ingeniería UNAM. (1999). Manual de Ingeniería de Ríos. México: Universidad Autónoma de México .
 [^2]: Rodríguez Díaz, H. A. (2010). _Hidráulica Fluvial. Fundamentos y aplicaciones. Socavación_. Colombia: Editorial Escuela Colombiana de Ingeniería.
