@@ -45,14 +45,14 @@ Shields realizó sus experimentos en un canal de laboratorio utilizando flujo tu
 Los resultados de sus experimentos los presentó en el "Diagrama de Shields" como función de dos parámetros adimensionales:
 
 <div align="center">
-  $\tau_{*}=\frac{\tau_{0}}{(\gamma_{s}-\gamma)d}$   y   $R_{*}=\frac{U_{*} d}{\nu}$
+  $\tau_{\*}=\frac{\tau_{0}}{(\gamma_{s}-\gamma)d}$   y   $R_{\*}=\frac{U_{\*} d}{\nu}$
 </div>
 
 Donde:
 
-$\tau_{*}$ = Esfuerzo cortante adimensional [adimensional]
+$\tau_{\*}$ = Esfuerzo cortante adimensional [adimensional]
 
-$R_{*}$ = Número de Reynolds de corte [adimensional]
+$R_{\*}$ = Número de Reynolds de corte [adimensional]
 
 $\tau_{0}$ = Esfuerzo cortante en el lecho [$N/m^{2}$]
 
@@ -64,12 +64,12 @@ $\gamma$ = Peso específico del agua [$N/m^{3}$]
 
 $\nu$ = Viscosidad cinemática del agua [$m^{2}/s$]
 
-$U_{*}$ = Velocidad de corte [$m/s$]
+$U_{\*}$ = Velocidad de corte [$m/s$]
 
 La velocidad de corte se define como:
 
 <div align="center">
-  $U_{*}=\sqrt{\frac{\tau_{0}}{\rho}}$   y   $\tau_{0}=\gamma R S_{0}$
+  $U_{\*}=\sqrt{\frac{\tau_{0}}{\rho}}$   y   $\tau_{0}=\gamma R S_{0}$
 </div>
 
 Donde:
@@ -83,7 +83,7 @@ $S_{0}$ = Pendiende del fondo del canal [$m/m$]
 
 Las fuerzas promotoras del movimiento están representadas como $\tau_{0}d^{2}$ y explican la acción del agua sobre el fondo. Estas fuerzas son contrarrestadas por la resistencia de las partículas que conforman el lecho (particularmente con su peso sumergido) la cual se puede expresar como $(\gamma_{s}-\gamma)d^{3}$. El primer parámetro de Shields, $\tau_{\*}$, denominado esfuerzo cortante crítico adimensional, relaciona las fuerzas causantes del movimiento con las fuerzas que se oponen a dicho movimiento. Este parámetro corresponde a las ordenadas del diagrama de Shields. Si se expresa $\tau_{0}$ en función de la velocidad de corte $U_{\*}$, el parámetro presenta la misma estructura de un número de Froude[^1].
 
-El segundo parámetro, graficado en las abscisas, se denomina número de Reynolds de corte, $R_{*}$. Este número de Reynolds utiliza la velocidad de corte como la velocidad significativa, el diámetro característico de las partículas y la viscosidad cinemática[^1]. Al relacionar estos dos parámetros, experimentalmente se estableció una curva que representa la condición crítica de arrastre o de movimiento incipiente, en donde $\tau_{0}=\tau_{c}$. La zona por encima de esta curva, corresponde a situaciones en las que las partículas del cauce son transportadas por el flujo (hay movimiento del material del lecho), y por el contrario, en la zona debajo de la curva no existe movimiento[^2].
+El segundo parámetro, graficado en las abscisas, se denomina número de Reynolds de corte, $R_{\*}$. Este número de Reynolds utiliza la velocidad de corte como la velocidad significativa, el diámetro característico de las partículas y la viscosidad cinemática[^1]. Al relacionar estos dos parámetros, experimentalmente se estableció una curva que representa la condición crítica de arrastre o de movimiento incipiente, en donde $\tau_{0}=\tau_{c}$. La zona por encima de esta curva, corresponde a situaciones en las que las partículas del cauce son transportadas por el flujo (hay movimiento del material del lecho), y por el contrario, en la zona debajo de la curva no existe movimiento[^2].
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/mflatouche/M.TSED/main/Section01/1_MovimientoIncipiente/Img/1_2.2.png" width="700px">
@@ -94,26 +94,26 @@ El segundo parámetro, graficado en las abscisas, se denomina número de Reynold
 En la condición crítica de arrastre, el esfuerzo cortante crítico aparece en los dos parámetros adimensionales, por lo que para determinar $\tau_{c}$ se debe realizar un proceso iterativo. Si se eleva al cuadrado el parámetro $R_{*c}$ y se divide entre el valor de $\tau_{*c}$, al simplificar este valor se obtiene un parámetro adimensional que no contiene la variable $\tau_{c}$ y para no obtener cocientes demasiado grandes, al parámetro adimensional se le extrae la raíz cúbica[^2]:
 
 <div align="center">
-  $D_{*c}=\left (\frac{R_{*c}^{2}}{\tau _{*c}}  \right )^{1/3}=d\left (\frac{\left (\gamma_{s}-\gamma  \right )}{\gamma}\frac{g}{\nu^{2}}  \right )^{1/3}$
+  $D_{\*c}=\left (\frac{R_{*c}^{2}}{\tau _{\*c}}  \right )^{1/3}=d\left (\frac{\left (\gamma_{s}-\gamma  \right )}{\gamma}\frac{g}{\nu^{2}}  \right )^{1/3}$
   <br>
 </div>
 <br>
-La relación entre $\tau_{*c}$ y $D_{*c}$ permite determinar directamente el valor de $\tau_{c}$.
+La relación entre $\tau_{\*c}$ y $D_{\*c}$ permite determinar directamente el valor de $\tau_{c}$.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/mflatouche/M.TSED/main/Section01/1_MovimientoIncipiente/Img/1_2.3.png" width="700px">
 </div>
 
-> Diagrama de Shields, $D_{*c}$ vs $\tau_{*c}$. Fuente: Instituto de Ingeniería UNAM. (1999)[^2]
+> Diagrama de Shields, $D_{\*c}$ vs $\tau_{\*c}$. Fuente: Instituto de Ingeniería UNAM. (1999)[^2]
 
 #### Ecuaciones de Maza
 
 Maza encontró una ecuación que representa la curva del diagrama de Shields en función del Número de Reynolds de corte[^2]:
 
 <div align="center">
-  Si $1\leq R_{*c}\leq 1500$ entonces $\tau_{*c}=\frac{0.097}{R_{*c}}+0.077 exp\left \{- (\frac{19.58}{R_{*c}})^{0.3191} \right \}$
+  Si $1\leq R_{\*c}\leq 1500$ entonces $\tau_{\*c}=\frac{0.097}{R_{\*c}}+0.077 exp\left \{- (\frac{19.58}{R_{\*c}})^{0.3191} \right \}$
   <br>
-  Si $R_{*c}> 1500$ entonces $\tau_{*c}=0.06$
+  Si $R_{\*c}> 1500$ entonces $\tau_{\*c}=0.06$
 </div>
 <br>
 Se definió una función en Python para calcular el esfuerzo cortante adimensional utilizando la ecuación de Maza:
@@ -133,9 +133,9 @@ def Tc_Rc(Rc):
 Maza también propuso una ecuación que representa la curva de movimiento incipiente en función de los parámetros $\tau_{*c}$ y $D_{*c}$ :
 
 <div align="center">
-  Si $1\leq D_{*c}\leq 333$ entonces $\tau_{*c}=\frac{0.2196}{D_{*c}}+0.077 exp\left \{- (\frac{30.35}{D_{*c}})^{0.563} \right \}$
+  Si $1\leq D_{\*c}\leq 333$ entonces $\tau_{\*c}=\frac{0.2196}{D_{\*c}}+0.077 exp\left \{- (\frac{30.35}{D_{\*c}})^{0.563} \right \}$
   <br>
-  Si $D_{*c}> 333$ entonces $\tau_{*c}=0.06$
+  Si $D_{\*c}> 333$ entonces $\tau_{\*c}=0.06$
 </div>
 <br>
 Para esta ecuación también se definió una función en Python para obtener $\tau_{*c}$ en función de $D_{*c}$:
