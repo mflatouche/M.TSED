@@ -40,8 +40,8 @@ En la siguiente tabla se indican algunos estudios y el transporte de sedimentos 
 M.TSED es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](https://github.com/mflatouche/M.TSED/wiki/License).
 
 
-| [Actividad anterior]() | [Inicio](https://github.com/mflatouche/M.TSED/wiki) | [Actividad siguiente]()  |
-|------------------------|----------------------------------------------------|----------------------------------------------------------------------------------------|
+| [Anterior]() | [:house: Inicio](https://github.com/mflatouche/M.TSED/wiki) | [:beginner: Ayuda]()  | [Siguiente]() |
+|---------------------------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
 
 
 [^1]: Hydrologic Engineering Center. (s.f.). Hydrologic Engineering Center's (CEIWR-HEC) River Analysis System (HEC-RAS). Obtenido de 1D Sediment Transport Technical Reference Manual: https://www.hec.usace.army.mil/confluence/rasdocs/rassed1d/1d-sediment-transport-technical-reference-manual
