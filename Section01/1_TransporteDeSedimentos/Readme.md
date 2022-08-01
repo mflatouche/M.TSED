@@ -51,7 +51,7 @@ Los sedimentos pueden ser transportados por una corriente principalmente de las 
   <img src="https://raw.githubusercontent.com/mflatouche/M.TSED/main/Section01/1_TransporteDeSedimentos/Img/1_1.png" width="600px">
 </div>
 
-#### Clasificación del transporte de sedimentos
+### Clasificación del transporte de sedimentos
 Los sedimentos provenientes del material del lecho del cauce son transportados a lo largo del río por arrastre, y periódicamente pueden ser transportados en suspensión debido a la turbulencia del flujo. Los sedimentos provenientes de la cuenca son los materiales más finos, y por lo tanto, son transportados únicamente en suspensión.
 
 ```mermaid
@@ -67,34 +67,6 @@ flowchart LR;
       Suspensión;
    end;
 ```
-#### Distribución de velocidades y concentración de sedimentos en suspensión
-_NOTA: Cambiar de lugar esta sección_
-
-La distribución de velocidades en un flujo turbulento en canales a superficie libre, de acuerdo con la teoría de la capa límite, tiene una distribución logarítmica [^2]:
-
-<div align="center">
-$V(y)=2.5 Ln\left ( \frac{y}{y_{0}} \right )U_{*}$
-</div>
-
-Donde:
-
-$V(y)$ = Velocidad del flujo a una distancia "y" del fondo del canal [$m$]
-
-$y_{0}=\frac{\varepsilon }{30}$ [$m$]
-
-$\varepsilon$ = Rugosidad [$m$]
-
-$U_{*}$ = Velocidad de corte [$m/s$]
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mflatouche/M.TSED/main/Section01/1_TransporteDeSedimentos/Img/1_2.png" width="600px">
-</div>
-
-El **caudal sólido (Q<sub>s</sub>)** es el volumen de sedimentos por unidad de tiempo que cruza una sección transversal del cauce. El **caudal sólido en suspensión por unidad de ancho (q<sub>s</sub>)** se obtiene como:
-
-<div align="center">
-$q_{s}=\int_{0}^{y}C(y)V(y)dy$
-</div>
 
 ### Terminología del transporte de sedimentos
 La terminología del transporte de sedimentos a veces puede ser confusa, por lo tanto, es importante definir algunos de los términos más utilizados y establecer la relación entre ellos [^1].
@@ -136,6 +108,34 @@ En la siguiente figura se muestran representadas esquemáticamente las ecuacione
   <br><img src="https://raw.githubusercontent.com/mflatouche/M.TSED/main/Section01/1_TransporteDeSedimentos/Img/1_3.png" width="550px">
 </div>
 
+### Distribución de velocidades y concentración de sedimentos en suspensión
+_NOTA: Cambiar de lugar esta sección_
+
+La distribución de velocidades en un flujo turbulento en canales a superficie libre, de acuerdo con la teoría de la capa límite, tiene una distribución logarítmica [^2]:
+
+<div align="center">
+$V(y)=2.5 Ln\left ( \frac{y}{y_{0}} \right )U_{*}$
+</div>
+
+Donde:
+
+$V(y)$ = Velocidad del flujo a una distancia "y" del fondo del canal $[m]$
+
+$y_{0}=\frac{\varepsilon }{30}$ $[m]$
+
+$\varepsilon$ = Rugosidad $[m]$
+
+$U_{*}$ = Velocidad de corte $[m/s]$
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mflatouche/M.TSED/main/Section01/1_TransporteDeSedimentos/Img/1_2.png" width="600px">
+</div>
+
+El **caudal sólido (Q<sub>s</sub>)** es el volumen de sedimentos por unidad de tiempo que cruza una sección transversal del cauce. El **caudal sólido en suspensión por unidad de ancho (q<sub>s</sub>)** se obtiene como:
+
+<div align="center">
+$q_{s}=\int_{0}^{y}C(y)V(y)dy$
+</div>
 ### Licencia, cláusulas y condiciones de uso
 
 M.TSED es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](https://github.com/mflatouche/M.TSED/wiki/License).
