@@ -163,7 +163,7 @@ Un cauce está constituido por arenas de tamaño uniforme y conduce agua clara. 
 
 M.TSED es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](https://github.com/mflatouche/M.TSED/wiki/License).
 
-| [Anterior]() | [:house: Inicio](https://github.com/rcfdtools/M.TSED/wiki) | [:beginner: Ayuda]()  | [Siguiente]() |
+| [Anterior]() | [:house: Inicio](https://github.com/mflatouche/M.TSED/wiki) | [:beginner: Ayuda]()  | [Siguiente]() |
 |---------------------------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
 
 
