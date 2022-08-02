@@ -132,11 +132,26 @@ $U_{*}$ = Velocidad de corte $[m/s]$
 La distribución de concentraciones de sedimentos en suspensión, en primera aproximación, tiene una distribución exponencial. Rouse (1937) propuso una ecuación para evaluar la variación vertical de la concentración de sedimentos en suspensión si se conoce la concentración de sedimentos $C_{a}$ a una distancia $a$ sobre el fondo:
 
 <div align="center">
-$\frac{C}{C_{a}}=\left [ \left ( \frac{D-y}{y} \right )\left ( \frac{a}D-a{} \right ) \right ]^{\frac{\omega }{k U_{*}}}$
+$\frac{C(y)}{C_{a}}=\left [ \left ( \frac{D-y}{y} \right )\left ( \frac{a}D-a{} \right ) \right ]^{\frac{\omega }{k U_{*}}}$
 </div>
 
+Donde:
+
+$C(y)$ = Concentración de sedimentos en suspensión a una distancia "y" del fondo del canal $[mg/l]$
+
+$C_{a}$ = Concentración de sedimentos en suspensión conocida a una distancia "a" del fondo del canal $[mg/l]$
+
+$D$ = Profundidad de la lámina de agua $[m]$
+
+$U_{*}$ = Velocidad de corte $[m/s]$
+
+$\omega$ = Velocidad de caída de las partículas $[m/s]$
+
+$k$ = Constante de von-Karman, se considera igual a 0.4
+
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mflatouche/M.TSED/main/Section01/1_TransporteDeSedimentos/Img/1_1.png" width="600px">
+  <img src="https://raw.githubusercontent.com/mflatouche/M.TSED/main/Section01/1_TransporteDeSedimentos/Img/1_2.png" width="600px">
 </div>
 
 . El **caudal sólido en suspensión por unidad de ancho (q<sub>s</sub>)** se obtiene como:
