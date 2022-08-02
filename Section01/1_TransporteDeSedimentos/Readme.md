@@ -132,7 +132,7 @@ $U_{*}$ = Velocidad de corte $[m/s]$
 La distribución de concentraciones de sedimentos en suspensión, en primera aproximación, tiene una distribución exponencial. Rouse (1937) propuso una ecuación para evaluar la variación vertical de la concentración de sedimentos en suspensión si se conoce la concentración de sedimentos $C_{a}$ a una distancia $a$ sobre el fondo:
 
 <div align="center">
-$V(y)=2.5 Ln\left ( \frac{y}{y_{0}} \right )U_{*}$
+$\frac{C}{C_{a}}=\left [ \left ( \frac{d-y}{y} \right )\left ( \frac{a}d-a{} \right ) \right ]^{\frac{\omega }{k U_{*}}}$
 </div>
 
 <div align="center">
