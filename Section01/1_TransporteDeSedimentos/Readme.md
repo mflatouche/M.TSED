@@ -136,7 +136,7 @@ $\frac{C}{C_{a}}=\left [ \left ( \frac{D-y}{y} \right )\left ( \frac{a}D-a{} \ri
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mflatouche/M.TSED/main/Section01/1_TransporteDeSedimentos/Img/1_2.png" width="600px">
+  <img src="https://raw.githubusercontent.com/mflatouche/M.TSED/main/Section01/1_TransporteDeSedimentos/Img/1_1.png" width="600px">
 </div>
 
 . El **caudal sólido en suspensión por unidad de ancho (q<sub>s</sub>)** se obtiene como:
