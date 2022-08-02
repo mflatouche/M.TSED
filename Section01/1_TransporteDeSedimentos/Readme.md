@@ -108,8 +108,10 @@ En la siguiente figura se muestran representadas esquemáticamente las ecuacione
   <br><img src="https://raw.githubusercontent.com/mflatouche/M.TSED/main/Section01/1_TransporteDeSedimentos/Img/1_3.png" width="550px">
 </div>
 
-### Distribución de velocidades y concentración de sedimentos en suspensión
+### Caudal sólido
 _NOTA: Cambiar de lugar esta sección_
+
+El **caudal sólido $(Q_{S})$** es el volumen de sedimentos por unidad de tiempo que cruza una sección transversal del cauce y el **caudal sólido unitario $(q_{S})$** es el caudal sólido por unidad de ancho. El caudal sólido también puede ser expresado en peso por unidad de tiempo. Es preferible utilizar el peso porque porque las medidas realizadas en un río son las velocidades del agua y las concentraciones de material sólido en suspensión [^3].
 
 La distribución de velocidades en un flujo turbulento en canales a superficie libre, de acuerdo con la teoría de la capa límite, tiene una distribución logarítmica [^2]:
 
@@ -131,7 +133,7 @@ $U_{*}$ = Velocidad de corte $[m/s]$
   <img src="https://raw.githubusercontent.com/mflatouche/M.TSED/main/Section01/1_TransporteDeSedimentos/Img/1_2.png" width="600px">
 </div>
 
-El **caudal sólido (Q<sub>s</sub>)** es el volumen de sedimentos por unidad de tiempo que cruza una sección transversal del cauce. El **caudal sólido en suspensión por unidad de ancho (q<sub>s</sub>)** se obtiene como:
+. El **caudal sólido en suspensión por unidad de ancho (q<sub>s</sub>)** se obtiene como:
 
 <div align="center">
 $q_{s}=\int_{0}^{y}C(y)V(y)dy$
@@ -145,3 +147,4 @@ M.TSED es de uso libre para fines académicos, conoce nuestra licencia, cláusul
 
 [^1]: Instituto de Ingeniería UNAM. (1999). Manual de Ingeniería de Ríos. México: Universidad Autónoma de México .
 [^2]: Rodríguez Díaz, H. A. (2010). _Hidráulica Fluvial. Fundamentos y aplicaciones. Socavación_. Colombia: Editorial Escuela Colombiana de Ingeniería.
+[^3]: Martín V., J. P. (2009). _Ingeniería de ríos_. Barcelona: Univ. Politèc. de Catalunya.
