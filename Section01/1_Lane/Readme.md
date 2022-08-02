@@ -33,6 +33,11 @@ Lane propuso la analogía de la balanza en donde se representan las cuatro varia
 
 Partiendo de la condición de equilibrio, si el caudal líquido aumentara o si se incrementara la pendiente del cauce, el fiel de la balanza se movería a la izquierda, indicando erosión; en el caso contrario, si el caudal líquido disminuyera o se redujera la pendiente, el fiel de la balanza se movería a la derecha, indicando sedimentación [^2]. Este mismo análisis puede realizarse con las demás variables.
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mflatouche/M.TSED/main/Section01/1_Lane/Img/1_2.png" width="500px">
+  <img src="https://raw.githubusercontent.com/mflatouche/M.TSED/main/Section01/1_Lane/Img/1_3.png" width="500px">
+</div>
+
 ### Licencia, cláusulas y condiciones de uso
 
 M.TSED es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](https://github.com/mflatouche/M.TSED/wiki/License).
