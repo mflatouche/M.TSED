@@ -154,11 +154,13 @@ $k$ = Constante de von-Karman, se considera igual a 0.4
   <img src="https://raw.githubusercontent.com/mflatouche/M.TSED/main/Section01/1_TransporteDeSedimentos/Img/1_2.png" width="600px">
 </div>
 
-. El **caudal sólido en suspensión por unidad de ancho (q<sub>s</sub>)** se obtiene como:
+El **caudal sólido en suspensión por unidad de ancho (q<sub>s</sub>)** se obtiene como:
 
 <div align="center">
 $q_{s}=\int_{0}^{y}C(y)V(y)dy$
 </div>
+
+
 ### Licencia, cláusulas y condiciones de uso
 
 M.TSED es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](https://github.com/mflatouche/M.TSED/wiki/License).
