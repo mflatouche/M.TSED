@@ -111,7 +111,7 @@ En la siguiente figura se muestran representadas esquemáticamente las ecuacione
 ### Caudal sólido
 _NOTA: Cambiar de lugar esta sección_
 
-El **caudal sólido $(Q_{S})$** es el volumen de sedimentos por unidad de tiempo que cruza una sección transversal del cauce y el **caudal sólido unitario $(q_{S})$** es el caudal sólido por unidad de ancho. El caudal sólido también puede ser expresado en peso por unidad de tiempo. Es preferible utilizar el peso porque porque las medidas realizadas en un río son las velocidades del agua y las concentraciones de material sólido en suspensión [^3].
+El **caudal sólido $(Q_{S})$** es el volumen de sedimentos por unidad de tiempo que cruza una sección transversal del cauce y el **caudal sólido unitario $(q_{S})$** es el caudal sólido por unidad de ancho. El caudal sólido también puede ser expresado en peso por unidad de tiempo. Es preferible utilizar el peso porque porque las medidas realizadas en un río son las velocidades del agua y las concentraciones de material sólido en suspensión, las cuales tienen una distribución en la vertical predecible [^3].
 
 La distribución de velocidades en un flujo turbulento en canales a superficie libre, de acuerdo con la teoría de la capa límite, tiene una distribución logarítmica [^2]:
 
@@ -128,6 +128,12 @@ $y_{0}=\frac{\varepsilon }{30}$ $[m]$
 $\varepsilon$ = Rugosidad $[m]$
 
 $U_{*}$ = Velocidad de corte $[m/s]$
+
+La distribución de concentraciones de sedimentos en suspensión, en primera aproximación, tiene una distribución exponencial. Rouse (1937) propuso una ecuación para evaluar la variación vertical de la concentración de sedimentos en suspensión si se conoce la concentración de sedimentos $C_{a}$ a una distancia $a$ sobre el fondo:
+
+<div align="center">
+$V(y)=2.5 Ln\left ( \frac{y}{y_{0}} \right )U_{*}$
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/mflatouche/M.TSED/main/Section01/1_TransporteDeSedimentos/Img/1_2.png" width="600px">
