@@ -38,6 +38,10 @@ Partiendo de la condición de equilibrio, si el caudal líquido aumentara o si s
   <img src="https://raw.githubusercontent.com/mflatouche/M.TSED/main/Section01/1_Lane/Img/1_3.png" width="500px">
 </div>
 
+### Ejemplo de la aplicación de análisis cualitativos
+
+**PRESA**
+
 ### Licencia, cláusulas y condiciones de uso
 
 M.TSED es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](https://github.com/mflatouche/M.TSED/wiki/License).
