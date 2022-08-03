@@ -3,6 +3,12 @@ Keywords: `Sediment transport`
 
 ### Carga de lavado y carga del material del lecho
 
+Una forma de diferenciar la carga de sedimentos de un arroyo es caracterizarla en función de la fuente inmediata del sedimento transportado. La carga total de sedimentos en un cauce, en cualquier momento y lugar, se divide en dos partes: la carga de lavado y la carga de lecho. La fuente principal de la carga de lavado es la cuenca hidrográfica, producto de procesos de erosión. La fuente de la carga de material del lecho es principalmente el propio lecho del río, pero incluye otras fuentes en la cuenca.
+
+La carga de lavado se compone de las partículas de sedimento más finas transportadas. La turbulencia mantiene la carga de lavado en suspensión. La concentración de la carga de lavado en suspensión es esencialmente independiente de las condiciones hidráulicas de la corriente y por lo tanto no puede ser calculada usando parámetros hidráulicos medidos o estimados, como la velocidad o el caudal líquido. La concentración de la carga de lavado es normalmente una función de la disponibilidad de sedimentos; es decir, la corriente puede transportar la carga de lavado que pueda ser aportada por la cuenca y las riberas (para concentraciones de sedimentos por debajo de aproximadamente 3000 partes por millón).
+
+La carga de material del lecho se compone de los sedimentos de las clases de tamaño que se encuentran en el lecho del río. La carga de material del lecho se mueve a lo largo del lecho del río rodando, deslizándose o en saltación, y puede ser arrastrada periódicamente al flujo por la turbulencia, donde se convierte en una parte de la carga suspendida. La carga de material del lecho está controlada hidráulicamente y puede calcularse utilizando las ecuaciones de transporte de sedimentos discutidas en el Capítulo 8.
+
 [^1]
 
 ### Potencial de transporte de sedimentos
