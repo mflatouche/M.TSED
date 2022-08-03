@@ -23,6 +23,8 @@ En la literatura existe una gran cantidad de ecuaciones para determinar el poten
 
 En la siguiente tabla se indican algunos estudios y el transporte de sedimentos requerido para resolverlos:
 
+<div align="center">
+
 | Estudio | Transporte por cuantificar |
 |---|---|
 | Tiempo de llenado de una pequeña presa derivadora | $G_{B}$ |
@@ -40,6 +42,8 @@ En la siguiente tabla se indican algunos estudios y el transporte de sedimentos 
 | Entubamiento de arroyos en su paso por centros urbanos | $G_{BT}$ |
 | Diseño de canales sin arrastre | $G_{B}=0$ (condición crítica de arrastre) |
 | Estudios de erosión y sedimentación de tramos de ríos | $G_{B}$ o $G_{BT}$ |
+
+</div>
 
 > Fuente: Instituto de Ingeniería UNAM. (1999)[^4]
 
