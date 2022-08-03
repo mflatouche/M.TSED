@@ -69,7 +69,7 @@ flowchart LR;
 ```
 
 ### Terminología del transporte de sedimentos
-La terminología del transporte de sedimentos a veces puede ser confusa, por lo tanto, es importante definir algunos de los términos más utilizados y establecer la relación entre ellos [^1].
+La terminología del transporte de sedimentos a veces puede ser confusa, por lo tanto, es importante definir algunos de los términos más utilizados y establecer la relación entre ellos [^3].
 
 * **Carga de sedimentos o carga total de sedimentos (G<sub>T</sub>)**:la cantidad de sedimento que pasa por cualquier sección transversal de un río en un periodo de tiempo determinado, normalmente un día o un año. _Caudal sólido_, la masa o el volumen de sedimentos que pasa por una sección transversal de un arroyo en una unidad de tiempo. Las unidades típicas para la carga de sedimentos son toneladas, mientras que las unidades de caudal sólido son toneladas por día.
 * **Carga de lavado (G<sub>L</sub>)**: parte de la carga total de sedimentos que está compuesta de las partículas de sedimento que tienen tamaños más finos que los sedimentos encontrados en el lecho del cauce.
@@ -117,4 +117,4 @@ M.TSED es de uso libre para fines académicos, conoce nuestra licencia, cláusul
 
 [^1]: Instituto de Ingeniería UNAM. (1999). Manual de Ingeniería de Ríos. México: Universidad Autónoma de México .
 [^2]: Rodríguez Díaz, H. A. (2010). _Hidráulica Fluvial. Fundamentos y aplicaciones. Socavación_. Colombia: Editorial Escuela Colombiana de Ingeniería.
-[^3]: Martín V., J. P. (2009). _Ingeniería de ríos_. Barcelona: Univ. Politèc. de Catalunya.
+[^3]: Federal Agency Stream Restoration Working Group. (2001). _Stream Corridor Restoration: Principles, Processes, and Practices_. FISRWG.
