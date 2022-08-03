@@ -129,7 +129,7 @@ $\varepsilon$ = Rugosidad $[m]$
 
 $U_{*}$ = Velocidad de corte $[m/s]$
 
-La distribución de concentraciones de sedimentos en suspensión, en primera aproximación, tiene una distribución exponencial. Rouse (1937) propuso una ecuación para evaluar la variación vertical de la concentración de sedimentos en suspensión si se conoce la concentración de sedimentos $C_{a}$ a una distancia $a$ sobre el fondo:
+La distribución de concentraciones de sedimentos en suspensión, en primera aproximación, tiene una distribución exponencial. Rouse (1937) propuso una ecuación para evaluar la variación vertical de la concentración de sedimentos en suspensión si se conoce la concentración de sedimentos $C_{a}$ a una distancia $a$ sobre el fondo [^1]:
 
 <div align="center">
 $\frac{C(y)}{C_{a}}=\left [ \left ( \frac{D-y}{y} \right )\left ( \frac{a}D-a{} \right ) \right ]^{\frac{\omega }{k U_{*}}}$
@@ -154,11 +154,7 @@ $k$ = Constante de von-Karman, se considera igual a 0.4
   <img src="https://raw.githubusercontent.com/mflatouche/M.TSED/main/Section01/1_TransporteDeSedimentos/Img/1_2.png" width="600px">
 </div>
 
-El **caudal sólido en suspensión por unidad de ancho (q<sub>s</sub>)** se obtiene como:
-
-<div align="center">
-$q_{s}=\int_{0}^{y}C(y)V(y)dy$
-</div>
+El caudal sólido en suspensión unitario es la integración en la vertical del producto de la de la velocidad por la concentración $\int_{0}^{D}C(y)V(y)dy$ y se expresa en $[kg-m/s]$. Las mayores concentraciones de material en suspensión conocidas son del orden de 100 g/l en grandes ríos en China (una concentración de 1 g/l ya es considerada extraordinariamente elevada), y las menores son del orden de 1 mg/l en ríos de países europeos [^3].
 
 
 ### Licencia, cláusulas y condiciones de uso
