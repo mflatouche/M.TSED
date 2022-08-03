@@ -111,7 +111,7 @@ En la siguiente figura se muestran representadas esquemáticamente las ecuacione
 ### Caudal sólido
 _NOTA: Cambiar de lugar esta sección_
 
-El **caudal sólido $(Q_{S})$** es el volumen de sedimentos por unidad de tiempo que cruza una sección transversal del cauce y el **caudal sólido unitario $(q_{S})$** es el caudal sólido por unidad de ancho. El caudal sólido también puede ser expresado en peso por unidad de tiempo. Es preferible utilizar el peso porque porque las medidas realizadas en un río son las velocidades del agua y las concentraciones de material sólido en suspensión, las cuales tienen una distribución en la vertical predecible [^3].
+El **caudal sólido $(Q_{S})$** es el volumen de sedimentos por unidad de tiempo que cruza una sección transversal del cauce y el **caudal sólido unitario $(q_{S})$** es el caudal sólido por unidad de ancho. El caudal sólido también puede ser expresado en peso por unidad de tiempo. Es preferible utilizar el peso porque porque las medidas realizadas en un río son las velocidades del agua y las concentraciones de material sólido en suspensión, la cual generalmente se expresa en $[mg/l]$, las cuales tienen una distribución en la vertical predecible [^3].
 
 La distribución de velocidades en un flujo turbulento en canales a superficie libre, de acuerdo con la teoría de la capa límite, tiene una distribución logarítmica [^2]:
 
