@@ -1,4 +1,4 @@
-## Cuantificación del potencial de transporte de sedimentos
+## Cuantificación de transporte de sedimentos
 Keywords: `Sediment transport` 
 
 ### Potencial de transporte de sedimentos
