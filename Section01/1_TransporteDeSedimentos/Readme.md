@@ -8,6 +8,8 @@ Se entiende por _sedimentos_ a todas las partículas de suelo y roca de una cuen
 #### Clasificación de los sedimentos según su tamaño
 En el siguiente cuadro se presenta la clasificación de los sedimentos según su tamaño con base en la clasificación de Rouse. Se muestra claramente lo que se define como arena, grava, suelos granulares y suelos cohesivos, lo cual es de gran utilidad en el transporte de sedimentos [^2].
 
+<div align="center">
+  
 | Tipo de suelo | Nombre | Tamaño | Tamiz |
 |---|---|---|---|
 | _**Suelos granulares**_ |**Canto rodado** |  |  |
@@ -41,6 +43,8 @@ En el siguiente cuadro se presenta la clasificación de los sedimentos según su
 |  | Fina | 1/1024 mm - 1/2048 mm |  |
 |  | Muy fina | 1/2048 mm - 1/4096 mm  |  |
 
+  </div>
+  
 ### Modos de transporte de sedimentos
 Los sedimentos pueden ser transportados por una corriente principalmente de las siguientes formas [^2]: 
 * **Suspensión**: los materiales siguen los mismos movimientos del agua y se desplazan aproximadamente a la misma velocidad, se mantienen en suspensión debido a los remolinos generados por la turbulendia del flujo. En general, se tratan de partículas finas *(limos y arcillas)*, que se depositarán por gravedad sólo cuando el flujo es muy lento o se estanca. Parte del material en suspensión puede ser arcilla coloidal, que puede permanecer en suspensión durante períodos de tiempo muy largos.
