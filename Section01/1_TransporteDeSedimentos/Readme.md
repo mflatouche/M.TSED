@@ -59,7 +59,7 @@ Los sedimentos pueden ser transportados por una corriente principalmente de las 
 Los sedimentos provenientes del material del lecho del cauce son transportados a lo largo del río por arrastre, y periódicamente pueden ser transportados en suspensión debido a la turbulencia del flujo. Los sedimentos provenientes de la cuenca son los materiales más finos, y por lo tanto, son transportados únicamente en suspensión.
 
 <div align="center">
-<br><img src="https://github.com/rcfdtools/R.LTWB/blob/main/Section02/UserCreation/Graph/UserCreationEarthdataFlowchart.svg" width="60%"><br>
+  <img src="https://raw.githubusercontent.com/mflatouche/M.TSED/9ef7567099959ae34d3010cda81feca3fe2113a0/Section01/1_TransporteDeSedimentos/Graph/ModosTransporte.svg" width="60%">
 </div>
 
 ### Terminología del transporte de sedimentos
