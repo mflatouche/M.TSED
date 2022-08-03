@@ -43,7 +43,7 @@ En el siguiente cuadro se presenta la clasificación de los sedimentos según su
 |  | Fina | 1/1024 mm - 1/2048 mm |  |
 |  | Muy fina | 1/2048 mm - 1/4096 mm  |  |
 
-  </div>
+</div>
   
 ### Modos de transporte de sedimentos
 Los sedimentos pueden ser transportados por una corriente principalmente de las siguientes formas [^2]: 
