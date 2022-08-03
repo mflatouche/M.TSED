@@ -58,19 +58,9 @@ Los sedimentos pueden ser transportados por una corriente principalmente de las 
 ### Clasificación del transporte de sedimentos
 Los sedimentos provenientes del material del lecho del cauce son transportados a lo largo del río por arrastre, y periódicamente pueden ser transportados en suspensión debido a la turbulencia del flujo. Los sedimentos provenientes de la cuenca son los materiales más finos, y por lo tanto, son transportados únicamente en suspensión.
 
-```mermaid
-flowchart LR;
-  Cuenca-->Suspensión;
-  Lecho-->Arrastre & Suspensión;
-  subgraph id1["Origen"];
-      Cuenca;
-      Lecho;
-   end;
-   subgraph id2["Modo de transporte"];
-      Arrastre;
-      Suspensión;
-   end;
-```
+<div align="center">
+<br><img src="https://github.com/rcfdtools/R.LTWB/blob/main/Section02/UserCreation/Graph/UserCreationEarthdataFlowchart.svg" width="60%"><br>
+</div>
 
 ### Terminología del transporte de sedimentos
 La terminología del transporte de sedimentos a veces puede ser confusa, por lo tanto, es importante definir algunos de los términos más utilizados y establecer la relación entre ellos [^3].
