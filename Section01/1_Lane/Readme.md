@@ -40,7 +40,10 @@ Partiendo de la condición de equilibrio, si el caudal líquido aumentara o si s
 
 ### Ejemplo de la aplicación de análisis cualitativos
 
-**PRESA**
+Analice la respuesta de un río aguas abajo del sitio en el que se construye una presa.
+
+#### Solución
+
 
 ### Licencia, cláusulas y condiciones de uso
 
