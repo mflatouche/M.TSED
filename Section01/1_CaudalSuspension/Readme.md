@@ -1,5 +1,5 @@
 ## Caudal sólido en suspensión
-Keywords: `Suspended load`
+Keywords: `Suspended load` `Rouse equation`
 
 ### Dsitrbución de velocidades y de concentración de material sólido suspendido
 
