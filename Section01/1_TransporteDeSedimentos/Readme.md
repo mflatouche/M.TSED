@@ -108,10 +108,10 @@ En la siguiente figura se muestran representadas esquemáticamente las ecuacione
   <br><img src="https://raw.githubusercontent.com/mflatouche/M.TSED/main/Section01/1_TransporteDeSedimentos/Img/1_3.png" width="550px">
 </div>
 
-### Caudal sólido
+### Caudal sólido en suspensión
 _NOTA: Cambiar de lugar esta sección_
 
-El **caudal sólido $(Q_{S})$** es el volumen de sedimentos por unidad de tiempo que cruza una sección transversal del cauce y el **caudal sólido unitario $(q_{S})$** es el caudal sólido por unidad de ancho. El caudal sólido también puede ser expresado en peso por unidad de tiempo. Es preferible utilizar el peso porque porque las medidas realizadas en un río son las velocidades del agua y las concentraciones de material sólido en suspensión, la cual generalmente se expresa en $[mg/l]$. Ambas variables tienen una distribución en la vertical predecible [^3].
+El **caudal sólido $(Q_{S})$** es el volumen de sedimentos por unidad de tiempo que cruza una sección transversal del cauce y el **caudal sólido unitario $(q_{S})$** es el caudal sólido por unidad de ancho. El caudal sólido también puede ser expresado en peso por unidad de tiempo. Es preferible utilizar el peso porque porque las medidas realizadas en campo para determinar el caudal sólido en suspensión son la velocidad de la corriente y las concentraciones de material sólido suspendido, las cuales generalmente se expresan en $[mg/l]$ o en $[p.p.m]$. Ambas variables tienen una distribución en la vertical predecible [^1].
 
 La distribución de velocidades en un flujo turbulento en canales a superficie libre, de acuerdo con la teoría de la capa límite, tiene una distribución logarítmica [^2]:
 
