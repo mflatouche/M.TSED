@@ -155,14 +155,14 @@ def Tc_Dc(Dc):
 
 ### Ejemplo práctico
 
-Un cauce está constituido por arenas de tamaño uniforme y conduce agua clara. La densidad relativa promedio de esas arenas es S=2.677209 y el tamaño de las partículas de arena es d=0.241 mm. Si la temperatura del agua es de 15 °C, calcular el esfuerzo cortante crítico del cauce, según el criterio de Shields y utilizando las ecuaciones propuestas por Maza.
-> Enunciado adaptado del Manual de Ingeniería de Ríos[^2]
+Un cauce está constituido por arenas de tamaño uniforme y conduce agua clara. La densidad relativa promedio de esas arenas es S=2.677209 y el tamaño de las partículas de arena es d=0.241 mm. Si la temperatura del agua es de 15 °C, calcular el esfuerzo cortante crítico del cauce, según el criterio de Shields y utilizando las ecuaciones propuestas por Maza [^2].
 
 [:open_file_folder: Solución](https://github.com/mflatouche/M.TSED/blob/main/Section01/1_MovimientoIncipiente/ipnyb/Ejemplo_Shields.ipynb)
 
 ### Ejercicio
 
-Resuelva el problema del ejemplo utilizando el diagrama de Shields 
+Resuelva el problema del ejemplo utilizando el diagrama de Shields en función de $R_{\*c}$  y el diagrama de Shields en función de $D_{\*c}$.
+
 ### Licencia, cláusulas y condiciones de uso
 
 M.TSED es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](https://github.com/mflatouche/M.TSED/wiki/License).
