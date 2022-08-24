@@ -15,13 +15,13 @@ En la siguiente figura se presenta un esquema del acorazamiento de un lecho, en 
 
 Donde:
 
-$e$ = Espesor total inical del lecho antes del proceso de acorazamiento
+$e$ = Espesor total inicial del lecho antes del proceso de acorazamiento
 
 $e_{a}$ = Espesor de la capa acorazada
 
 $e_{d}$ = Profundidad de degradación
 
-El espesor de la capa acorazada varía con el tamaño del material de acorazamiento, por lo general, el espesor es dos o tres veces el tamaño de este material y normalmente no supera los 15 cm [^1].
+El espesor de la capa acorazada varía con el tamaño del material de acorazamiento, por lo general, el espesor es dos o tres veces el tamaño de este material y normalmente no supera los 15 cm[^1].
 
 En las siguientes fotos se puede observar un ejemplo del acorazamiento de un lecho, en donde el material de la superficie del lecho del Río De La Plata es mucho más grueso que el material subsuperficial.
 
