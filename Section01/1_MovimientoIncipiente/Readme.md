@@ -3,11 +3,11 @@ Keywords: `Shear stress` `Shields` `Incipient motion`
 
 ### Estudio del movimiento incipiente
 
-Para el estudio del transporte de sedimentos, es necesario analizar el comienzo del movimiento de las partículas o _movimiento incipiente_. Si se supone una partícula de sedimento de forma esférica sobre el fondo del lecho de un cauce aluvial, con una pentiende longitudinal muy pequeña tal que se pueda despreciar la componente del peso en la dirección del movimiento, se presentan las siguientes fuerzas actuando sobre la partícula[^1].
+Para el estudio del transporte de sedimentos, es necesario analizar el comienzo del movimiento de las partículas o _movimiento incipiente_. Si se supone una partícula de sedimento de forma esférica sobre el fondo del lecho de un cauce aluvial, con una pendiente longitudinal muy pequeña tal que se pueda despreciar la componente del peso en la dirección del movimiento, se presentan las siguientes fuerzas actuando sobre la partícula[^1].
 
 $F_{L}$ = Fuerza ascensional, producida por las componentes verticales de la velocidad
 
-$F_{D}$ = Fuerza de arrastre, producida por las componentes horizonatles de la velocidad
+$F_{D}$ = Fuerza de arrastre, producida por las componentes horizontales de la velocidad
 
 $W_{S}$ = Peso sumergido de la partícula
 
@@ -33,7 +33,7 @@ $M_{0}$ = Momento del movimiento producido por  $F_{D}$ y $F_{R}$
 
 $M_{R}$ = Momento resistente al movimiento debido a $F_{L}$ y $W_{S}$ 
 
-La determinación del movimiento incipiente de las partículas o la condición _crítica_ de arrastre es de gran importancia en la ingeniería fluvial, debido a que permite inferir las condiciones que originarían el transporte de partículas del material del lecho o las condiciones que favorecerían su depositación [^2]. Los criterios más utilizados para determinar el movimiento incipiente toman como referencia los esfuerzos cortantes.
+La determinación del movimiento incipiente de las partículas o la condición _crítica_ de arrastre es de gran importancia en la ingeniería fluvial, debido a que permite inferir las condiciones que originarían el transporte de partículas del material del lecho o las condiciones que favorecerían su deposición[^2]. Los criterios más utilizados para determinar el movimiento incipiente toman como referencia los esfuerzos cortantes.
 
 ### Aproximación de esfuerzos cortantes
 
@@ -78,12 +78,12 @@ $\rho$ = Densidad del fluido $[kg/m^{3}]$
 
 $R$ = Radio hidráulico $[m]$
 
-$S_{0}$ = Pendiende del fondo del canal $[m/m]$
+$S_{0}$ = Pendiente del fondo del canal $[m/m]$
 
 
 Las fuerzas promotoras del movimiento están representadas como $\tau_{0}d^{2}$ y explican la acción del agua sobre el fondo. Estas fuerzas son contrarrestadas por la resistencia de las partículas que conforman el lecho (particularmente con su peso sumergido) la cual se puede expresar como $(\gamma_{s}-\gamma)d^{3}$. El primer parámetro de Shields, $\tau_{\*}$, denominado esfuerzo cortante crítico adimensional, relaciona las fuerzas causantes del movimiento con las fuerzas que se oponen a dicho movimiento. Este parámetro corresponde a las ordenadas del diagrama de Shields. Si se expresa $\tau_{0}$ en función de la velocidad de corte $U_{\*}$, el parámetro presenta la misma estructura de un número de Froude[^1].
 
-El segundo parámetro, graficado en las abscisas, se denomina número de Reynolds de corte, $R_{\*}$. Este número de Reynolds utiliza la velocidad de corte como la velocidad significativa, el diámetro característico de las partículas y la viscosidad cinemática[^1]. Al relacionar estos dos parámetros, experimentalmente se estableció una curva que representa la condición crítica de arrastre o de movimiento incipiente, en donde $\tau_{0}=\tau_{c}$. La zona por encima de esta curva, corresponde a situaciones en las que las partículas del cauce son transportadas por el flujo (hay movimiento del material del lecho), y por el contrario, en la zona debajo de la curva no existe movimiento[^2].
+El segundo parámetro, graficado en las abscisas, se denomina número de Reynolds de corte, $R_{\*}$. Este número de Reynolds utiliza la velocidad de corte como la velocidad significativa, el diámetro característico de las partículas y la viscosidad cinemática[^1]. Al relacionar estos dos parámetros, experimentalmente se estableció una curva que representa la condición crítica de arrastre o de movimiento incipiente, en donde $\tau_{0}=\tau_{c}$. La zona por encima de esta curva, corresponde a situaciones en las que las partículas del cauce son transportadas por el flujo (hay movimiento del material del lecho), y, por el contrario, en la zona debajo de la curva no existe movimiento[^2].
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/mflatouche/M.TSED/main/Section01/1_MovimientoIncipiente/Img/1_2.2.png" width="700px">
@@ -155,7 +155,7 @@ def Tc_Dc(Dc):
 
 ### Actividad resuelta
 
-Un cauce está constituido por arenas de tamaño uniforme y conduce agua clara. La densidad relativa promedio de esas arenas es S=2.677209 y el tamaño de las partículas de arena es d=0.241 mm. Si la temperatura del agua es de 15 °C, calcular el esfuerzo cortante crítico del cauce, según el criterio de Shields y utilizando las ecuaciones propuestas por Maza [^2].
+Un cauce está constituido por arenas de tamaño uniforme y conduce agua clara. La densidad relativa promedio de esas arenas es S=2.677209 y el tamaño de las partículas de arena es d=0.241 mm. Si la temperatura del agua es de 15 °C, calcular el esfuerzo cortante crítico del cauce, según el criterio de Shields y utilizando las ecuaciones propuestas por Maza[^2].
 
 [:open_file_folder: Solución](https://github.com/mflatouche/M.TSED/blob/main/Section01/1_MovimientoIncipiente/ipnyb/Ejemplo_Shields.ipynb)
 
@@ -172,4 +172,4 @@ M.TSED es de uso libre para fines académicos, conoce nuestra licencia, cláusul
 
 
 [^1]: Rodríguez Díaz, H. A. (2010). _Hidráulica Fluvial. Fundamentos y aplicaciones. Socavación_. Colombia: Editorial Escuela Colombiana de Ingeniería.
-[^2]: Instituto de Ingeniería UNAM. (1999). Manual de Ingeniería de Ríos. México: Universidad Autónoma de México .
+[^2]: Instituto de Ingeniería UNAM. (1999). Manual de Ingeniería de Ríos. México: Universidad Autónoma de México.

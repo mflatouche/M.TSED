@@ -21,7 +21,7 @@ $V$ = Velocidad media de la corriente $[m/s]$
 
 $S_{0}$ = Pendiente media del fondo del lecho $[m/m]$
 
-La capacidad de arrastre está directamente relacionada con la potencia de la corriente[^2] $(V,S_{0})$. La experiencia muestra que es posible estimar el transporte por arrastre en función de variables como el caudal, la velocidad o la pendiente media del lecho [^1].
+La capacidad de arrastre está directamente relacionada con la potencia de la corriente[^2] $(V,S_{0})$. La experiencia muestra que es posible estimar el transporte por arrastre en función de variables como el caudal, la velocidad o la pendiente media del lecho[^1].
 
 El caudal base que sigue el talweg altamente sinuoso _(la línea que marca los puntos más profundos a lo largo del cauce del río)_ en un río meándrico genera poca potencia de la corriente; por lo tanto, la capacidad del río para mover sedimentos es limitada. A mayores profundidades, el flujo sigue un curso más recto, lo que aumenta la pendiente, provocando un aumento de las tasas de transporte de sedimentos[^2]. 
 

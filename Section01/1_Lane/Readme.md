@@ -3,7 +3,7 @@ Keywords: `Lane Analogy`
 
 Los cauces de los ríos y sus llanuras de inundación se ajustan constantemente a la cantidad de agua y sedimentos suministrados por la cuenca. Los cambios diarios en el caudal y en la carga de sedimentos resultan en un ajuste frecuente de las formas del lecho y la rugosidad en muchos cauces con lechos móviles. Los cauces también se ajustan periódicamente a eventos extremos de caudales altos y bajos[^1].
 
-Los cambios en el uso del suelo en la cuenca también pueden provocar niveles de ajuste similares. Del mismo modo, los cambios a largo plazo en la escorrentía o en la producción de sedimentos por causas naturales, como el cambio climático, incendios forestales, etc., o por causas humanas como el cultivo, el sobrepastoreo o las conversiones de zonas rurales a urbanas, pueden provocar ajustes a largo plazo de la sección transversal y la forma de la planta del cauce, que a menudo se describen como _evolución del canal_ [^1]. 
+Los cambios en el uso del suelo en la cuenca también pueden provocar niveles de ajuste similares. Del mismo modo, los cambios a largo plazo en la escorrentía o en la producción de sedimentos por causas naturales, como el cambio climático, incendios forestales, etc., o por causas humanas como el cultivo, el sobrepastoreo o las conversiones de zonas rurales a urbanas, pueden provocar ajustes a largo plazo de la sección transversal y la forma de la planta del cauce, que a menudo se describen como _evolución del canal[^1]. 
 
 Por lo general, los datos disponibles no son suficientes para realizar predicciones cuantitativas de la respuesta de un río, por lo que solo es posible analizar cualitativamente estos cambios. Los análisis sobre los posibles cambios en la morfología de un río se pueden resumir estableciendo las siguientes relaciones generales:
 
@@ -23,15 +23,15 @@ $Q_{S}d_{50}\approx QS_{0}$
 </div>
 <br>
 
-La relación de Lane sugiere que un canal se mantendrá en equilibrio dinámico cuando los cambios en la carga de sedimentos y en el tamaño del material del lecho se equilibran por los cambios en el caudal líquido o en la pendiente del canal. Un cambio en una de estas variables provoca cambios en una o más de las de las otras variables, de manera que se reestablece el equilibrio dinámico[^1].
+La relación de Lane sugiere que un canal se mantendrá en equilibrio dinámico cuando los cambios en la carga de sedimentos y en el tamaño del material del lecho se equilibran por los cambios en el caudal líquido o en la pendiente del canal. Un cambio en una de estas variables provoca cambios en una o más de las de las otras variables, de manera que se restablece el equilibrio dinámico[^1].
 
-Lane propuso la analogía de la balanza en donde se representan las cuatro variables mencionadas anteriormente. En un brazo de la balanza se encuentra ubicado el caudal líquido $(Q)$ sobre el platillo y la magnitud de la pendiente del cauce $(S_{0})$ escalada en el brazo, y en el otro brazo de la balanza se encuentra el caudal sólido $(Q_{S})$ sobre el platillo y la magnitud del tamaño de las partículas $(d_{50})$ escalada en el brazo [^2]. En la siguiente figura se presenta un esquema de la balanza con las variables analizadas.
+Lane propuso la analogía de la balanza en donde se representan las cuatro variables mencionadas anteriormente. En un brazo de la balanza se encuentra ubicado el caudal líquido $(Q)$ sobre el platillo y la magnitud de la pendiente del cauce $(S_{0})$ escalada en el brazo, y en el otro brazo de la balanza se encuentra el caudal sólido $(Q_{S})$ sobre el platillo y la magnitud del tamaño de las partículas $(d_{50})$ escalada en el brazo[^2]. En la siguiente figura se presenta un esquema de la balanza con las variables analizadas.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/mflatouche/M.TSED/main/Section01/1_Lane/Img/1_1.png" width="600px">
 </div>
 
-Partiendo de la condición de equilibrio, si el caudal líquido aumentara o si se incrementara la pendiente del cauce, el fiel de la balanza se movería a la izquierda, indicando erosión; en el caso contrario, si el caudal líquido disminuyera o se redujera la pendiente, el fiel de la balanza se movería a la derecha, indicando sedimentación [^2]. Este mismo análisis puede realizarse con las demás variables.
+Partiendo de la condición de equilibrio, si el caudal líquido aumentara o si se incrementara la pendiente del cauce, el fiel de la balanza se movería a la izquierda, indicando erosión; en el caso contrario, si el caudal líquido disminuyera o se redujera la pendiente, el fiel de la balanza se movería a la derecha, indicando sedimentación[^2]. Este mismo análisis puede realizarse con las demás variables.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/mflatouche/M.TSED/main/Section01/1_Lane/Img/1_2.png" width="400px">
@@ -47,7 +47,7 @@ Analice la respuesta de un río aguas abajo del sitio en el que se construye una
 
 #### Solución
 
-La construcción de una presa en un cauce genera aguas arriba de la presa procesos de deposición, de tal manera que el agua descargada hacia aguas abajo contiene una menor cantidad de sedimentos, por lo tanto, se puede afirmar que aguas abajo de la presa el caudal sólido dismiuirá $(Q_{s}^{-})$. De acuerdo con la relación de proporcionalidad definida, si se presume que el diámetro característico y el caudal líquido permanencen constantes, se presentarán procesos de erosión aguas abajo de la presa.
+La construcción de una presa en un cauce genera aguas arriba de la presa procesos de deposición, de tal manera que el agua descargada hacia aguas abajo contiene una menor cantidad de sedimentos, por lo tanto, se puede afirmar que aguas abajo de la presa el caudal sólido disminuirá $(Q_{s}^{-})$. De acuerdo con la relación de proporcionalidad definida, si se presume que el diámetro característico y el caudal líquido permanecen constantes, se presentarán procesos de erosión aguas abajo de la presa.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/mflatouche/M.TSED/main/Section01/1_Lane/Img/1_5.png" width="900px">
