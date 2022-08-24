@@ -47,7 +47,7 @@ Analice la respuesta de un río aguas abajo del sitio en el que se construye una
 
 #### Solución
 
-La construcción de una presa en un cauce genera aguas arriba de la presa procesos de deposición, de tal manera que el agua descargada hacia aguas abajo contiene una menor cantidad de sedimentos, por lo tanto, se puede afirmar que aguas abajo de la presa el caudal sólido disminuirá $(Q_{s}^{-})$. De acuerdo con la relación de proporcionalidad definida, si se presume que el diámetro característico y el caudal líquido permanecen constantes, se presentarán procesos de erosión aguas abajo de la presa.
+La construcción de una presa en un cauce genera aguas arriba de la presa procesos de deposición, de tal manera que el agua descargada hacia aguas abajo contiene una menor cantidad de sedimentos, por lo tanto, se puede afirmar que aguas abajo de la presa el caudal sólido disminuirá $(Q_{S}^{-})$. De acuerdo con la relación de proporcionalidad definida, si se presume que el diámetro característico y el caudal líquido permanecen constantes, se presentarán procesos de erosión aguas abajo de la presa.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/mflatouche/M.TSED/main/Section01/1_Lane/Img/1_5.png" width="700px">
