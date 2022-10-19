@@ -43,7 +43,7 @@ $k$ = Constante de von-Karman, se considera igual a 0.4
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mflatouche/M.TSED/main/Section01/1_CaudalSuspension/Img/1_1.png" width="600px">
+  <img src="./Img/1_1.png" width="600px">
 </div>
 
 El caudal sólido en suspensión unitario es la integración en la vertical del producto de la de la velocidad por la concentración $\int_{0}^{D}C(y)V(y)dy$ y se expresa en $[kg-m/s]$. Las mayores concentraciones de material en suspensión conocidas son del orden de 100 g/l en grandes ríos en China (una concentración de 1 g/l ya es considerada extraordinariamente elevada), y las menores son del orden de 1 mg/l en ríos de países europeos[^3].
