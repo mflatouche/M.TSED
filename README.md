@@ -4,23 +4,23 @@
 <br>Transporte de sedimentos by mlatouchefacenda@gmail.com<br>  
 </div>
 
-<br>En este curso aprenderás a modelar transporte de sedimentos en cauces en una dimensión utilizando la herramienta HEC-RAS. El curso está divido en tres secciones: en la sección 1 aprenderás los conceptos básicos para entender los procesos y factores que afectan el transporte de sedimentos en un cauce aluvial, en la sección 2 se presentan algunas ecuaciones para el cálculo del potencial de transporte de sedimentos y ejemplos de cómo utilizarlas, y en la sección 3 aprenderás a utilizar la herramienta HEC-RAS para el transporte de sedimentos en 1D aplicado a un caso de estudio.
+<br>En este curso aprenderás a modelar transporte de sedimentos en cauces en una dimensión utilizando la herramienta HEC-RAS. El curso está divido en tres secciones: en la sección 1 aprenderás los conceptos básicos para entender los procesos y factores que afectan el transporte de sedimentos en un cauce aluvial, en la sección 2 se presentan algunas ecuaciones para el cálculo del potencial de transporte de sedimentos y ejemplos de cómo emplearlas, y en la sección 3 aprenderás a usar la herramienta HEC-RAS para el transporte de sedimentos en 1D aplicado a un caso de estudio.
 
 La Universidad Escuela Colombiana de Ingeniería Julio Garavito ofrece este curso virtual de educación continuada por medio del cual se ofrece la formación necesaria para realizar modelos de transporte de sedimentos de canales artificiales y/o cauces naturales empleando el programa de HEC-RAS desarrollado por el Centro de Ingeniería Hidrológica (HEC) del US Army Corps of Engineers (USACE). 
 
 ## Sección 1 - Definiciones básicas
 En este módulo aprenderás los conceptos básicos para entender los procesos y factores que afectan el transporte de sedimentos en un cauce aluvial.
 
-| Actividad | Alcance |
-|---|---|
-| [Transporte de sedimentos](https://github.com/mflatouche/M.TSED/tree/main/Section01/1_TransporteDeSedimentos) | Clasificación del transporte de sedimentos según el origen del material y el modo de transporte. Terminología del transporte de sedimentos. |
-| [Clasificación de ríos y cauces](https://github.com/mflatouche/M.TSED/tree/main/Section01/1_ClasificacionRios) | Patrones de cauces. Clasificación de los cauces aluviales con base en los criterios de Schumm. |
-| [Potencia de la corriente](https://github.com/mflatouche/M.TSED/blob/main/Section01/1_Potencia) | Definición y usos. |
-| [Movimiento incipiente](https://github.com/mflatouche/M.TSED/tree/main/Section01/1_MovimientoIncipiente) | Estudio del movimiento incipiente. Aproximación de esfuerzos cortantes de Shields. Ejemplo. |
-| [Acorazamiento](https://github.com/mflatouche/M.TSED/tree/main/Section01/1_Acorazamiento) | Explicación del proceso de acorazamiento de un lecho. |
-| [Caudal sólido en suspensión](https://github.com/mflatouche/M.TSED/tree/main/Section01/1_CaudalSuspension) | Distribución de velocidades y concentración de sedimentos en suspensión en un canal. |
+| Actividad                                                                                                                    | Alcance |
+|------------------------------------------------------------------------------------------------------------------------------|---|
+| [Transporte de sedimentos](./tree/main/Section01/1_TransporteDeSedimentos)                                                   | Clasificación del transporte de sedimentos según el origen del material y el modo de transporte. Terminología del transporte de sedimentos. |
+| [Clasificación de ríos y cauces](https://github.com/mflatouche/M.TSED/tree/main/Section01/1_ClasificacionRios)               | Patrones de cauces. Clasificación de los cauces aluviales con base en los criterios de Schumm. |
+| [Potencia de la corriente](https://github.com/mflatouche/M.TSED/blob/main/Section01/1_Potencia)                              | Definición y usos. |
+| [Movimiento incipiente](https://github.com/mflatouche/M.TSED/tree/main/Section01/1_MovimientoIncipiente)                     | Estudio del movimiento incipiente. Aproximación de esfuerzos cortantes de Shields. Ejemplo. |
+| [Acorazamiento](https://github.com/mflatouche/M.TSED/tree/main/Section01/1_Acorazamiento)                                    | Explicación del proceso de acorazamiento de un lecho. |
+| [Caudal sólido en suspensión](https://github.com/mflatouche/M.TSED/tree/main/Section01/1_CaudalSuspension)                   | Distribución de velocidades y concentración de sedimentos en suspensión en un canal. |
 | [Predicción sobre la respuesta general de un río al cambio](https://github.com/mflatouche/M.TSED/tree/main/Section01/1_Lane) | Estimaciones cualitativas. Explicación de las relaciones generales. Analogía de la balanza de Lane. Ejemplo. |
-| Ecuación de continuidad de sedimentos | Ecuación de Exner. |
+| Ecuación de continuidad de sedimentos                                                                                        | Ecuación de Exner. |
 
 
 ## Sección 2 - Ecuaciones de transporte de sedimentos
