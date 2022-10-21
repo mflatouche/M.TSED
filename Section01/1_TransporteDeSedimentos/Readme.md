@@ -52,14 +52,14 @@ Los sedimentos pueden ser transportados por una corriente principalmente de las 
 * **Saltación**: algunas partículas pueden moverse también sobre el lecho del cauce en *saltación*, el cual es un movimiento de saltos sucesivos discontinuos, se produce cuando una partícula choca con otra, haciendo que rebote hacia arriba y luego caiga de nuevo hacia el lecho. 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mflatouche/M.TSED/main/Section01/1_TransporteDeSedimentos/Img/1_1.png" width="600px">
+  <img src="./Img/1_1.png" width="600px">
 </div>
 
 ### Clasificación del transporte de sedimentos
 Los sedimentos provenientes del material del lecho del cauce son transportados a lo largo del río por arrastre, y periódicamente pueden ser transportados en suspensión debido a la turbulencia del flujo. Los sedimentos provenientes de la cuenca son los materiales más finos, y, por lo tanto, son transportados únicamente en suspensión.
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mflatouche/M.TSED/9ef7567099959ae34d3010cda81feca3fe2113a0/Section01/1_TransporteDeSedimentos/Graph/ModosTransporte.svg" width="60%">
+  <img src="./Graph/ModosTransporte.svg" width="60%">
 </div>
 
 ### Terminología del transporte de sedimentos
@@ -99,7 +99,7 @@ $G_{S}=G_{BS}+G_{L}$
 En la siguiente figura se muestran representadas esquemáticamente las ecuaciones presentadas.
 
 <div align="center">
-  <br><img src="https://raw.githubusercontent.com/mflatouche/M.TSED/main/Section01/1_TransporteDeSedimentos/Img/1_3.png" width="550px">
+  <br><img src="./Img/1_3.png" width="550px">
 </div>
 
 ### Licencia, cláusulas y condiciones de uso
