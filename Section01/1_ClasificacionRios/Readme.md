@@ -11,10 +11,15 @@ En los cauces aluviales, es muy común que estos materiales ocupen una extensió
 
 ### Patrones de cauces
 
+ 
+
 * **Cauces rectos**:
 * **Cauces meándricos**:
 * **Cauces trenzados**:
 
+<div align="center">
+  <img src="./Img/1_1.png" width="450px">
+</div>
 
 ### Clasificación de cauces aluviales
 
@@ -30,6 +35,7 @@ En la siguiente tabla se muestra la clasificación de cauces según Schumm:
 | Carga mixta: carga suspendida del 65-85%, carga por arrastre del 15-35% | 30 | Relación ancho/profundidad 7-25; Sinuosidad 1.5-2.1; Pendiente: moderada | Al comienzo hay mayor sedimentación en las márgenes y luego se presenta sedimentación en el lecho. | Comienza por erosión del fondo del lecho, seguido por ampliación del cauce. |
 | Carga por arrastre: carga del 35-70% | 0 | Relación ancho/profundidad >25; Sinuosidad <1.5; Pendiente: relativamente alta | Sedimentación en el lecho y formación de islas. | Poca erosión del fondo, predomina el ensanchamiento del cauce. |
 </div>
+
 M= porcentaje de limo-arcilla en el perímetro del canal
 
 > Clasificación de cauces aluviales de Schumm. Fuente: chumm, S. A. (1977) [^5]
