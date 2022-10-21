@@ -14,7 +14,7 @@ En este módulo aprenderás los conceptos básicos para entender los procesos y 
 | Actividad                                                                                                                    | Alcance |
 |------------------------------------------------------------------------------------------------------------------------------|---|
 | [Transporte de sedimentos](./tree/main/Section01/1_TransporteDeSedimentos)                                                   | Clasificación del transporte de sedimentos según el origen del material y el modo de transporte. Terminología del transporte de sedimentos. |
-| [Clasificación de ríos y cauces](https://github.com/mflatouche/M.TSED/tree/main/Section01/1_ClasificacionRios)               | Patrones de cauces. Clasificación de los cauces aluviales con base en los criterios de Schumm. |
+| [Clasificación de ríos y cauces](./tree/main/Section01/1_ClasificacionRios)                                                  | Patrones de cauces. Clasificación de los cauces aluviales con base en los criterios de Schumm. |
 | [Potencia de la corriente](https://github.com/mflatouche/M.TSED/blob/main/Section01/1_Potencia)                              | Definición y usos. |
 | [Movimiento incipiente](https://github.com/mflatouche/M.TSED/tree/main/Section01/1_MovimientoIncipiente)                     | Estudio del movimiento incipiente. Aproximación de esfuerzos cortantes de Shields. Ejemplo. |
 | [Acorazamiento](https://github.com/mflatouche/M.TSED/tree/main/Section01/1_Acorazamiento)                                    | Explicación del proceso de acorazamiento de un lecho. |
