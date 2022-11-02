@@ -20,7 +20,6 @@ En este módulo aprenderás los conceptos básicos para entender los procesos y 
 | [Acorazamiento](Section01/1_Acorazamiento)                                    | Explicación del proceso de acorazamiento de un lecho.                                                                                       |
 | [Caudal sólido en suspensión](Section01/1_CaudalSuspension)                   | Distribución de velocidades y concentración de sedimentos en suspensión en un canal.                                                        |
 | [Predicción sobre la respuesta general de un río al cambio](Section01/1_Lane) | Estimaciones cualitativas. Explicación de las relaciones generales. Analogía de la balanza de Lane. Ejemplo.                                |
-| [Ecuación de continuidad de sedimentos](Section01/1_Exner)                    | Ecuación de Exner.                                                                                                                          |
 
 ## Sección 2 - Ecuaciones de transporte de sedimentos
 En este módulo aprenderás el origen de algunas ecuaciones de estimación del potencial de transporte de sedimentos y cómo utilizarlas.
