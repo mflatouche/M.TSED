@@ -3,7 +3,7 @@ Keywords: `Sediment transport`
 
 ### Acoplamiento entre las características hidráulicas y de sedimentos
 
-HEC-RAS es un modelo acoplado explícito, el cual, para cada incremento computacional ($\Deltat$) realiza el tránsito hidráulico y de sedimentos en todo el tramo en estudio.
+HEC-RAS es un modelo acoplado explícito, el cual, para cada incremento computacional ($\Delta t$) realiza el tránsito hidráulico y de sedimentos en todo el tramo en estudio.
 
 En primer lugar, el modelo calcula las características hidráulicas del sistema desde aguas abajo hacia aguas arriba para cada sección transversal. Luego, utilizando las ecuaciones de transporte de sedimentos y las características hidráulicas determinadas previamente, realiza el tránsito de sedimentos desde aguas arriba hacia aguas abajo. Por último, el modelo actualiza las secciones transversales del cauce y comienza otra vez el ciclo para el siguiente incremento computacional. 
 
