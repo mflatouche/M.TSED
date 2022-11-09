@@ -25,28 +25,27 @@ En este módulo aprenderás los conceptos básicos para entender los procesos y 
 ## Sección 2 - Modelo de transporte de sedimentos en HEC-RAS 1D
 En este módulo aprenderás el funcionamiento del software HEC-RAS para transporte de sedimentos en 1D y cómo utilizarlo para tus proyectos.
 
-| Actividad                                                             | Alcance                                                                                                                                                 |
-|-----------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Funcionamiento del modelo de HEC-RAS 1D](Section02/2_Funcionamiento) | Explicación de las ecuaciones básicas que utiliza HEC-RAS para realizar el cálculo del transporte de sedimentos.                                        |
-| Estructura del modelo                                                 | Estructura de los archivos para modelos de transporte de sedimentos de flujo quasi- no permanente y no permanente.                                      |
-| Información de campo                                                  | Información de campo necesaria para construir el modelo de transporte de sedimentos en 1D.                                                              |
-| Datos del modelo. Archivo de geometría                                | Generación del archivo de geometría del modelo.                                                                                                         |
-| Datos del modelo. Archivo de caudal                                   | Generación del archivo de caudal del modelo. Diferencias entre modelación con flujo "quasi-unsteady" y flujo "unsteady". Computational increment.       |
-| Datos del modelo. Archivo de sedimentos                               | Generación del archivo de sedimentos del modelo. Initial conditions and transport parameters. Boundary conditions. Consideraciones. Bed Change Options. |
-| Crear plan de transporte de sedimentos                                | Definir un plan de transporte de sedimentos y ejecutarlo. Opciones de cálculo. Sediment Output Options.                                                 |
-| Visualización e interpretación de resultados                          | Opciones de visualización de resultados. Time series, cross sections, profiles.                                                                         |
+| Actividad                                               | Alcance                                                                                                             |
+|---------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
+| [Funcionamiento del modelo](Section02/2_Funcionamiento) | Explicación de las ecuaciones básicas que utiliza HEC-RAS 1D para realizar el cálculo del transporte de sedimentos. |
+| Estructura del modelo                                   | Estructura de los archivos para modelos de transporte de sedimentos de flujo quasi- no permanente y no permanente.  |
+| Funciones de transporte de sedimentos                   | Ecuaciones de potencial de transporte de sedimentos disponibles en HEC-RAS 1D.                                      |
+| Limitaciones                                            | Limitaciones del modelo de transporte de sedimentos.                                                                |
+| Información de campo                                    | Información de campo necesaria para construir el modelo de transporte de sedimentos en 1D.                          |
 
 ## Sección 3 - Ejemplo práctico. Modelo de transporte de sedimentos en HEC-RAS 1D
 En este último módulo crearás un modelo de transporte de sedimentos para el caso de estudio presentado.
 
-| Actividad                                    | Alcance                                                                         |
-|----------------------------------------------|---------------------------------------------------------------------------------|
-| Presentación caso de estudio                 | Contexto general del proyecto que se va a realizar.                             |
-| Datos del modelo. Archivo de geometría       | Cargar el archivo de geometría del modelo.                                      |
-| Datos del modelo. Archivo de caudal          | Generación del archivo de caudal del modelo con flujo "quasi-unsteady"          |
-| Datos del modelo. Archivo de sedimentos      | Generación del archivo de sedimentos del modelo.                                |
-| Crear plan de transporte de sedimentos       | Definir un plan de transporte de sedimentos y ejecutarlo.                       |
-| Visualización e interpretación de resultados | Opciones de visualización de resultados. Time series, cross sections, profiles. |
+| Actividad                                    | Alcance                                                                                                                                                 |
+|----------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Presentación caso de estudio                 | Contexto general del proyecto que se va a realizar.                                                                                                     |
+| Datos del modelo. Archivo de geometría       | Generación del archivo de geometría del modelo.                                                                                                         |
+| Datos del modelo. Archivo de caudal          | Generación del archivo de caudal del modelo. Computational increment.                                                                                   |
+| Datos del modelo. Archivo de sedimentos      | Generación del archivo de sedimentos del modelo. Initial conditions and transport parameters. Boundary conditions. Consideraciones. Bed Change Options. |
+| Crear plan de transporte de sedimentos       | Definir un plan de transporte de sedimentos y ejecutarlo. Opciones de cálculo. Sediment Output Options.                                                 |
+| Visualización e interpretación de resultados | Opciones de visualización de resultados. Time series, cross sections, profiles.                                                                         |
+| Calibración                                  | Opciones para realizar la calibración del modelo de transporte de sedimentos.                                                                           |
 
-## Enlaces de interés
-* [HEC-RAS 6.2](https://www.hec.usace.army.mil/software/hec-ras/download.aspx)
+## Información adicional
+* [Licencia](LICENSE.md)
+* 
