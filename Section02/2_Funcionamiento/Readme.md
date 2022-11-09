@@ -111,9 +111,27 @@ Métodos disponibles para HEC-RAS 1D:
 
 ### Cambio en la sección transversal
 
-En cada volumen de control se ha determinado un volumen de sedimentos que es erosionado o depositado, a partir de esta estimación se modifica la sección transversal del cauce.
+En cada volumen de control se ha determinado un volumen de sedimentos que es erosionado o depositado, a partir de esta estimación se modifica la sección transversal del cauce. El método Veener es el que utiliza HEC-RAS por defecto. Este método cambia todos los nodos mojados dentro de los límites del lecho móvil la misma distancia vertical. En la siguiente figura se muestra un ejemplo de un cambio en la sección transversal para un caso de sedimentación y uno de erosión.
 
-Existen diferentes métodos para modificar la sección transversal del cauce con base en el cambio en el volumen de sedimentos estimado
+<div align="center">
+    <img src="./Img/2_4.png" width="500px">
+</div>
+
+> Ejemplo del método Veener. Fuente: Hydrologic Engineering Center[^3]
+
+En la imagen se puede observar que el caso de erosión podría representar adecuadamente lo que sucede en la realidad, sin embargo, el caso de sedimentación no tanto. Existe un método alternativo que permite la sedimentación en la llanura. Esta opción maneja la erosión de la misma manera que el método por defecto, confinando la erosión a los límites del lecho móvil. Sin embargo, para el caso de la sedimentación, HEC-RAS distribuye el cambio de lecho de forma equitativa entre todos los nodos mojados, independientemente de que estén o no entre los límites del cauce principal. El principio en el que se basa este método es que las velocidades de erosión o esfuerzos cortantes se limitan al canal principal, pero la sedimentación puede producirse en la llanura de inundación donde el agua que se mueve lentamente permite que el material se deposite[^3].
+
+<div align="center">
+    <img src="./Img/2_5.png" width="500px">
+</div>
+
+> Ejemplo del método Veener con sedimentación en la llanura de inundación. Fuente: Hydrologic Engineering Center[^3]
+
+Después de actualizar las secciones transversales, el modelo calcula las características hidráulicas para el siguiente intervalo de tiempo y repite nuevamente el ciclo.
+
+<div align="center">
+  <img src="./Graph/FuncionamientoHECRAS.svg" width="60%">
+</div>
 
 ### Licencia, cláusulas y condiciones de uso
 
