@@ -48,4 +48,5 @@ En este último módulo crearás un modelo de transporte de sedimentos para el c
 
 ## Información adicional
 * [Licencia](LICENSE.md)
-* 
+* [Definiciones](Definitions.md)
+* [Referencias](References.md)
