@@ -81,12 +81,39 @@ Las partículas de sedimentos con diámetro menor a 0.0625 mm (limos y arcillas)
 
 En los pasos anteriores se determinó el caudal sólido ingresando al volumen de control $(Q_{S (in)})$ y se calculó el caudal sólido que el flujo podría mover utilizando las ecuaciones de transporte de sedimentos $(T_{c})$. Al comparar estos dos valores se tiene un déficit o un exceso de sedimentos:
 
-
-<div align="center">
-    $Q_{S (in)}>T_{c}\rightarrow$ Exceso (sedimentación)
+$Q_{S (in)}>T_{c}\rightarrow$ Exceso (sedimentación)
     
-    $Q_{S (in)} \< T_{c}\rightarrow$ Déficit (erosión)
-</div>
+$Q_{S (in)} \< T_{c}\rightarrow$ Déficit (erosión)
+
+Sin embargo, antes de erosionar o depositar los sedimentos en el volumen de control se deben tener en cuenta ciertos procesos físicos que limitan la cantidad de sedimentos que realmente se pueden erosionar o sedimentar en un intervalo de tiempo, a estos se les llaman _limitantes físicos_.
+
+#### Velocidad de caída _(Fall Velocity)_
+
+El modelo deposita la cantidad de sedimentos que físicamente pueden caer al lecho en un intervalo de tiempo dado.
+
+Métodos disponibles para HEC-RAS 1D:
+
+* Ruby
+* Toffaleti
+* Van Rijn
+* Dietrich
+* Report 12
+
+#### Acorazamiento _(Sorting)_
+
+Una capa de lecho acorazada puede limitar la erosión en el cauce. Los algoritmos de acorazamiento estiman una limitación en la cantidad de material del lecho que puede ser erosionado.
+
+Métodos disponibles para HEC-RAS 1D:
+
+* Thomas Mixing Method (Exner 5)
+* Copeland Mixing Method (Exner 7)
+* Active Layer Mixing Method
+
+### Cambio en la sección transversal
+
+En cada volumen de control se ha determinado un volumen de sedimentos que es erosionado o depositado, a partir de esta estimación se modifica la sección transversal del cauce.
+
+Existen diferentes métodos para modificar la sección transversal del cauce con base en el cambio en el volumen de sedimentos estimado
 
 ### Licencia, cláusulas y condiciones de uso
 
