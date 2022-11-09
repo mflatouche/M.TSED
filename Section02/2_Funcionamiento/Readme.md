@@ -130,7 +130,7 @@ En la imagen se puede observar que el caso de erosión podría representar adecu
 Después de actualizar las secciones transversales, el modelo calcula las características hidráulicas para el siguiente intervalo de tiempo y repite nuevamente el ciclo.
 
 <div align="center">
-  <img src="./Graph/FuncionamientoHECRAS.svg" width="60%">
+  <img src="./Graph/FuncionamientoHECRAS.svg">
 </div>
 
 ### Licencia, cláusulas y condiciones de uso
