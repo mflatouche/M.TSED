@@ -58,7 +58,7 @@ HEC-RAS resuelve la ecuación de continuidad de sedimentos calculando una capaci
 Las ecuaciones de transporte de sedimentos generalmente están planteadas para un único tamaño de partícula, sin embargo, en la realidad ese no es el caso que se presenta. HEC-RAS divide los sedimentos en múltiples intervalos de clase y calcula el potencial de transporte de sedimentos para cada uno de estos. La capacidad de transporte para cada intervalo de clase es el potencial de transporte de sedimentos multiplicado por el porcentaje de ese tamaño de particula presente en el material del lecho, el cual es el material disponible para ser transportado. Entonces, la capacidad total de transporte es:
 
 <div align="center">
-  $T_{c}=\sum_{j=1}^{n}\beta _{j}T_{j}$
+  $T_{c}={\sum_{j=1}}^{n}\beta _{j}T_{j}$
 </div>
 
 Donde:
