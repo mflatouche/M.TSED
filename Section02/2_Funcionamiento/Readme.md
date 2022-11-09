@@ -53,6 +53,41 @@ $V$ = Volumen de material sólido
 
 HEC-RAS resuelve la ecuación de continuidad de sedimentos calculando una capacidad de transporte de sedimentos para el volumen de control $(Q_{S (out)})$ asociada a cada sección transversal, comparándola con el caudal de sedimentos $(Q_{S (in)})$ que entra en el volumen de control desde aguas arriba. Si la capacidad de transporte es mayor que el caudal sólido ingresando al volumen de control, HEC-RAS satisface el déficit mediante la erosión de los sedimentos del lecho. Si la oferta supera la capacidad, HEC-RAS deposita el excedente de sedimentos[^3].
 
+### Tránsito de sedimentos por tamaño de partícula
+
+Las ecuaciones de transporte de sedimentos generalmente están planteadas para un único tamaño de partícula, sin embargo, en la realidad ese no es el caso que se presenta. HEC-RAS divide los sedimentos en múltiples intervalos de clase y calcula el potencial de transporte de sedimentos para cada uno de estos. La capacidad de transporte para cada intervalo de clase es el potencial de transporte de sedimentos multiplicado por el porcentaje de ese tamaño de particula presente en el material del lecho, el cual es el material disponible para ser transportado. Entonces, la capacidad total de transporte es:
+
+<div align="center">
+  $T_{c}=\sum_{j=1}^{n}\beta _{j}T_{j}$
+</div>
+
+Donde:
+
+$T_{c}$ = Capacidad total de transporte de sedimentos
+
+$n$ = Cantidad de intervalos de clase 
+
+$\beta _{j}$ = Porcentaje del material del intervalo de clase "j" presente en la capa activa del lecho
+
+$T_{j}$ = Potencial de transporte de sedimentos calculado para el material del intervalo de clase "j"
+
+Las partículas de sedimentos con diámetro menor a 0.0625 mm (limos y arcillas) son materiales cohesivos, esto cambia significativamente la forma en que el material se transporta. En este tipo de material se tiene tanta área superficial que las fuerzas electroquímicas entre las partículas son más relevantes que las fuerzas debidas a la gravedad, por lo tanto, se tienen que utilizar diferentes algoritmos para estos determinar la capacidad de transporte de estos materiales.
+
+<div align="center">
+    <img src="./Img/2_3.png" width="500px">
+</div>
+
+### Limitantes físicos
+
+En los pasos anteriores se determinó el caudal sólido ingresando al volumen de control $(Q_{S (in)})$ y se calculó el caudal sólido que el flujo podría mover utilizando las ecuaciones de transporte de sedimentos $(T_{c})$. Al comparar estos dos valores se tiene un déficit o un exceso de sedimentos:
+
+<div align="center">
+    $Q_{S (in)}>T_{c}\rightarrow$ Exceso (sedimentación)
+    <br>
+    $Q_{S (in)}"<"T_{c}\rightarrow$ Déficit (erosión)
+</div>
+
+
 ### Licencia, cláusulas y condiciones de uso
 
 M.TSED es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](https://github.com/mflatouche/M.TSED/wiki/License).
