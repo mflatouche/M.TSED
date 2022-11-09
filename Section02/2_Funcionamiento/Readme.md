@@ -83,7 +83,7 @@ En los pasos anteriores se determinó el caudal sólido ingresando al volumen de
 
 $Q_{S (in)}>T_{c}\rightarrow$ Exceso (sedimentación)
 
-$Q_{S (in)}<T_{c}\rightarrow$ Déficit (erosión)
+$Q_{S (in)} \< T_{c}\rightarrow$ Déficit (erosión)
 
 
 ### Licencia, cláusulas y condiciones de uso
