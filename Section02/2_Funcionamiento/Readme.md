@@ -81,11 +81,9 @@ Las partículas de sedimentos con diámetro menor a 0.0625 mm (limos y arcillas)
 
 En los pasos anteriores se determinó el caudal sólido ingresando al volumen de control $(Q_{S (in)})$ y se calculó el caudal sólido que el flujo podría mover utilizando las ecuaciones de transporte de sedimentos $(T_{c})$. Al comparar estos dos valores se tiene un déficit o un exceso de sedimentos:
 
-<div align="center">
-    $Q_{S (in)}>T_{c}\rightarrow$ Exceso (sedimentación)
-    <br>
-    $Q_{S (in)}<T_{c}\rightarrow$ Déficit (erosión)
-</div>
+$Q_{S (in)}>T_{c}\rightarrow$ Exceso (sedimentación)
+
+$Q_{S (in)}<T_{c}\rightarrow$ Déficit (erosión)
 
 
 ### Licencia, cláusulas y condiciones de uso
