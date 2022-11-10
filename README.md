@@ -30,7 +30,7 @@ En este módulo aprenderás el funcionamiento del software HEC-RAS para transpor
 | [Funcionamiento del modelo](Section02/2_Funcionamiento) | Explicación de las ecuaciones básicas que utiliza HEC-RAS 1D para realizar el cálculo del transporte de sedimentos. |
 | Estructura del modelo                                   | Estructura de los archivos para modelos de transporte de sedimentos de flujo quasi- no permanente y no permanente.  |
 | Funciones de transporte de sedimentos                   | Ecuaciones de potencial de transporte de sedimentos disponibles en HEC-RAS 1D.                                      |
-| Limitaciones                                            | Limitaciones del modelo de transporte de sedimentos.                                                                |
+| [Limitaciones](Section02/2_Limitaciones)                | Limitaciones del modelo de transporte de sedimentos.                                                                |
 | Información de campo                                    | Información de campo necesaria para construir el modelo de transporte de sedimentos en 1D.                          |
 
 ## Sección 3 - Ejemplo práctico. Modelo de transporte de sedimentos en HEC-RAS 1D
