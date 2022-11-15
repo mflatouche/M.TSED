@@ -34,12 +34,12 @@ La selección del modelo hidrodinámico apropiado para un análisis de transport
 
 En la siguiente tabla se muestran algunas características de los dos enfoques hidrodinámicos:
 
-| Cuasi-no permanente | No permanente |
-|---|---|
-| Resuelve las ecuaciones de flujo permanente para una serie de caudales con tiempos asociados (un histograma). | Resuelve las ecuaciones de Saint-Venant de forma implícita. |
-| No conserva el caudal ni tiene en cuenta el almacenamiento. | Conserva el caudal y tiene en cuenta del almacenamiento en embalses. |
-| Más estable. | Menos estable. El cambio en las secciones transversales puede incrementar las inestabilidades del modelo, comunes a la solución de Saint-Venant. |
-| Limitado a las opciones de flujo permanente. | Se dispone de condiciones de frontera de flujo complejas que incluyen interflujos de aguas subterráneas, reglas, estructuras laterales, controles de compuertas internas, bombas y otros. |
+| Cuasi-no permanente | No permanente                                                                                                                                                                                            |
+|---|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Resuelve las ecuaciones de flujo permanente para una serie de caudales con tiempos asociados (un histograma). | Resuelve las ecuaciones de Saint-Venant de forma implícita.                                                                                                                                              |
+| No conserva el caudal ni tiene en cuenta el almacenamiento. | Conserva el caudal y tiene en cuenta del almacenamiento en embalses.                                                                                                                                     |
+| Más estable. | Menos estable. El cambio en las secciones transversales puede incrementar las inestabilidades del modelo, comunes a la solución de Saint-Venant.                                                         |
+| Limitado a las opciones de flujo permanente. | Se dispone de condiciones de frontera de flujo complejas que incluyen interflujos de aguas subterráneas, reglas operacionales , estructuras laterales, controles de compuertas internas, bombas y otros. |
 > Criterios de decisión para la selección de simulaciones de transporte de sedimentos con flujo cuasi-no permanente o flujo no permanente. Adaptado de: Hydrologic Engineering Center[^1]
 
 
