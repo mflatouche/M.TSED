@@ -13,7 +13,7 @@ La carga de material del lecho se mueve a lo largo del lecho del río rodando, d
 
 El _potencial de transporte de sedimentos_ es la máxima cantidad de sedimentos que se podrían transportar con base en las características hidráulicas dadas de una sección transversal[^2]. Entonces, el potencial de transporte de sedimentos siempre será mayor o igual al transporte real de sedimentos debido a que no tiene en cuenta la cantidad de sedimentos disponibles para el transporte.
 
-Las ecuaciones de transporte de sedimentos del material del lecho son ecuaciones o algortimos empíricos que determinan el potencial de transporte de sedimentos de una corriente en función de sus características hidráulicas y de las características geométricas y granulométricas del cauce[^3]. Sin embargo, cada ecuación fue desarrollada para condiciones particulares, las cuales deben ser consideradas y con el objetivo de escoger la ecuación que mejor se adapte a las características del sistema analizado.
+Las ecuaciones de transporte de sedimentos del material del lecho son ecuaciones o algoritmos empíricos que determinan el potencial de transporte de sedimentos de una corriente en función de sus características hidráulicas y de las características geométricas y granulométricas del cauce[^3]. Sin embargo, cada ecuación fue desarrollada para condiciones particulares, las cuales deben ser consideradas con el objetivo de escoger la ecuación que mejor se adapte a las características del sistema analizado.
 
 En general, las ecuaciones de transporte de sedimentos se basan en aproximaciones de [esfuerzos cortantes](./Section01/1_MovimientoIncipiente) o de la [potencia de la corriente](./Section01/1_Potencia)[^2].
 
