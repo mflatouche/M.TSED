@@ -4,9 +4,42 @@
 <br>Transporte de sedimentos by mlatouchefacenda@gmail.com<br>  
 </div>
 
-<br>En este curso aprenderás a modelar transporte de sedimentos en cauces en una dimensión utilizando la herramienta HEC-RAS. El curso está divido en tres secciones: en la sección 1 aprenderás los conceptos básicos para entender los procesos y factores que afectan el transporte de sedimentos en un cauce aluvial, en la sección 2 se presentan algunas ecuaciones para el cálculo del potencial de transporte de sedimentos y ejemplos de cómo emplearlas, y en la sección 3 aprenderás a usar la herramienta HEC-RAS para el transporte de sedimentos en 1D aplicado a un caso de estudio.
+<br>
+
+Los ríos naturalmente mantienen un equilibrio dinámico, los cauces y las llanuras de inundación de se ajustan constantemente a través de los procesos de transporte de sedimentos: erosión y sedimentación. Para mantener el desarrollo cultural y económico a lo largo de un río, es esencial que entendamos los principios básicos del transporte de sedimentos. Estos principios pueden ser aplicados en la resolución de problemas ambientales y de ingeniería asociados a eventos naturales y las actividades humanas.
+
+En este curso aprenderás a modelar transporte de sedimentos en cauces en una dimensión utilizando la herramienta HEC-RAS. El curso esta divido en tres secciones: en la sección 1 aprenderás los conceptos básicos para entender los procesos y factores que afectan el transporte de sedimentos en un cauce aluvial, en la sección 2 se presentan las ecuaciones básicas y el funcionamiento del modelo HEC-RAS, y finalmente, en la sección 3 emplearemos la herramienta HEC-RAS para el desarrollo de un modelo de transporte de sedimentos en 1D de un caso de estudio.
 
 La Universidad Escuela Colombiana de Ingeniería Julio Garavito ofrece este curso virtual de educación continuada por medio del cual se ofrece la formación necesaria para realizar modelos de transporte de sedimentos de canales artificiales y/o cauces naturales empleando el programa de HEC-RAS desarrollado por el Centro de Ingeniería Hidrológica (HEC) del US Army Corps of Engineers (USACE). 
+
+### Dirigido a
+Entidades públicas, empresas prestadoras de servicios, autoridades ambientales, privados, profesionales y/o estudiantes en Ingeniería Civil, Ingeniería Sanitaria y Ambiental, personal que labore áreas de consultoría en la Gestión del Riesgo, en el sector de agua e ingeniería fluvial.
+
+### Objetivos
+En este curso aprenderás los conocimientos básicos acerca del análisis y modelación de transporte de sedimentos necesarios para el manejo del software de simulación de transporte de sedimentos unidimensional en HEC-RAS, de forma que sea capaz de aplicarlo en la resolución de casos prácticos relacionados con la ingeniería fluvial.
+
+* Entender los conceptos básicos del transporte de sedimentos.
+* Comprender las características generales de funcionamiento del software HEC-RAS para la modelación de transporte de sedimentos unidimensional. 
+* Aplicar la herramienta de modelación HEC-RAS en solución de casos prácticos de ingeniería.
+
+### Metodología
+El curso virtual tendrá un enfoque teórico-práctico. La parte teórica comprende videos y presentaciones de forma tal que se abarcan los conceptos básicos sobre el transporte de sedimentos y el funcionamiento del software HEC-RAS; y como parte del componente práctico, se desarrollarán ejemplos de modelación y ejecuciones del modelo.
+
+* Se revisan los conceptos teóricos y procesos de métodos básicos de creación de modelos de transporte de sedimentos, incluyendo en ejercicios resueltos paso a paso. Tanto los fundamentos como las prácticas con HEC-RAS están explicados en documentos de texto, presentaciones, y videotutoriales.
+* El material multimedia está disponible en un repositorio GitHub con videos asociados a la plataforma YouTube, al que cada alumno puede acceder libremente.
+* El aprendizaje es remoto, y, por lo tanto, resulta compatible con su actividad diaria: el alumno hace el curso a su ritmo, siguiendo su mejor horario.
+* Es posible contar con acompañamiento y certificación del curso, para esto consulta la página de la [Escuela](https://www.escuelaing.edu.co/es/). Para esto se incluyen actividades con HEC-RAS para evaluar el aprovechamiento y aprendizaje del curso.
+* Las consultas pueden formularse por medio del espacio de [🔰Ayuda]() del repositorio en GitHub o mensaje en plataforma de Microsoft Teams en el caso de acompañamiento y certificación.
+
+### Requisitos académicos
+* Ser estudiante o profesional en ingeniería civil, ambiental, sanitario o carreras afines.
+* Nociones básicas de ingeniería fluvial.
+* Conocimientos en modelación hidráulica con HEC-RAS
+
+### Requisitos técnicos
+* Computador con Microsoft® Windows 98/NT/2000/XP/Vista/7/8/8.1/10, audio y video.
+* Contar con conexión a internet.
+* Software de modelación hidráulica HEC-RAS.
 
 ## Sección 1 - Definiciones básicas
 En este módulo aprenderás los conceptos básicos para entender los procesos y factores que afectan el transporte de sedimentos en un cauce aluvial.
