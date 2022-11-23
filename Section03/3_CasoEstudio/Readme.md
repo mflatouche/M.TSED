@@ -3,7 +3,13 @@ Keywords: `Case study` `Colombia` `Sediment transport`
 
 ### Generalidades
 
-El caso de estudio que se va a analizar fue adaptado con fines académicos. Este corresponde a un tramo de aproximadamente 11 km de longitud del Arroyo San Antonio, ubicado en el departamento del Cesar, Colombia. En este tramo, al Arroyo San Antonio le llegan tres afluentes: Caño Piedras, Caño NN y Caño Melánquez; al inicio del tramo de estudio y en la entrega de los afluentes al arroyo se cuentan con registros de caudales diarios del año 2010.
+El caso de estudio que se va a analizar fue adaptado con fines académicos. Este corresponde a un tramo de aproximadamente 11 km de longitud del Arroyo San Antonio, ubicado en el departamento del Cesar, Colombia. 
+
+<div align="center">
+    <img src="./Img/3_4.png" width="500px">
+</div>
+
+En este tramo, al Arroyo San Antonio le llegan tres afluentes: Caño Piedras, Caño NN y Caño Melánquez; al inicio del tramo de estudio y en la entrega de los afluentes al arroyo se cuentan con registros de caudales diarios del año 2010.
 
 <div align="center">
     <img src="./Img/3_1.png" width="700px">
