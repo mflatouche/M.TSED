@@ -8,9 +8,7 @@
 
 Los ríos naturalmente mantienen un equilibrio dinámico, los cauces y las llanuras de inundación de se ajustan constantemente a través de los procesos de transporte de sedimentos: erosión y sedimentación. Para mantener el desarrollo cultural y económico a lo largo de un río, es esencial que entendamos los principios básicos del transporte de sedimentos. Estos principios pueden ser aplicados en la resolución de problemas ambientales y de ingeniería asociados a eventos naturales y las actividades humanas.
 
-En este curso aprenderás a modelar transporte de sedimentos en cauces en una dimensión utilizando la herramienta HEC-RAS. El curso esta divido en tres secciones: en la sección 1 aprenderás los conceptos básicos para entender los procesos y factores que afectan el transporte de sedimentos en un cauce aluvial, en la sección 2 se presentan las ecuaciones básicas y el funcionamiento del modelo HEC-RAS, y finalmente, en la sección 3 emplearemos la herramienta HEC-RAS para el desarrollo de un modelo de transporte de sedimentos en 1D de un caso de estudio.
-
-La Universidad Escuela Colombiana de Ingeniería Julio Garavito ofrece este curso virtual de educación continuada por medio del cual se ofrece la formación necesaria para realizar modelos de transporte de sedimentos de canales artificiales y/o cauces naturales empleando el programa de HEC-RAS desarrollado por el Centro de Ingeniería Hidrológica (HEC) del US Army Corps of Engineers (USACE). 
+La Universidad Escuela Colombiana de Ingeniería Julio Garavito ofrece este curso virtual de educación continuada por medio del cual aprenderás a realizar modelaciones de transporte de sedimentos en una dimensión en cauces, utilizando la herramienta HEC-RAS. El curso esta divido en tres secciones: en la sección 1 aprenderás los conceptos básicos para entender los procesos y factores que afectan el transporte de sedimentos en un cauce aluvial, en la sección 2 se presentan las ecuaciones básicas y el funcionamiento del modelo HEC-RAS, y finalmente, en la sección 3 emplearemos la herramienta HEC-RAS para el desarrollo de un modelo de transporte de sedimentos en 1D de un caso de estudio.
 
 ### Dirigido a
 Entidades públicas, empresas prestadoras de servicios, autoridades ambientales, privados, profesionales y/o estudiantes en Ingeniería Civil, Ingeniería Sanitaria y Ambiental, personal que labore áreas de consultoría en la Gestión del Riesgo, en el sector de agua e ingeniería fluvial.
@@ -27,14 +25,14 @@ El curso virtual tendrá un enfoque teórico-práctico. La parte teórica compre
 
 * Se revisan los conceptos teóricos y procesos de métodos básicos de creación de modelos de transporte de sedimentos, incluyendo en ejercicios resueltos paso a paso. Tanto los fundamentos como las prácticas con HEC-RAS están explicados en documentos de texto, presentaciones, y videotutoriales.
 * El material multimedia está disponible en un repositorio GitHub con videos asociados a la plataforma YouTube, al que cada alumno puede acceder libremente.
-* El aprendizaje es remoto, y, por lo tanto, resulta compatible con su actividad diaria: el alumno hace el curso a su ritmo, siguiendo su mejor horario.
+* El aprendizaje es remoto, y, por lo tanto, resulta compatible con su actividad diaria: el alumno hace el curso a su ritmo, siguiendo su mejoSer horario.
 * Es posible contar con acompañamiento y certificación del curso, para esto consulta la página de la [Escuela](https://www.escuelaing.edu.co/es/). Para esto se incluyen actividades con HEC-RAS para evaluar el aprovechamiento y aprendizaje del curso.
 * Las consultas pueden formularse por medio del espacio de [🔰Ayuda]() del repositorio en GitHub o mensaje en plataforma de Microsoft Teams en el caso de acompañamiento y certificación.
 
 ### Requisitos académicos
 * Ser estudiante o profesional en ingeniería civil, ambiental, sanitario o carreras afines.
 * Nociones básicas de ingeniería fluvial.
-* Conocimientos en modelación hidráulica con HEC-RAS
+* Conocimientos en modelación hidráulica con HEC-RAS.
 
 ### Requisitos técnicos
 * Computador con Microsoft® Windows 98/NT/2000/XP/Vista/7/8/8.1/10, audio y video.
@@ -69,15 +67,15 @@ En este módulo aprenderás el funcionamiento del software HEC-RAS para transpor
 ## Sección 3 - Ejemplo práctico. Modelo de transporte de sedimentos en HEC-RAS 1D
 En este último módulo crearás un modelo de transporte de sedimentos para el caso de estudio presentado.
 
-| Actividad                                    | Alcance                                                                                                                                                 |
-|----------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Presentación caso de estudio                 | Contexto general del proyecto que se va a realizar.                                                                                                     |
-| Datos del modelo. Archivo de geometría       | Generación del archivo de geometría del modelo.                                                                                                         |
-| Datos del modelo. Archivo de caudal          | Generación del archivo de caudal del modelo. Computational increment.                                                                                   |
-| Datos del modelo. Archivo de sedimentos      | Generación del archivo de sedimentos del modelo. Initial conditions and transport parameters. Boundary conditions. Consideraciones. Bed Change Options. |
-| Crear plan de transporte de sedimentos       | Definir un plan de transporte de sedimentos y ejecutarlo. Opciones de cálculo. Sediment Output Options.                                                 |
-| Visualización e interpretación de resultados | Opciones de visualización de resultados. Time series, cross sections, profiles.                                                                         |
-| Calibración                                  | Opciones para realizar la calibración del modelo de transporte de sedimentos.                                                                           |
+| Actividad                                               | Alcance                                                                                                                                                 |
+|---------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Presentación caso de estudio](Section03/3_CasoEstudio) | Contexto general del proyecto que se va a realizar.                                                                                                     |
+| Datos del modelo. Archivo de geometría                  | Generación del archivo de geometría del modelo.                                                                                                         |
+| Datos del modelo. Archivo de caudal                     | Generación del archivo de caudal del modelo. Computational increment.                                                                                   |
+| Datos del modelo. Archivo de sedimentos                 | Generación del archivo de sedimentos del modelo. Initial conditions and transport parameters. Boundary conditions. Consideraciones. Bed Change Options. |
+| Crear plan de transporte de sedimentos                  | Definir un plan de transporte de sedimentos y ejecutarlo. Opciones de cálculo. Sediment Output Options.                                                 |
+| Visualización e interpretación de resultados            | Opciones de visualización de resultados. Time series, cross sections, profiles.                                                                         |
+| Calibración                                             | Opciones para realizar la calibración del modelo de transporte de sedimentos.                                                                           |
 
 ## Información adicional
 * [Licencia](LICENSE.md)
