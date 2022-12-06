@@ -38,7 +38,7 @@ En la siguiente tabla se muestra la clasificación de cauces según Schumm:
 
 M= porcentaje de limo-arcilla en el perímetro del canal
 
-> Clasificación de cauces aluviales de Schumm. Fuente: chumm, S. A. (1977) [^5]
+> Clasificación de cauces aluviales de Schumm. Fuente: Schumm, S. A. (1977) [^5]
 
 ### Licencia, cláusulas y condiciones de uso
 
