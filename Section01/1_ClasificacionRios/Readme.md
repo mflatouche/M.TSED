@@ -1,6 +1,12 @@
 ## Morfología de cauces
 Keywords: `Clasificación ríos` `Schumm` 
 
+<div align="center">
+    <a href="https://pruebacorreoescuelaingeduco.sharepoint.com/:v:/s/TSED/EQZ4V7LrbrVIiIqggiyG1f4BlYl8Nw5eEx6WoBkzqX_bKQ?e=MdQWb4">
+        <img src="./Img/Section01_ClasifiacionRios.png" width="800px">
+    </a>
+</div>
+
 ### Clasificación básica de los ríos
 
 Según la libertad de ajustar su forma y su pendiente motriz los cauces se pueden clasificar en dos grandes grupos[^1]:

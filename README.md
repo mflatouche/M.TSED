@@ -6,6 +6,12 @@
 
 <br>
 
+<div align="center">
+    <a href="https://pruebacorreoescuelaingeduco.sharepoint.com/:v:/s/TSED/EVGmQn8nyo9LtUl9_zit9AEBXi6L-uXSLhWjyM-fxzK-Nw?e=Je9sUe">
+        <img src="./Img/Section00_Introduccion.png" width="800px">
+    </a>
+</div>
+
 Los ríos naturalmente mantienen un equilibrio dinámico, los cauces y las llanuras de inundación de se ajustan constantemente a través de los procesos de transporte de sedimentos: erosión y sedimentación. Para mantener el desarrollo cultural y económico a lo largo de un río, es esencial que entendamos los principios básicos del transporte de sedimentos. Estos principios pueden ser aplicados en la resolución de problemas ambientales y de ingeniería asociados a eventos naturales y las actividades humanas.
 
 La Universidad Escuela Colombiana de Ingeniería Julio Garavito ofrece este curso virtual de educación continuada por medio del cual aprenderás a realizar modelaciones de transporte de sedimentos en una dimensión en cauces, utilizando la herramienta HEC-RAS. El curso esta divido en tres secciones: en la sección 1 aprenderás los conceptos básicos para entender los procesos y factores que afectan el transporte de sedimentos en un cauce aluvial, en la sección 2 se presentan las ecuaciones básicas y el funcionamiento del modelo HEC-RAS, y finalmente, en la sección 3 emplearemos la herramienta HEC-RAS para el desarrollo de un modelo de transporte de sedimentos en 1D de un caso de estudio.
