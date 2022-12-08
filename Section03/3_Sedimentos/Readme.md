@@ -6,7 +6,7 @@ Keywords: `Sediment transport` `Sediment file`
 Después de haber creado el archivo de geometría y el archivo de caudales, podemos comenzar con el archivo de sedimentos. Para esto seleccionamos el botón _Sediment Data_.
 
 <div align="center">
-    <img src="./Img/3_1.png" Width="500px">
+    <img src="./Img/3_1.png" >
 </div>
 
 En el editor de información de sedimentos aparecen cuatro pestañas, de las cuales solamente utilizamos las primeras dos para la modelación unidimensional:
@@ -252,7 +252,7 @@ Se selecciona el método Veener para sedimentación en la llanura de inundación
 En la ventana principal de Hec-Ras se puede observar que ya tenemos el archivo de geometría, el archivo de caudales (_Quasi Unsteady_) y el archivo de sedimentos. En la siguiente actividad crearemos el plan para ejecutar el modelo.
 
 <div align="center">
-    <img src="./Img/3_32.png" Width="500px">
+    <img src="./Img/3_32.png">
 </div>
 
 

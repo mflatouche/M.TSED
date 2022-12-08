@@ -6,7 +6,7 @@ Keywords: `Sediment transport` `Flow file`
 El modelo de transporte de sedimentos puede ejecutarse utilizando flujo cuasi-no permanente o flujo no permanente, sin embargo, debido a que el enfoque de flujo cuasi-no permanente es más estable se utiliza más a menudo en análisis de transporte de sedimentos, las diferencias entre los dos enfoques las pueden consultar en la actividad [Estructura del modelo de transporte de sedimentos](../../Section02/2_Modelo).
 
 <div align="center">
-    <img src="./Img/3_1.png" Width="500px">
+    <img src="./Img/3_1.png">
 </div>
 
 Entre los archivos descargados para desarrollar el caso de estudio, hay un archivo en Excel llamado _"Data"_, en la primera pestaña (_CaudalLiquido_) está la información de campo de caudales líquidos necesaria para la creación del archivo de caudales.
@@ -184,7 +184,7 @@ Guardamos el archivo de caudales y ya lo tendríamos listo para proceder con la 
 En la ventana principal de Hec-Ras se puede observar que ya tenemos el archivo de geometría y el archivo de caudales (_Quasi Unsteady_).
 
 <div align="center">
-    <img src="./Img/3_26.png" Width="500px">
+    <img src="./Img/3_26.png">
 </div>
 
 ### Licencia, cláusulas y condiciones de uso

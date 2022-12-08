@@ -67,15 +67,15 @@ En este módulo aprenderás el funcionamiento del software HEC-RAS para transpor
 ## Sección 3 - Ejemplo práctico. Modelo de transporte de sedimentos en HEC-RAS 1D
 En este último módulo crearás un modelo de transporte de sedimentos para el caso de estudio presentado.
 
-| Actividad                                                         | Alcance                                                                                                                                                 |
-|-------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Presentación caso de estudio](Section03/3_CasoEstudio)           | Contexto general del proyecto que se va a realizar.                                                                                                     |
-| [Datos del modelo. Archivo de geometría](Section03/3_Geometria)   | Generación del archivo de geometría del modelo.                                                                                                         |
-| [Datos del modelo. Archivo de caudal](Section03/3_Caudal)         | Generación del archivo de caudal del modelo. Computational increment.                                                                                   |
-| [Datos del modelo. Archivo de sedimentos](Section03/3_Sedimentos) | Generación del archivo de sedimentos del modelo. Initial conditions and transport parameters. Boundary conditions. Consideraciones. Bed Change Options. |
-| Crear plan de transporte de sedimentos                            | Definir un plan de transporte de sedimentos y ejecutarlo. Opciones de cálculo. Sediment Output Options.                                                 |
-| Visualización e interpretación de resultados                      | Opciones de visualización de resultados. Time series, cross sections, profiles.                                                                         |
-| Calibración                                                       | Opciones para realizar la calibración del modelo de transporte de sedimentos.                                                                           |
+| Actividad                                                              | Alcance                                                                                                                                                 |
+|------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [Presentación caso de estudio](Section03/3_CasoEstudio)                | Contexto general del proyecto que se va a realizar.                                                                                                     |
+| [Datos del modelo. Archivo de geometría](Section03/3_Geometria)        | Generación del archivo de geometría del modelo.                                                                                                         |
+| [Datos del modelo. Archivo de caudal](Section03/3_Caudal)              | Generación del archivo de caudal del modelo. Computational increment.                                                                                   |
+| [Datos del modelo. Archivo de sedimentos](Section03/3_Sedimentos)      | Generación del archivo de sedimentos del modelo. Initial conditions and transport parameters. Boundary conditions. Consideraciones. Bed Change Options. |
+| [Creación plan de transporte de sedimentos](Section03/3_Plan)          | Definir un plan de transporte de sedimentos y ejecutarlo. Opciones de cálculo. Sediment Output Options.                                                 |
+| [Visualización e interpretación de resultados](Section03/3_Resultados) | Opciones de visualización de resultados. Time series, cross sections, profiles.                                                                         |
+| [Calibración](Section03/3_Calibracion)                                 | Opciones para realizar la calibración del modelo de transporte de sedimentos.                                                                           |
 
 ## Información adicional
 * [Licencia](LICENSE.md)
