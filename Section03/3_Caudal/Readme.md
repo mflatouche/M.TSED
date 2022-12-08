@@ -181,7 +181,7 @@ Guardamos el archivo de caudales y ya lo tendríamos listo para proceder con la 
     <img src="./Img/3_25.png" Height="500px">
 </div>
 
-En la ventana principal de Hec-Ras se puede observar que ya tenemos el arhcivo de geometría y el archivo de caudales (_Quasi Unsteady_).
+En la ventana principal de Hec-Ras se puede observar que ya tenemos el archivo de geometría y el archivo de caudales (_Quasi Unsteady_).
 
 <div align="center">
     <img src="./Img/3_26.png" Width="500px">
@@ -196,3 +196,9 @@ M.TSED es de uso libre para fines académicos, conoce nuestra licencia, cláusul
 |--------------|-----------------------------------|----------------------|---------------|
 
 [^1]: Hydrologic Engineering Center. (s.f.). Hydrologic Engineering Center's (CEIWR-HEC) River Analysis System (HEC-RAS). Obtenido de 1D Sediment Transport User's Manual Manual: https://www.hec.usace.army.
+
+[^2]: Gibson, S. (5 de Junio de 2019). _Intro HEC-RAS Sediment Demo (Part 1 of 3 - Quasi-Unsteady Flow)_. Obtenido de https://www.youtube.com/watch?v=d416442IC4c
+
+[^3]:Gibson, S. (5 de Junio de 2019). _Intro HEC-RAS Sediment Demo (Part 2 of 3 - Sediment Transport Data)_. Obtenido de https://www.youtube.com/watch?v=9YiL3Men9as&t=609s
+
+[^4]:Gibson, S. (10 de Junio de 2019). _Intro to HEC-RAS Sediment Demo (Part 3 of 3 - Simulation and Output)_. Obtenido de https://www.youtube.com/watch?v=X9xikwi0v-U&t=225s
