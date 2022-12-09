@@ -30,7 +30,7 @@ En la siguiente tabla se muestran las funciones de potencial de transporte de se
 M.TSED es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](https://github.com/mflatouche/M.TSED/wiki/License).
 
 
-| [Anterior]() | [:house: Inicio](../../README.md) | [:beginner: Ayuda]() | [Siguiente]() |
-|--------------|-----------------------------------|----------------------|---------------|
+| [Anterior](../2_Modelo) | [:house: Inicio](../../README.md) | [:beginner: Ayuda]() | [Siguiente](../2_InformacionCampo) |
+|------------------|-----------------------------------|----------------------|-------------------|
 
 [^1]: Hydrologic Engineering Center. (s.f.). Hydrologic Engineering Center's (CEIWR-HEC) River Analysis System (HEC-RAS). Obtenido de 1D Sediment Transport Technical Reference Manual: https://www.hec.usace.army.

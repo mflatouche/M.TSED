@@ -52,8 +52,8 @@ En la siguiente tabla se indican algunos estudios y el transporte de sedimentos 
 M.TSED es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](https://github.com/mflatouche/M.TSED/wiki/License).
 
 
-| [Anterior]() | [:house: Inicio](../../README.md) | [:beginner: Ayuda]() | [Siguiente]() |
-|--------------|-----------------------------------|----------------------|---------------|
+| [Anterior](../1_Lane) | [:house: Inicio](../../README.md) | [:beginner: Ayuda]() | [Siguiente](../../Section02/2_Funcionamiento) |
+|------------------|-----------------------------------|----------------------|--------------------------------|
 
 [^1]: Federal Agency Stream Restoration Working Group. (2001). _Stream Corridor Restoration: Principles, Processes, and Practices_. FISRWG.
 [^2]: Hydrologic Engineering Center. (s.f.). Hydrologic Engineering Center's (CEIWR-HEC) River Analysis System (HEC-RAS). Obtenido de 1D Sediment Transport Technical Reference Manual: https://www.hec.usace.army.mil/confluence/rasdocs/rassed1d/1d-sediment-transport-technical-reference-manual

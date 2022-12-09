@@ -192,8 +192,8 @@ En la ventana principal de Hec-Ras se puede observar que ya tenemos el archivo d
 M.TSED es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](https://github.com/mflatouche/M.TSED/wiki/License).
 
 
-| [Anterior]() | [:house: Inicio](../../README.md) | [:beginner: Ayuda]() | [Siguiente]() |
-|--------------|-----------------------------------|----------------------|---------------|
+| [Anterior](../3_Geometria) | [:house: Inicio](../../README.md) | [:beginner: Ayuda]() | [Siguiente](../3_Sedimentos) |
+|------------------|-----------------------------------|----------------------|--------------------|
 
 [^1]: Hydrologic Engineering Center. (s.f.). Hydrologic Engineering Center's (CEIWR-HEC) River Analysis System (HEC-RAS). Obtenido de 1D Sediment Transport User's Manual Manual: https://www.hec.usace.army.
 

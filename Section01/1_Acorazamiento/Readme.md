@@ -37,8 +37,8 @@ En las siguientes fotos se puede observar un ejemplo del acorazamiento de un lec
 
 M.TSED es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](https://github.com/mflatouche/M.TSED/wiki/License).
 
-| [Anterior]() | [:house: Inicio](../../README.md) | [:beginner: Ayuda]()  | [Siguiente]() |
-|---------------------------------------------------------------------------------|-----------------------------------------------------------|------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| [Anterior](../1_MovimientoIncipiente) | [:house: Inicio](../../README.md) | [:beginner: Ayuda]()  | [Siguiente](../1_CaudalSuspension) |
+|------------------|-----------------------------------------------------------|------------------------------------------------------------------------|-------------------|
 
 [^1]: Rodríguez Díaz, H. A. (2010). _Hidráulica Fluvial. Fundamentos y aplicaciones. Socavación_. Colombia: Editorial Escuela Colombiana de Ingeniería.
 [^2]: Instituto de Ingeniería UNAM. (1999). _Manual de Ingeniería de Ríos_. México: Universidad Autónoma de México.

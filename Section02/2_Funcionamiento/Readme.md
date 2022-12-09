@@ -138,8 +138,8 @@ Después de actualizar las secciones transversales, el modelo calcula las caract
 M.TSED es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](https://github.com/mflatouche/M.TSED/wiki/License).
 
 
-| [Anterior]() | [:house: Inicio](../../README.md) | [:beginner: Ayuda]() | [Siguiente]() |
-|--------------|-----------------------------------|----------------------|---------------|
+| [Anterior](../../Section01/1_PotencialTransporteSedimentos) | [:house: Inicio](../../README.md) | [:beginner: Ayuda]() | [Siguiente](../2_Modelo) |
+|-------------------------------|-----------------------------------|----------------------|-------------------|
 
 [^1]: Australian Water School. (2019, Agosto 22). _Sediment transport modelling. Too hard for Einstein?_ Retrieved from https://www.youtube.com/watch?v=76FjruCW4KA&list=LL&index=9&t=2462s
 
