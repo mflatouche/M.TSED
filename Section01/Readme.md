@@ -9,5 +9,5 @@
 En este módulo aprenderás los conceptos básicos para entender los procesos y factores que afectan el transporte de sedimentos en un cauce aluvial.
 
 
-|  [:house: Inicio](../../README.md) | [:beginner: Ayuda]() | [Siguiente](../1_ClasificacionRios) |
-|-------------------------------------------------------------|----------------------|-------------------------------------|
+|  [:house: Inicio](../../README.md) | [:beginner: Ayuda]() | [Siguiente](./1_ClasificacionRios) |
+|-------------------------------------------------------------|----------------------|------------------------------------|
