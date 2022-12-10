@@ -35,8 +35,8 @@ Se debe tener en consideración las siguientes limitaciones del modelo de transp
 M.TSED es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](https://github.com/mflatouche/M.TSED/wiki/License).
 
 
-| [Anterior](../2_InformacionCampo) | [:house: Inicio](../../README.md) | [:beginner: Ayuda]() | [Siguiente](../../Section03/3_CasoEstudio) |
-|------------------|-----------------------------------|----------------------|--------------------------------|
+| [Anterior](../2_InformacionCampo) | [:house: Inicio](../../README.md) | [:beginner: Ayuda]() | [Siguiente](../../Section03) |
+|------------------|-----------------------------------|----------------------|------------------------------|
 
 [^1]: Colegio de Agrimensores. (2088). _Capitulo 3. Introducción al HEC-RAS_.
 
