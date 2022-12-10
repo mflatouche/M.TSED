@@ -108,7 +108,7 @@ Digamos que queremos analizar en la misma estación anterior (6320) el cambio en
     <img src="./Img/3_14.png" Height="500px">
 </div>
 
-Con esta guía que les dí, les recomiendo que revisen las variables que aparecen en la ventada de resultados de Sedimentos y hagan sus propios análisis. En la siguiente actividad les explicaré una de las tantas maneras en las que se puede ralizar la calibración dle modelo.
+Con esta guía, les recomiendo que revisen las variables que aparecen en la ventada de resultados de Sedimentos y hagan sus propios análisis. En la siguiente actividad les explicaré una de las tantas maneras en las que se puede ralizar la calibración dle modelo.
 
 ### Licencia, cláusulas y condiciones de uso
 
