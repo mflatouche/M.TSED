@@ -83,6 +83,9 @@ En este último módulo crearás un modelo de transporte de sedimentos para el c
 | [Visualización e interpretación de resultados](Section03/3_Resultados) | Opciones de visualización de resultados. Time series, cross sections, profiles.                                                                         |
 | [Calibración](Section03/3_Calibracion)                                 | Opciones para realizar la calibración del modelo de transporte de sedimentos.                                                                           |
 
+| [:mortar_board: Comenzar a aprender ](./Section01) |
+|----------------------------------------------------|
+
 ## Información adicional
 * [Licencia](LICENSE.md)
 * [Definiciones](Definitions.md)
