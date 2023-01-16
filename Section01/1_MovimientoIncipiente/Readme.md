@@ -46,6 +46,7 @@ Shields realizó sus experimentos en un canal de laboratorio utilizando flujo tu
 Los resultados de sus experimentos los presentó en el "Diagrama de Shields" como función de dos parámetros adimensionales:
 
 <div align="center">
+
   $\tau_{*}=\frac{\tau_{0}}{(\gamma_{s}-\gamma)d}$   y   $R_{*}=\frac{U_{*} d}{\nu}$
 </div>
 
@@ -70,6 +71,7 @@ $U_{\*}$ = Velocidad de corte $[m/s]$
 La velocidad de corte se define como:
 
 <div align="center">
+
   $U_{*}=\sqrt{\frac{\tau_{0}}{\rho}}$   y   $\tau_{0}=\gamma R S_{0}$
 </div>
 
@@ -95,6 +97,7 @@ El segundo parámetro, graficado en las abscisas, se denomina número de Reynold
 En la condición crítica de arrastre, el esfuerzo cortante crítico aparece en los dos parámetros adimensionales, por lo que para determinar $\tau_{c}$ se debe realizar un proceso iterativo. Si se eleva al cuadrado el parámetro $R_{*c}$ y se divide entre el valor de $\tau_{*c}$, al simplificar este valor se obtiene un parámetro adimensional que no contiene la variable $\tau_{c}$ y para no obtener cocientes demasiado grandes, al parámetro adimensional se le extrae la raíz cúbica[^2]:
 
 <div align="center">
+
   $D_{*c}=\left (\frac{R_{*c}^{2}}{\tau _{*c}}  \right )^{1/3}=d\left (\frac{\left (\gamma_{s}-\gamma  \right )}{\gamma}\frac{g}{\nu^{2}}  \right )^{1/3}$
   <br>
 </div>
@@ -113,6 +116,7 @@ La relación entre $\tau_{\*c}$ y $D_{\*c}$ permite determinar directamente el v
 Maza encontró una ecuación que representa la curva del diagrama de Shields en función del Número de Reynolds de corte[^2]:
 
 <div align="center">
+
   Si $1\leq R_{*c}\leq 1500$ entonces $\tau_{*c}=\frac{0.097}{R_{*c}}+0.077 exp\left \{- (\frac{19.58}{R_{*c}})^{0.3191} \right \}$
   <br>
   Si $R_{*c}> 1500$ entonces $\tau_{*c}=0.06$
@@ -135,6 +139,7 @@ def Tc_Rc(Rc):
 Maza también propuso una ecuación que representa la curva de movimiento incipiente en función de los parámetros $\tau_{*c}$ y $D_{*c}$ :
 
 <div align="center">
+
   Si $1\leq D_{*c}\leq 333$ entonces $\tau_{*c}=\frac{0.2196}{D_{*c}}+0.077 exp\left \{- (\frac{30.35}{D_{*c}})^{0.563} \right \}$
   <br>
   Si $D_{*c}> 333$ entonces $\tau_{*c}=0.06$
