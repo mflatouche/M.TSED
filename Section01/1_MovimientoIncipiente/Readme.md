@@ -20,6 +20,7 @@ $F_{R}$ = Fuerza de resistencia, producida entre la frontera fija y las partícu
 Cuando la partícula se encuentra en estado de movimiento incipiente se cumple algunas de estas condiciones:
 
 <div align="center">
+
   $F_{L}=W_{S}$
   
   $F_{D}=F_{R}$
