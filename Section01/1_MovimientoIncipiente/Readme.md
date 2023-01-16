@@ -114,7 +114,6 @@ La relación entre $\tau_{\*c}$ y $D_{\*c}$ permite determinar directamente el v
 Maza encontró una ecuación que representa la curva del diagrama de Shields en función del Número de Reynolds de corte[^2]:
 
 <div align="center">
-
   Si $1\leq R_{*c}\leq 1500$ entonces $\tau_{*c}=\frac{0.097}{R_{*c}}+0.077 exp\left \{- (\frac{19.58}{R_{*c}})^{0.3191} \right \}$
   <br>
   Si $R_{*c}> 1500$ entonces $\tau_{*c}=0.06$
@@ -137,7 +136,6 @@ def Tc_Rc(Rc):
 Maza también propuso una ecuación que representa la curva de movimiento incipiente en función de los parámetros $\tau_{*c}$ y $D_{*c}$ :
 
 <div align="center">
-
   Si $1\leq D_{*c}\leq 333$ entonces $\tau_{*c}=\frac{0.2196}{D_{*c}}+0.077 exp\left \{- (\frac{30.35}{D_{*c}})^{0.563} \right \}$
   <br>
   Si $D_{*c}> 333$ entonces $\tau_{*c}=0.06$
