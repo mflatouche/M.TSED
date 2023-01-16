@@ -8,6 +8,7 @@ El **caudal sólido $(Q_{S})$** es el volumen de sedimentos por unidad de tiempo
 La distribución de velocidades en un flujo turbulento en canales a superficie libre, de acuerdo con la teoría de la capa límite, tiene una distribución logarítmica[^2]:
 
 <div align="center">
+
 $V(y)=2.5 Ln\left ( \frac{y}{y_{0}} \right )U_{*}$
 </div>
 
@@ -24,6 +25,7 @@ $U_{\*}$ = Velocidad de corte $[m/s]$
 La distribución de concentraciones de sedimentos en suspensión, en primera aproximación, tiene una distribución exponencial. Rouse (1937) propuso una ecuación para evaluar la variación vertical de la concentración de sedimentos en suspensión si se conoce la concentración de sedimentos $C_{a}$ a una distancia $a$ sobre el fondo [^1]:
 
 <div align="center">
+
 $\frac{C(y)}{C_{a}}=\left [ \left ( \frac{D-y}{y} \right )\left ( \frac{a}D-a{} \right ) \right ]^{\frac{\omega }{k U_{*}}}$
 </div>
 
