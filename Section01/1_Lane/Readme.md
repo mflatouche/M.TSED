@@ -3,7 +3,7 @@ Keywords: `Lane Analogy`
 
 Los cauces de los ríos y sus llanuras de inundación se ajustan constantemente a la cantidad de agua y sedimentos suministrados por la cuenca. Los cambios diarios en el caudal y en la carga de sedimentos resultan en un ajuste frecuente de las formas del lecho y la rugosidad en muchos cauces con lechos móviles. Los cauces también se ajustan periódicamente a eventos extremos de caudales altos y bajos[^1].
 
-Los cambios en el uso del suelo en la cuenca también pueden provocar niveles de ajuste similares. Del mismo modo, los cambios a largo plazo en la escorrentía o en la producción de sedimentos por causas naturales, como el cambio climático, incendios forestales, etc., o por causas humanas como el cultivo, el sobrepastoreo o las conversiones de zonas rurales a urbanas, pueden provocar ajustes a largo plazo de la sección transversal y la forma de la planta del cauce, que a menudo se describen como _evolución del canal[^1]. 
+Los cambios en el uso del suelo en la cuenca también pueden provocar niveles de ajuste similares. Del mismo modo, los cambios a largo plazo en la escorrentía o en la producción de sedimentos por causas naturales, como el cambio climático, incendios forestales, etc., o por causas humanas como el cultivo, el sobrepastoreo o las conversiones de zonas rurales a urbanas, pueden provocar ajustes a largo plazo de la sección transversal y la forma de la planta del cauce, que a menudo se describen como _evolución del canal_[^1]. 
 
 Por lo general, los datos disponibles no son suficientes para realizar predicciones cuantitativas de la respuesta de un río, por lo que solo es posible analizar cualitativamente estos cambios. Los análisis sobre los posibles cambios en la morfología de un río se pueden resumir estableciendo las siguientes relaciones generales:
 
@@ -51,7 +51,7 @@ Analice la respuesta de un río aguas abajo del sitio en el que se construye una
 La construcción de una presa en un cauce genera aguas arriba de la presa procesos de deposición, de tal manera que el agua descargada hacia aguas abajo contiene una menor cantidad de sedimentos, por lo tanto, se puede afirmar que aguas abajo de la presa el caudal sólido disminuirá $(Q_{S}^{-})$. De acuerdo con la relación de proporcionalidad definida, si se presume que el diámetro característico y el caudal líquido permanecen constantes, se presentarán procesos de erosión aguas abajo de la presa.
 
 <div align="center">
-  <img src="./Img/1_5.png" width="700px">
+  <img src="./Img/1_6.png" width="600px">
 </div>
 
 Entonces, la pendiente tendrá que disminuir para mantener el balance de la proporcionalidad[^2]:
@@ -61,6 +61,12 @@ Entonces, la pendiente tendrá que disminuir para mantener el balance de la prop
 $Q_{S}^{-}d_{50}^{0}\approx Q^{0}S_{0}^{-}$
 </div>
 <br>
+
+<div align="center">
+  <img src="./Img/1_5.png" width="700px">
+</div>
+
+
 
 La línea CA representa la pendiente original de la presa, la cual se modificará a una pendiente menor (línea C'A), condición que se obtiene si se desarrollan procesos graduales de erosión (o degradación) del fondo del cauce[^2].
 
