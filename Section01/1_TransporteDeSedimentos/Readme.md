@@ -75,24 +75,28 @@ La terminología del transporte de sedimentos a veces puede ser confusa, por lo 
 Los términos presentados pueden combinarse de varias maneras para obtener la carga total de sedimentos en un cauce:
 * La carga total de sedimentos es la suma de la carga en suspensión y la carga por arrastre:
 <div align="center">
+
 $G_{T}=G_{S}+G_{B}$
 </div>
 <br>
 
 * La carga total de sedimentos es la suma de la carga de lavado y la carga de material del lecho:
 <div align="center">
+
 $G_{T}=G_{L}+G_{BT}$
 </div>
 <br>
 
 * La carga de material del lecho está conformada por la carga del material del lecho en suspensión y la carga por arrastre:
 <div align="center">
+
 $G_{BT}=G_{BS}+G_{B}$
 </div>
 <br>
 
 * La carga en suspensión está conformada por la carga del material del lecho en suspensión y la carga de lavado:
 <div align="center">
+
 $G_{S}=G_{BS}+G_{L}$
 </div>
 <br>
