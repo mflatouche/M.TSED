@@ -19,6 +19,7 @@ Por lo general, los datos disponibles no son suficientes para realizar prediccio
 Una de las primeras relaciones propuestas para explicar el comportamiento de los cauces fue sugerida por Lane (1955), que relacionó el caudal líquido $(Q)$ y la pendiente del canal $(S_{0})$ con la carga de sedimentos del lecho $(Q_{S})$ y el tamaño medio de las partículas en el lecho del río $(d_{50})$[^1]:
 
 <div align="center">
+
 $Q_{S}d_{50}\approx QS_{0}$
 </div>
 <br>
@@ -56,6 +57,7 @@ La construcción de una presa en un cauce genera aguas arriba de la presa proces
 Entonces, la pendiente tendrá que disminuir para mantener el balance de la proporcionalidad[^2]:
 
 <div align="center">
+
 $Q_{S}^{-}d_{50}^{0}\approx Q^{0}S_{0}^{-}$
 </div>
 <br>
