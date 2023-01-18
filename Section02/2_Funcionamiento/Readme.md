@@ -16,6 +16,7 @@ En primer lugar, el modelo calcula las características hidráulicas del sistema
 Para realizar el tránsito de sedimentos, HEC-RAS resuelve la ecuación de Exner, la cual es una ecuación de conservación de la masa (o continuidad) que se aplica a los sedimentos de un sistema fluvial.
 
 <div align="center">
+
   $\left ( 1-\lambda _{p} \right )B\frac{\delta \eta }{\delta t}=-\frac{\delta Q_{s}}{\delta x}$
 </div>
 
@@ -36,6 +37,7 @@ $Q_{s}$ = Carga de sedimentos transportada
 La ecuación expresa que la diferencia entre el caudal sólido que sale del volumen de control y el caudal sólido que ingresa a este en un intervalo de tiempo es igual al volumen de material sólido acumulado o perdido en el interior, el cual se convierte en un ascenso o descenso de la elevación del fondo del cauce[^2]. Entonces, la ecuación de continuidad de sedimentos también se puede escribir como:
 
 <div align="center">
+
   $Q_{S (in)}-Q_{S (out)}=\frac{\Delta V}{\Delta t}=(1-\lambda _{p})B\frac{\Delta \eta }{\Delta t}$
 </div>
 
@@ -58,6 +60,7 @@ HEC-RAS resuelve la ecuación de continuidad de sedimentos calculando una capaci
 Las ecuaciones de transporte de sedimentos generalmente están planteadas para un único tamaño de partícula, sin embargo, en la realidad ese no es el caso que se presenta. HEC-RAS divide los sedimentos en múltiples intervalos de clase y calcula el potencial de transporte de sedimentos para cada uno de estos. La capacidad de transporte para cada intervalo de clase es el potencial de transporte de sedimentos multiplicado por el porcentaje de ese tamaño de particula presente en el material del lecho, el cual es el material disponible para ser transportado. Entonces, la capacidad total de transporte es:
 
 <div align="center">
+
   $T_{c}=\sum_{j=1}^{n} \beta _{j}T_{j}$
 </div>
 

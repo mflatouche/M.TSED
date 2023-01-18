@@ -31,7 +31,7 @@ El curso virtual tendrá un enfoque teórico-práctico. La parte teórica compre
 
 * Se revisan los conceptos teóricos y procesos de métodos básicos de creación de modelos de transporte de sedimentos, incluyendo en ejercicios resueltos paso a paso. Tanto los fundamentos como las prácticas con HEC-RAS están explicados en documentos de texto, presentaciones, y videotutoriales.
 * El material multimedia está disponible en un repositorio GitHub con videos asociados a la plataforma YouTube, al que cada alumno puede acceder libremente.
-* El aprendizaje es remoto, y, por lo tanto, resulta compatible con su actividad diaria: el alumno hace el curso a su ritmo, siguiendo su mejoSer horario.
+* El aprendizaje es remoto, y, por lo tanto, resulta compatible con su actividad diaria: el alumno hace el curso a su ritmo, siguiendo su mejor horario.
 * Es posible contar con acompañamiento y certificación del curso, para esto consulta la página de la [Escuela](https://www.escuelaing.edu.co/es/). Para esto se incluyen actividades con HEC-RAS para evaluar el aprovechamiento y aprendizaje del curso.
 * Las consultas pueden formularse por medio del espacio de [🔰Ayuda]() del repositorio en GitHub o mensaje en plataforma de Microsoft Teams en el caso de acompañamiento y certificación.
 

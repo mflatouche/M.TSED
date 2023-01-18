@@ -68,7 +68,7 @@ $Q_{S}^{-}d_{50}^{0}\approx Q^{0}S_{0}^{-}$
 
 
 
-La línea CA representa la pendiente original de la presa, la cual se modificará a una pendiente menor (línea C'A), condición que se obtiene si se desarrollan procesos graduales de erosión (o degradación) del fondo del cauce[^2].
+La línea CA representa la pendiente original del lecho, la cual se modificará a una pendiente menor (línea C'A), condición que se obtiene si se desarrollan procesos graduales de erosión (o degradación) del fondo del cauce[^2].
 
 Con el tiempo, la presa se colmatará con sedimentos y el caudal sólido inicial estará disponible, modificando nuevamente las condiciones del tramo aguas abajo de la presa. Entonces, exceptuando la socavación local, la pendiente C'A deberá incrementarse hasta la pendiente original CA para poder transportar el incremento de sedimentos. Además, aguas arriba de la presa la pendiente desarrollada deberá ser igual a la original, elevada a una altura igual a la de la presa[^2].
 
