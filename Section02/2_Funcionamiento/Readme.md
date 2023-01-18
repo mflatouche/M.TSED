@@ -17,7 +17,7 @@ Para realizar el tránsito de sedimentos, HEC-RAS resuelve la ecuación de Exner
 
 <div align="center">
 
-  $\left ( 1-\lambda _{p} \right )B\frac{\delta \eta }{\delta t}=-\frac{\delta Q_{s}}{\delta x}$
+  $\left ( 1-\lambda_{p} \right )B\frac{\delta \eta }{\delta t}=-\frac{\delta Q_{s}}{\delta x}$
 </div>
 
 Donde:
