@@ -38,7 +38,7 @@ La ecuación expresa que la diferencia entre el caudal sólido que sale del volu
 
 <div align="center">
 
-  $Q_{S (in)}-Q_{S (out)}=\frac{\Delta V}{\Delta t}=(1-\lambda _{p})B\frac{\Delta \eta }{\Delta t}$
+  $Q_{S (in)}-Q_{S (out)}=\frac{\Delta V}{\Delta t}=(1-\lambda_{p})B\frac{\Delta \eta }{\Delta t}$
 </div>
 
 Donde:
@@ -61,7 +61,7 @@ Las ecuaciones de transporte de sedimentos generalmente están planteadas para u
 
 <div align="center">
 
-  $T_{c}=\sum_{j=1}^{n} \beta _{j}T_{j}$
+  $T_{c}=\sum_{j=1}^{n} \beta_{j}T_{j}$
 </div>
 
 Donde:
