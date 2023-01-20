@@ -121,7 +121,7 @@ Maza encontró una ecuación que representa la curva del diagrama de Shields en 
 
 <div align="center">
 
-Si $1\leq R_{\*c}\leq 1500$ entonces $\tau_{\*c}=\frac{0.097}{R_{\*c}}+0.077 exp\left \{- (\frac{19.58}{R_{\*c}})^{0.3191} \right \}$
+Si $1\leq R_{\*c}\leq 1500$ entonces $\tau_{\*c}=\frac{0.097}{R_{\*c}}+0.077 \exp({- (\frac{19.58}{R_{\*c}})^{0.3191}})$
   
 Si $R_{\*c}> 1500$ entonces $\tau_{\*c}=0.06$
 </div>
