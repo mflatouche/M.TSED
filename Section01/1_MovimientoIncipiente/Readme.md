@@ -104,7 +104,7 @@ En la condición crítica de arrastre, el esfuerzo cortante crítico aparece en 
 
 <div align="center">
 
-  $D_{\*c}=\left (\frac{R_{\*c}^{2}}{\tau _{*c}}  \right )^{1/3}=d\left (\frac{\left (\gamma_{s}-\gamma  \right )}{\gamma}\frac{g}{\nu^{2}}  \right )^{1/3}$
+  $D_{\*c}=\left (\frac{R_{\*c}^{2}}{\tau_{\*c}}  \right )^{1/3}=d\left (\frac{\left (\gamma_{s}-\gamma  \right )}{\gamma}\frac{g}{\nu^{2}}  \right )^{1/3}$
 </div>
 
 La relación entre $\tau_{\*c}$ y $D_{\*c}$ permite determinar directamente el valor de $\tau_{c}$.
