@@ -1,6 +1,12 @@
 ## Funcionamiento del modelo de HEC-RAS 1D
 Keywords: `Sediment transport` 
 
+<div align="center">
+    <a href="">
+        <img src="./Img/2_Funcionamiento.png" width="800px">
+    </a>
+</div>
+
 ### Acoplamiento entre las características hidráulicas y de sedimentos
 
 HEC-RAS es un modelo acoplado explícito, el cual, para cada incremento computacional $(\Delta t)$ realiza el tránsito hidráulico y de sedimentos en todo el tramo en estudio.

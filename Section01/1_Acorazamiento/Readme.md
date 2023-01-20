@@ -1,6 +1,12 @@
 ## Acorazamiento
 Keywords: `Bed sorting` `Armoring` 
 
+<div align="center">
+    <a href="">
+        <img src="./Img/1_Acorazamiento.png" width="800px">
+    </a>
+</div>
+
 ### Acorazamiento de un cauce
 
 Los cauces compuestos de material bien gradado tienden a desarrollar una coraza o armadura en la superficie del lecho. Este proceso de *acorazamiento* ocurre debido a que la granulometría del lecho no es uniforme, por lo tanto, se transportarán primero y a una mayor tasa, las partículas más finas que las partículas más gruesas, las cuales pueden soportar mayores esfuerzos cortantes. De esta forma, debido a la permanencia de las partículas de sedimento más gruesas, se va formando una especie de coraza en la superficie del lecho, que protege el material más fino ubicado debajo de esta capa, limitando su erosión [^1] [^2].

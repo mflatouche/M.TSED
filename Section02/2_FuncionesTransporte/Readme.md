@@ -1,6 +1,12 @@
 ## Funciones de transporte
 Keywords: `Sediment transport potencial` `HEC-RAS 1D` 
 
+<div align="center">
+    <a href="">
+        <img src="./Img/2_FuncionesTransporte.png" width="800px">
+    </a>
+</div>
+
 ### Funciones de transporte de sedimentos
 
 Como se explicó anteriormente, HEC-RAS calcula el potencial de transporte de sedimentos para cada intervalo de clase de la granulometría del material del lecho con una de las ecuaciones de transporte de sedimentos disponibles en el programa.

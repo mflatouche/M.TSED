@@ -1,6 +1,12 @@
 ## Limitaciones del modelo HEC-RAS 1D
 Keywords: `HEC-RAS 1D` `Model limitations`
 
+<div align="center">
+    <a href="">
+        <img src="./Img/2_Limitaciones.png" width="800px">
+    </a>
+</div>
+
 En esta actividad se presentan algunas ventajas y limitaciones del modelo HEC-RAS 1D que se deben tener en consideración al momento de usar el software.
 
 <div align="center">

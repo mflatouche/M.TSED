@@ -1,6 +1,12 @@
 ## Estructura del modelo de transporte de sedimentos
 Keywords: `Sediment transport` 
 
+<div align="center">
+    <a href="">
+        <img src="./Img/2_Modelo.png" width="800px">
+    </a>
+</div>
+
 ### Enfoques del modelo de transporte de sedimentos
 
 HEC-RAS incluye dos enfoques hidrodinámicos para realizar el análisis de transporte de sedimentos:
@@ -15,6 +21,7 @@ El modelo de transporte de sedimentos también puede realizarse utilizando el en
 <div align="center">
     <img src="./Img/2_1.png" width="500px">
 </div>
+
 > (a) Hidrograma modelado con flujo cuasi-no permanente (b) Hidrograma modelado con flujo no permanente. Fuente: Hydrologic Engineering Center[^1]
 
 Independientemente del enfoque que se escoja, se necesitan tres tipos de archivos para construir un modelo de transporte de sedimentos:
@@ -28,6 +35,7 @@ En la siguiente figura se muestra la estructura de los archivos para modelos de 
 <div align="center">
     <img src="./Img/2_2.png" width="500px">
 </div>
+
 > Estructura de los archivos para modelos de transporte de sedimentos con flujo cuasi-no permanente y con flujo no permanente. Fuente: Hydrologic Engineering Center[^1]
 
 La selección del modelo hidrodinámico apropiado para un análisis de transporte de sedimentos con HEC-RAS implica las clásicas compensaciones entre precisión y esfuerzo (Gibson 2013). La modelación con flujo cuasi-no permanente tiende a ser más fácil, pero no conserva el caudal, por lo que puede introducir errores inaceptables, particularmente en sistemas con un almacenamiento significativo. Por otro lado, la modelación de flujo no permanente requiere una práctica cuidadosa y hábil porque la solución puede ser inestable con un lecho fijo, sin embargo, conserva la masa y tiene en cuenta explícitamente el cambio de volumen, lo que lo hace especialmente aplicable a la modelación de embalses (Gibson y Boyd, 2014), a modelos con estructuras de flujo lateral, a flujos inversos o a los problemas de ingeniería en los que el tiempo pico del hidrograma es crítico.

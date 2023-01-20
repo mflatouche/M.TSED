@@ -1,6 +1,12 @@
 ## Cuantificación del transporte de sedimentos
 Keywords: `Sediment transport` 
 
+<div align="center">
+    <a href="">
+        <img src="./Img/1_PotencialTransporteSedimentos.png" width="800px">
+    </a>
+</div>
+
 ### Carga de lavado y carga del material del lecho
 
 Como se había explicado en capítulos anteriores, la carga de sedimentos de un cauce se puede caracterizar en función del origen del material transportado. La carga total de sedimentos en un cauce, en cualquier momento y lugar, se divide en dos partes: la carga de lavado y la carga de lecho. La fuente principal de la carga de lavado es la cuenca hidrográfica, producto de procesos de erosión. La fuente de la carga de material del lecho es principalmente el propio lecho del río[^1].

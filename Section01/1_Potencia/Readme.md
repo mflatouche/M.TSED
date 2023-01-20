@@ -1,6 +1,12 @@
 ## Potencia de la corriente
 Keywords: `Stream power`
 
+<div align="center">
+    <a href="">
+        <img src="./Img/1_Potencia.png" width="800px">
+    </a>
+</div>
+
 ### Potencia de la corriente. Definición
 La _potencia de la corriente_ se define como la energía disponible por unidad de área[^1]:
 

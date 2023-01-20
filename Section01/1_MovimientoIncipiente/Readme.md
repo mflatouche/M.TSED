@@ -1,6 +1,12 @@
 ## Movimiento incipiente
 Keywords: `Shear stress` `Shields` `Incipient motion`
 
+<div align="center">
+    <a href="">
+        <img src="./Img/1_MovimientoIncipiente.png" width="800px">
+    </a>
+</div>
+
 ### Estudio del movimiento incipiente
 
 Para el estudio del transporte de sedimentos, es necesario analizar el comienzo del movimiento de las partículas o _movimiento incipiente_. Si se supone una partícula de sedimento de forma esférica sobre el fondo del lecho de un cauce aluvial, con una pendiente longitudinal muy pequeña tal que se pueda despreciar la componente del peso en la dirección del movimiento, se presentan las siguientes fuerzas actuando sobre la partícula[^1].

@@ -1,6 +1,12 @@
 ## Caudal sólido en suspensión
 Keywords: `Suspended load` `Rouse equation`
 
+<div align="center">
+    <a href="">
+        <img src="./Img/1_CaudalSuspension.png" width="800px">
+    </a>
+</div>
+
 ### Distribución de velocidades y de concentración de material sólido suspendido
 
 El **caudal sólido $(Q_{S})$** es el volumen de sedimentos por unidad de tiempo que cruza una sección transversal del cauce y el **caudal sólido unitario $(q_{S})$** es el caudal sólido por unidad de ancho. El caudal sólido también puede ser expresado en peso por unidad de tiempo. Es preferible utilizar el peso porque las medidas realizadas en campo para determinar el caudal sólido en suspensión son la velocidad de la corriente y las concentraciones de material sólido suspendido, las cuales generalmente se expresan en $[mg/l]$ o en $[p.p.m]$. Ambas variables tienen una distribución en la vertical predecible[^1].

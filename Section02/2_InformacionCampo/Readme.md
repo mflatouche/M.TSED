@@ -1,6 +1,12 @@
 ## Información de campo
 Keywords: `Sediment transport` `Information` 
 
+<div align="center">
+    <a href="">
+        <img src="./Img/2_InformacionCampo.png" width="800px">
+    </a>
+</div>
+
 ### Información necesaria para la elaboración de un modelo de transporte de sedimentos unidimensional
 
 En la actividad anterior se mostró la estructura de un modelo de transporte de sedimentos unidimensional en HEC-RAS, este requiere de tres tipos de archivos de información: geometría, caudales y sedimentos. En este apartado se indicará la información de campo mínima necesaria para generar estos archivos.

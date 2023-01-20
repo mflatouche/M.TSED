@@ -1,6 +1,12 @@
 ## Predicción sobre la respuesta general de un río al cambio
 Keywords: `Lane Analogy` 
 
+<div align="center">
+    <a href="">
+        <img src="./Img/1_Lane.png" width="800px">
+    </a>
+</div>
+
 Los cauces de los ríos y sus llanuras de inundación se ajustan constantemente a la cantidad de agua y sedimentos suministrados por la cuenca. Los cambios diarios en el caudal y en la carga de sedimentos resultan en un ajuste frecuente de las formas del lecho y la rugosidad en muchos cauces con lechos móviles. Los cauces también se ajustan periódicamente a eventos extremos de caudales altos y bajos[^1].
 
 Los cambios en el uso del suelo en la cuenca también pueden provocar niveles de ajuste similares. Del mismo modo, los cambios a largo plazo en la escorrentía o en la producción de sedimentos por causas naturales, como el cambio climático, incendios forestales, etc., o por causas humanas como el cultivo, el sobrepastoreo o las conversiones de zonas rurales a urbanas, pueden provocar ajustes a largo plazo de la sección transversal y la forma de la planta del cauce, que a menudo se describen como _evolución del canal_[^1]. 
@@ -40,6 +46,13 @@ Partiendo de la condición de equilibrio, si el caudal líquido aumentara o si s
 </div>
 
 ### Actividad resuelta
+
+<div align="center">
+    <a href="">
+        <img src="./Img/1_Lane_Actividad.png" width="800px">
+    </a>
+</div>
+
 Analice la respuesta de un río aguas abajo del sitio en el que se construye una presa.
 
 <div align="center">

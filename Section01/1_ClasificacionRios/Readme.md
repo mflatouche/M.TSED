@@ -3,7 +3,7 @@ Keywords: `Clasificación ríos` `Schumm`
 
 <div align="center">
     <a href="https://pruebacorreoescuelaingeduco.sharepoint.com/:v:/s/TSED/EQZ4V7LrbrVIiIqggiyG1f4BlYl8Nw5eEx6WoBkzqX_bKQ?e=MdQWb4">
-        <img src="./Img/Section01_ClasifiacionRios.png" width="800px">
+        <img src="./Img/1_ClasificacionRios.png" width="800px">
     </a>
 </div>
 
