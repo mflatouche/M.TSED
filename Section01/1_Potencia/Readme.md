@@ -11,6 +11,7 @@ Keywords: `Stream power`
 La _potencia de la corriente_ se define como la energía disponible por unidad de área[^1]:
 
 <div align="center">
+
 $P=\gamma  y  S_{0} V$
 </div>
 <br>
