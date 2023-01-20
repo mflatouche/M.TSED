@@ -1,6 +1,12 @@
 ## Caso de estudio
 Keywords: `Case study` `Colombia` `Sediment transport` 
 
+<div align="center">
+    <a href="">
+        <img src="./Img/3_CasoEstudio.png" width="800px">
+    </a>
+</div>
+
 ### Generalidades
 
 El caso de estudio que se va a analizar fue adaptado con fines académicos. Este corresponde a un tramo de aproximadamente 11 km de longitud del Arroyo San Antonio, ubicado en el departamento del Cesar, Colombia. 

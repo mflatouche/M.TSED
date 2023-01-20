@@ -1,6 +1,12 @@
 ## Geometría
 Keywords: `Sediment transport` `Geometry file` 
 
+<div align="center">
+    <a href="">
+        <img src="./Img/3_Geometria.png" width="800px">
+    </a>
+</div>
+
 ### Archivo de geometría
 
 En la actividad anterior está disponible el link para descargar los datos necesarios para desarrollar el caso de estudio. Como se mencionó anteriormente, se necesitan tres archivos para crear un modelo de transporte de sedimentos: geometría, caudales y sedimentos, y un plan que los acople entre sí.

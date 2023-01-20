@@ -1,6 +1,12 @@
 ## Visualización e interpretación de resultados
 Keywords: `Sediment transport` 
 
+<div align="center">
+    <a href="">
+        <img src="./Img/3_Resultados.png" width="800px">
+    </a>
+</div>
+
 Para ver los resultados del modelo de transporte de sedimentos seleccionamos View-> Sediment Output (6.0)...
 
 <div align="center">

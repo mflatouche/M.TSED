@@ -1,6 +1,12 @@
 ## Plan de transporte de sedimentos
 Keywords: `Sediment transport` 
 
+<div align="center">
+    <a href="">
+        <img src="./Img/3_Plan.png" width="800px">
+    </a>
+</div>
+
 ### Creación del plan de transporte de sedimentos para flujo cuasi-no permanente
 
 En las actividades anteriores creamos el archivo de geometría, el archivo de caudales y el archivo de sedimentos, ahora solo nos falta crear el plan de transporte de sedimentos que relacione los tres archivos y permita ejecutar el modelo.

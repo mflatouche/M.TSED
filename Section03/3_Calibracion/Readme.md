@@ -1,6 +1,12 @@
 ## Calibración del modelo de transporte de sedimentos
 Keywords: `Sediment transport` 
 
+<div align="center">
+    <a href="">
+        <img src="./Img/3_Calibracion.png" width="800px">
+    </a>
+</div>
+
 La calibración de un modelo de transporte de sedimentos se puede realizar de múltiples formas, dependiendo de la información que se tenga disponible. Generalmente, se utilizan los siguientes enfoques:
 
 * **Batimetrías históricas**: se comienza con secciones transversales históricas y se calibran ejecutando el modelo desde el período de registro entre estas secciones transversales históricas y una batimetría contemporánea. 

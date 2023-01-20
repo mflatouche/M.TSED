@@ -1,6 +1,12 @@
 ## Sedimentos
 Keywords: `Sediment transport` `Sediment file`
 
+<div align="center">
+    <a href="">
+        <img src="./Img/3_Sedimentos.png" width="800px">
+    </a>
+</div>
+
 ### Archivo de sedimentos
 
 Después de haber creado el archivo de geometría y el archivo de caudales, podemos comenzar con el archivo de sedimentos. Para esto seleccionamos el botón _Sediment Data_.
