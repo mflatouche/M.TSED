@@ -144,7 +144,7 @@ Maza también propuso una ecuación que representa la curva de movimiento incipi
 
 <div align="center">
 
-  Si $1\leq D_{\*c}\leq 333$ entonces $\tau_{\*c}=\frac{0.2196}{D_{\*c}}+0.077 exp\left \{- (\frac{30.35}{D_{\*c}})^{0.563} \right \}$
+  Si $1\leq D_{\*c}\leq 333$ entonces $\tau_{\*c}=\frac{0.2196}{D_{\*c}}+0.077 \exp({- (\frac{30.35}{D_{\*c}})^{0.563}})$
   <br>
   Si $D_{*c}> 333$ entonces $\tau_{*c}=0.06$
 </div>
@@ -182,4 +182,5 @@ M.TSED es de uso libre para fines académicos, conoce nuestra licencia, cláusul
 
 
 [^1]: Rodríguez Díaz, H. A. (2010). _Hidráulica Fluvial. Fundamentos y aplicaciones. Socavación_. Colombia: Editorial Escuela Colombiana de Ingeniería.
+
 [^2]: Instituto de Ingeniería UNAM. (1999). Manual de Ingeniería de Ríos. México: Universidad Autónoma de México.
