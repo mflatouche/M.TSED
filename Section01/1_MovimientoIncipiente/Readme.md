@@ -121,9 +121,9 @@ Maza encontró una ecuación que representa la curva del diagrama de Shields en 
 
 <div align="center">
 
-  Si $1\leq R_{*\c}\leq 1500$ entonces $\tau_{\*c}=\frac{0.097}{R_{\*c}}+0.077 exp\left \{- (\frac{19.58}{R_{\*c}})^{0.3191} \right \}$
-  <br>
-  Si $R_{\*c}> 1500$ entonces $\tau_{\*c}=0.06$
+Si $1\leq R_{\*c}\leq 1500$ entonces $\tau_{\*c}=\frac{0.097}{R_{\*c}}+0.077 exp\left \{- (\frac{19.58}{R_{\*c}})^{0.3191} \right \}$
+  
+Si $R_{\*c}> 1500$ entonces $\tau_{\*c}=0.06$
 </div>
 
 Se definió una función en Python para calcular el esfuerzo cortante adimensional utilizando la ecuación de Maza:
