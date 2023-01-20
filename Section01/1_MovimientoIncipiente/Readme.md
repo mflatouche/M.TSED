@@ -53,7 +53,11 @@ Los resultados de sus experimentos los presentó en el "Diagrama de Shields" com
 
 <div align="center">
 
-  $\tau_{*}=\frac{\tau_{0}}{(\gamma_{s}-\gamma)d}$   y   $R_{*}=\frac{U_{*} d}{\nu}$
+$\tau_{*}=\frac{\tau_{0}}{(\gamma_{s}-\gamma)d}$
+  
+y
+
+$R_{\*}=\frac{U_{\*} d}{\nu}$
 </div>
 
 Donde:
