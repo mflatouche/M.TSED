@@ -9,7 +9,7 @@ Keywords: `Sediment transport` `Flow file`
 
 ### Archivo de caudales
 
-El modelo de transporte de sedimentos puede ejecutarse utilizando flujo cuasi-no permanente o flujo no permanente, sin embargo, debido a que el enfoque de flujo cuasi-no permanente es más estable se utiliza más a menudo en análisis de transporte de sedimentos, las diferencias entre los dos enfoques las pueden consultar en la actividad [Estructura del modelo de transporte de sedimentos](../../Section02/2_Modelo).
+El modelo de transporte de sedimentos puede ejecutarse utilizando flujo cuasi-no permanente o flujo no permanente, sin embargo, debido a que el enfoque de flujo cuasi-no permanente es más estable se utiliza más a menudo en análisis de transporte de sedimentos. Las diferencias entre los dos enfoques las pueden consultar en la actividad [Estructura del modelo de transporte de sedimentos](../../Section02/2_Modelo).
 
 <div align="center">
     <img src="./Img/3_1.png">
