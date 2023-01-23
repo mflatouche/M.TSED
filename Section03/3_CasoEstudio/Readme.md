@@ -21,7 +21,7 @@ En este tramo, al Arroyo San Antonio le llegan tres afluentes: Caño Piedras, Ca
     <img src="./Img/3_1.png" width="700px">
 </div>
 
-En 55 secciones sobre el Arroyo San Antonio se realizaron levantamientos topobatimétricos el 01 de enero del 2010 y el 32 de diciembre del 2010, en la siguiente imagen se muestra un esquema de la ubicación de estas secciones.
+En 55 secciones sobre el Arroyo San Antonio se realizaron levantamientos topobatimétricos el 01 de enero del 2010 y el 31 de diciembre del 2010, en la siguiente imagen se muestra un esquema de la ubicación de estas secciones.
 
 <div align="center">
     <img src="./Img/3_2.png" width="700px">
