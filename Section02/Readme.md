@@ -9,5 +9,5 @@
 En este módulo aprenderás el funcionamiento del software HEC-RAS para transporte de sedimentos en 1D y cómo utilizarlo para tus proyectos.
 
 
-| [Anterior](../Section01/1_PotencialTransporteSedimentos) | [:house: Inicio](../README.md) | [:beginner: Ayuda]() | [Siguiente](./2_Funcionamiento) |
-|------------------|--------------------------------|----------------------|--------------------------------|
+| [Anterior](../Section01/1_PotencialTransporteSedimentos) | [:house: Inicio](../README.md) | [Siguiente](./2_Funcionamiento) |
+|----------------------------------------------------------|--------------------------------|---------------------------------|

@@ -8,5 +8,5 @@
 En este último módulo crearás un modelo de transporte de sedimentos para el caso de estudio presentado.
 
 
-| [Anterior](../Section02/2_Limitaciones) | [:house: Inicio](../README.md) | [:beginner: Ayuda]() | [Siguiente](./3_CasoEstudio) |
-|----------------------------|--------------------------------|----------------------|------------------|
+| [Anterior](../Section02/2_Limitaciones) | [:house: Inicio](../README.md) | [Siguiente](./3_CasoEstudio) |
+|-----------------------------------------|--------------------------------|------------------------------|
