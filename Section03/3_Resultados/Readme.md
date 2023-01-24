@@ -19,7 +19,7 @@ La ventana de resultados de Sedimentos se muestra en la siguiente figura. Básic
     <img src="./Img/3_2.png" Height="500px">
 </div>
 
-Empezaremos revisando lso resultados del perfil _Profile_.
+Empezaremos revisando los resultados del perfil _Profile_.
 
 ### Perfil (_Profile_)
 
