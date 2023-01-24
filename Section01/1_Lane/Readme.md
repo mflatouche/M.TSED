@@ -98,7 +98,7 @@ Analice cualitativamente la respuesta de un río con base en la analogía de la 
 
 M.TSED es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](https://github.com/mflatouche/M.TSED/wiki/License).
 
-| [Anterior](../1_CaudalSuspension) | [:house: Inicio](../../README.md) | [:beginner: Ayuda]()  | [Siguiente](../1_PotencialTransporteSedimentos) |
+| [Anterior](../1_CaudalSuspension) | [:house: Inicio](../../README.md) | [:beginner: Ayuda](https://github.com/mflatouche/M.TSED/discussions/7)  | [Siguiente](../1_PotencialTransporteSedimentos) |
 |------------------|-----------------------------------------------------------|------------------------------------------------------------------------|-------------------|
 
 

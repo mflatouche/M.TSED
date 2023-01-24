@@ -117,7 +117,7 @@ En la siguiente figura se muestran representadas esquemáticamente las ecuacione
 
 M.TSED es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](https://github.com/mflatouche/M.TSED/wiki/License).
 
-| [Anterior](../Readme.md) | [:house: Inicio](../../README.md) | [:beginner: Ayuda]()  | [Siguiente](../1_ClasificacionRios) |
+| [Anterior](../Readme.md) | [:house: Inicio](../../README.md) | [:beginner: Ayuda](https://github.com/mflatouche/M.TSED/discussions/1)  | [Siguiente](../1_ClasificacionRios) |
 |------------------|-----------------------------------------------------------|------------------------------------------------------------------------|-------------------|
 
 

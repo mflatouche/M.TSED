@@ -58,7 +58,7 @@ En la siguiente tabla se indican algunos estudios y el transporte de sedimentos 
 M.TSED es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](https://github.com/mflatouche/M.TSED/wiki/License).
 
 
-| [Anterior](../1_Lane) | [:house: Inicio](../../README.md) | [:beginner: Ayuda]() | [Siguiente](../../Section02) |
+| [Anterior](../1_Lane) | [:house: Inicio](../../README.md) | [:beginner: Ayuda](https://github.com/mflatouche/M.TSED/discussions/8) | [Siguiente](../../Section02) |
 |------------------|-----------------------------------|----------------------|------------------------------|
 
 [^1]: Federal Agency Stream Restoration Working Group. (2001). _Stream Corridor Restoration: Principles, Processes, and Practices_. FISRWG.

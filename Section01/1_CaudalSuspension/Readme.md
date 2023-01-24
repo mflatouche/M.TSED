@@ -61,7 +61,7 @@ El caudal sólido en suspensión unitario es la integración en la vertical del 
 M.TSED es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](https://github.com/mflatouche/M.TSED/wiki/License).
 
 
-| [Anterior](../1_Acorazamiento) | [:house: Inicio](../../README.md) | [:beginner: Ayuda]()  | [Siguiente](../1_Lane) |
+| [Anterior](../1_Acorazamiento) | [:house: Inicio](../../README.md) | [:beginner: Ayuda](https://github.com/mflatouche/M.TSED/discussions/6)  | [Siguiente](../1_Lane) |
 |------------------|-----------------------------------------------------------|------------------------------------------------------------------------|-------------------|
 
 [^1]: Camargo, J., & Franco, V. (1999). _Manual de Ingeniería de Ríos_. México: Universidad Autónoma de México Instituto de Ingeniería.

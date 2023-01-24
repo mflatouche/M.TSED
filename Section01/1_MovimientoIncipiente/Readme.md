@@ -177,7 +177,7 @@ Resuelva el problema del ejemplo utilizando el diagrama de Shields en función d
 
 M.TSED es de uso libre para fines académicos, conoce nuestra licencia, cláusulas, condiciones de uso y como referenciar los contenidos publicados en este repositorio, dando [clic aquí](https://github.com/mflatouche/M.TSED/wiki/License).
 
-| [Anterior](../1_Potencia) | [:house: Inicio](../../README.md) | [:beginner: Ayuda]()  | [Siguiente](../1_Acorazamiento) |
+| [Anterior](../1_Potencia) | [:house: Inicio](../../README.md) | [:beginner: Ayuda](https://github.com/mflatouche/M.TSED/discussions/4)  | [Siguiente](../1_Acorazamiento) |
 |------------------|-----------------------------------------------------------|------------------------------------------------------------------------|-------------------|
 
 
