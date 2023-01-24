@@ -13,7 +13,7 @@ Para ver los resultados del modelo de transporte de sedimentos seleccionamos Vie
     <img src="./Img/3_1.png" Height="500px">
 </div>
 
-La ventana de resultados de Sedimentos se muestra en la siguiente figura. Básicamente, hay tres tipos de resultados que nos interesa abalizar: series de tiempo, perfil y secciones transversales.
+La ventana de resultados de Sedimentos se muestra en la siguiente figura. Básicamente, hay tres tipos de resultados que nos interesa analizar: series de tiempo, perfil y secciones transversales.
 
 <div align="center">
     <img src="./Img/3_2.png" Height="500px">
