@@ -68,3 +68,5 @@ M.TSED es de uso libre para fines académicos, conoce nuestra licencia, cláusul
 [^1]: Hydrologic Engineering Center. (s.f.). Hydrologic Engineering Center's (CEIWR-HEC) River Analysis System (HEC-RAS). Obtenido de 1D Sediment Transport User's Manual Manual: https://www.hec.usace.army.
 
 [^2]: Food and Agriculture Organization of the United States (FAO). _Capítulo 5 - Transporte de sedimentos_. Obtenido de: https://www.fao.org/3/t0848s/t0848s07.htm.
+
+<div align="center"><a href="https://enlace-academico.escuelaing.edu.co/psc/FORMULARIO/EMPLOYEE/SA/c/LC_SA_MN.LC_FRM_ADM_EC_CMP.GBL" target="_blank"><img src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/CaseUse/.icons/IconCEHBotonCertificado.png" alt="R.LTWB" width="260" border="0" /></a></div>
