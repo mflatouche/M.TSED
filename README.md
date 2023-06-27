@@ -9,8 +9,8 @@
 <br>
 
 <div align="center">
-    <a href="https://pruebacorreoescuelaingeduco.sharepoint.com/:v:/s/TSED/EVGmQn8nyo9LtUl9_zit9AEBXi6L-uXSLhWjyM-fxzK-Nw?e=Je9sUe">
-        <img src="./Img/Section00_Introduccion.png" width="800px">
+    <a href="https://www.youtube.com/watch?v=tHEI6CVskiU&list=PLneiG4vC_8Ytff-IPFsp_zPcsFO4js_1U">
+        <img src="./Img/INTRODUCCION_CURSO.PNG" width="800px">
     </a>
 </div>
 
