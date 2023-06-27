@@ -1,13 +1,15 @@
 <div align="center"><a href="https://www.escuelaing.edu.co/es/investigacion-e-innovacion/centro-de-estudios-hidraulicos/" target="_blank"><img src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/CaseUse/.icons/IconCEHBanner.jpg" alt="R.LTWB" width="100%" border="0" /></a></div>
-
 <div align="center">
-<br><b>M.TSED </b>
-<br><b>Curso básico de transporte de sedimentos con HEC-RAS 1D </b>
-<br>Transporte de sedimentos by mlatouchefacenda@gmail.com<br>  
+<b> Universidad Escuela Colombiana de Ingeniería Julio Garavito</b>
+<br>
+María Fernanda Latouche Facenda
+<br>
+Profesora del Centro de Estudios Hidráulicos
+<br>
+maria.latouche@escuelaing.edu.co
 </div>
 
-
-## Sección 2 - Modelo de transporte de sedimentos en HEC-RAS 1D
+## Módulo 2 - Modelo de transporte de sedimentos en HEC-RAS 1D
 En este módulo aprenderás el funcionamiento del software HEC-RAS para transporte de sedimentos en 1D y cómo utilizarlo para tus proyectos.
 
 
