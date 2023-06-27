@@ -14,7 +14,7 @@ Keywords: `Sediment transport` `Bedload` `Suspended load` `Washload`
 
 <div align="center">
     <a href="">
-        <img src="./Img/1_TransporteDeSedimentos.png" width="800px">
+        <img src="../../Img/INICIO_ACTIVIDAD.PNG" width="800px">
     </a>
 </div>
 

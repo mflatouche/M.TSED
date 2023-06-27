@@ -14,7 +14,7 @@ Keywords: `Stream power`
 
 <div align="center">
     <a href="">
-        <img src="./Img/1_Potencia.png" width="800px">
+        <img src="../../Img/INICIO_ACTIVIDAD.PNG" width="800px">
     </a>
 </div>
 

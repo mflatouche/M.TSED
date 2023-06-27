@@ -14,7 +14,7 @@ Keywords: `Sediment transport`
 
 <div align="center">
     <a href="">
-        <img src="./Img/1_PotencialTransporteSedimentos.png" width="800px">
+        <img src="../../Img/INICIO_ACTIVIDAD.PNG" width="800px">
     </a>
 </div>
 

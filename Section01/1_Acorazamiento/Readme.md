@@ -13,8 +13,8 @@ maria.latouche@escuelaing.edu.co
 Keywords: `Bed sorting` `Armoring` 
 
 <div align="center">
-    <a href="">
-        <img src="./Img/1_Acorazamiento.png" width="800px">
+    <a href="https://www.youtube.com/watch?v=-kC1THq11mw&list=PLneiG4vC_8Ytff-IPFsp_zPcsFO4js_1U&index=6">
+        <img src="../../Img/INICIO_ACTIVIDAD.PNG" width="800px">
     </a>
 </div>
 
