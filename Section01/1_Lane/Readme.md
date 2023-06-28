@@ -9,12 +9,12 @@ Profesora del Centro de Estudios Hidráulicos
 maria.latouche@escuelaing.edu.co
 </div>
 
-## Predicción sobre la respuesta general de un río al cambio
+## Módulo 1 - Actividad 7. Predicción sobre la respuesta general de un río al cambio
 Keywords: `Lane Analogy` 
 
 <div align="center">
-    <a href="">
-        <img src="./Img/1_Lane.png" width="800px">
+    <a href="https://www.youtube.com/watch?v=l05N7ss2iKs&list=PLneiG4vC_8Ytff-IPFsp_zPcsFO4js_1U&index=8">
+        <img src="../../Img/INICIO_ACTIVIDAD.PNG" width="800px">
     </a>
 </div>
 
@@ -59,8 +59,8 @@ Partiendo de la condición de equilibrio, si el caudal líquido aumentara o si s
 ### Actividad resuelta
 
 <div align="center">
-    <a href="">
-        <img src="./Img/1_Lane_Actividad.png" width="800px">
+    <a href="https://www.youtube.com/watch?v=YkOwlSLUjlw&list=PLneiG4vC_8Ytff-IPFsp_zPcsFO4js_1U&index=9">
+        <img src="../../Img/INICIO_ACTIVIDAD.PNG" width="800px">
     </a>
 </div>
 

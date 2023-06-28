@@ -9,11 +9,11 @@ Profesora del Centro de Estudios Hidráulicos
 maria.latouche@escuelaing.edu.co
 </div>
 
-## Potencia de la corriente
+## Módulo 1 - Actividad 3. Potencia de la corriente
 Keywords: `Stream power`
 
 <div align="center">
-    <a href="">
+    <a href="https://www.youtube.com/watch?v=kdLz0d-oIk8&list=PLneiG4vC_8Ytff-IPFsp_zPcsFO4js_1U&index=4">
         <img src="../../Img/INICIO_ACTIVIDAD.PNG" width="800px">
     </a>
 </div>

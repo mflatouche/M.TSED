@@ -9,12 +9,12 @@ Profesora del Centro de Estudios Hidráulicos
 maria.latouche@escuelaing.edu.co
 </div>
 
-## Caudal sólido en suspensión
+## Módulo 1 - Actividad 6. Caudal sólido en suspensión
 Keywords: `Suspended load` `Rouse equation`
 
 <div align="center">
-    <a href="">
-        <img src="./Img/1_CaudalSuspension.png" width="800px">
+    <a href="https://www.youtube.com/watch?v=akpWXoANlnE&list=PLneiG4vC_8Ytff-IPFsp_zPcsFO4js_1U&index=7">
+        <img src="../../Img/INICIO_ACTIVIDAD.PNG" width="800px">
     </a>
 </div>
 
