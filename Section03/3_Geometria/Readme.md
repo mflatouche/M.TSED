@@ -9,12 +9,12 @@ Profesora del Centro de Estudios Hidráulicos
 maria.latouche@escuelaing.edu.co
 </div>
 
-## Geometría
+## Módulo 3 - Actividad 2. Datos del modelo. Archivo de geometría
 Keywords: `Sediment transport` `Geometry file` 
 
 <div align="center">
-    <a href="">
-        <img src="./Img/3_Geometria.png" width="800px">
+    <a href="https://www.youtube.com/watch?v=bbXOE0WsQgg&list=PLneiG4vC_8Ytff-IPFsp_zPcsFO4js_1U&index=17">
+        <img src="../../Img/INICIO_ACTIVIDAD.PNG" width="800px">
     </a>
 </div>
 

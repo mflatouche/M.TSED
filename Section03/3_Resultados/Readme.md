@@ -9,12 +9,12 @@ Profesora del Centro de Estudios Hidráulicos
 maria.latouche@escuelaing.edu.co
 </div>
 
-## Visualización e interpretación de resultados
+## Módulo 3 - Actividad 6. Visualización e interpretación de resultados
 Keywords: `Sediment transport` 
 
 <div align="center">
-    <a href="">
-        <img src="./Img/3_Resultados.png" width="800px">
+    <a href="https://www.youtube.com/watch?v=G8Ni05oaRgM&list=PLneiG4vC_8Ytff-IPFsp_zPcsFO4js_1U&index=21">
+        <img src="../../Img/INICIO_ACTIVIDAD.PNG" width="800px">
     </a>
 </div>
 
