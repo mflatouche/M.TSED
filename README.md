@@ -50,7 +50,7 @@ El curso virtual tendrá un enfoque teórico-práctico. La parte teórica compre
 * Contar con conexión a internet.
 * Software de modelación hidráulica HEC-RAS.
 
-## Sección 1 - Definiciones básicas
+## Módulo 1 - Definiciones básicas
 En este módulo aprenderás los conceptos básicos para entender los procesos y factores que afectan el transporte de sedimentos en un cauce aluvial.
 
 | Actividad                                                                                             | Alcance                                                                                                                                     |
@@ -64,7 +64,7 @@ En este módulo aprenderás los conceptos básicos para entender los procesos y 
 | [Predicción sobre la respuesta general de un río al cambio](Section01/1_Lane)                         | Estimaciones cualitativas. Explicación de las relaciones generales. Analogía de la balanza de Lane. Ejemplo.                                |
 | [Cuantificación del potencial de transporte de sedimentos](Section01/1_PotencialTransporteSedimentos) | Estudio y transporte sólido requerido. Potencial de transporte de sedimentos.                                                               |
 
-## Sección 2 - Modelo de transporte de sedimentos en HEC-RAS 1D
+## Módulo 2 - Modelo de transporte de sedimentos en HEC-RAS 1D
 En este módulo aprenderás el funcionamiento del software HEC-RAS para transporte de sedimentos en 1D y cómo utilizarlo para tus proyectos.
 
 | Actividad                                                                | Alcance                                                                                                             |
@@ -75,7 +75,7 @@ En este módulo aprenderás el funcionamiento del software HEC-RAS para transpor
 | [Información de campo](Section02/2_InformacionCampo)                     | Información de campo necesaria para construir el modelo de transporte de sedimentos en 1D.                          |
 | [Limitaciones](Section02/2_Limitaciones)                                 | Limitaciones del modelo de transporte de sedimentos.                                                                |
 
-## Sección 3 - Ejemplo práctico. Modelo de transporte de sedimentos en HEC-RAS 1D
+## Módulo 3 - Ejemplo práctico. Modelo de transporte de sedimentos en HEC-RAS 1D
 En este último módulo crearás un modelo de transporte de sedimentos para el caso de estudio presentado.
 
 | Actividad                                                              | Alcance                                                                                                                                                 |
