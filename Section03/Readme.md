@@ -15,3 +15,7 @@ En este último módulo crearás un modelo de transporte de sedimentos para el c
 
 | [Anterior](../Section02/2_Limitaciones) | [:house: Inicio](../README.md) | [Siguiente](./3_CasoEstudio) |
 |-----------------------------------------|--------------------------------|------------------------------|
+
+##
+
+<div align="center"><a href="http://www.escuelaing.edu.co" target="_blank"><img src="../Img/Banner1.svg" alt="Support by" width="100%" border="0" /></a><sub><br>Este curso guía ha sido desarrollado con el apoyo de la Universidad Escuela Colombiana de Ingeniería Julio Garavito. Encuentra más contenidos en https://github.com/uescuelaing</sub><br><br></div>

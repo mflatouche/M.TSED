@@ -16,3 +16,7 @@ En este módulo aprenderás los conceptos básicos para entender los procesos y 
 
 | [:house: Inicio](../README.md) | [Siguiente](./1_TransporteDeSedimentos) |
 |--------------------------------|-----------------------------------------|
+
+##
+
+<div align="center"><a href="http://www.escuelaing.edu.co" target="_blank"><img src="../Img/Banner1.svg" alt="Support by" width="100%" border="0" /></a><sub><br>Este curso guía ha sido desarrollado con el apoyo de la Universidad Escuela Colombiana de Ingeniería Julio Garavito. Encuentra más contenidos en https://github.com/uescuelaing</sub><br><br></div>
