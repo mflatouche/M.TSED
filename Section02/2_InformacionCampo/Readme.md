@@ -1,11 +1,20 @@
 <div align="center"><a href="https://www.escuelaing.edu.co/es/investigacion-e-innovacion/centro-de-estudios-hidraulicos/" target="_blank"><img src="https://github.com/rcfdtools/R.TeachingResearchGuide/blob/main/CaseUse/.icons/IconCEHBanner.jpg" alt="R.LTWB" width="100%" border="0" /></a></div>
+<div align="center">
+<b> Universidad Escuela Colombiana de Ingeniería Julio Garavito</b>
+<br>
+María Fernanda Latouche Facenda
+<br>
+Profesora del Centro de Estudios Hidráulicos
+<br>
+maria.latouche@escuelaing.edu.co
+</div>
 
-## Información de campo
+## Módulo 2 - Actividad 4. Información de campo
 Keywords: `Sediment transport` `Information` 
 
 <div align="center">
-    <a href="">
-        <img src="./Img/2_InformacionCampo.png" width="800px">
+    <a href="https://www.youtube.com/watch?v=5BICpqAp2nE&list=PLneiG4vC_8Ytff-IPFsp_zPcsFO4js_1U&index=14">
+        <img src="../../Img/INICIO_ACTIVIDAD.PNG" width="800px">
     </a>
 </div>
 

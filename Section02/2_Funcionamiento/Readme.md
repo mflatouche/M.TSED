@@ -9,12 +9,12 @@ Profesora del Centro de Estudios Hidráulicos
 maria.latouche@escuelaing.edu.co
 </div>
 
-## Funcionamiento del modelo de HEC-RAS 1D
+## Módulo 2 - Actividad 1. Funcionamiento del modelo
 Keywords: `Sediment transport` 
 
 <div align="center">
-    <a href="">
-        <img src="./Img/2_Funcionamiento.png" width="800px">
+    <a href="https://www.youtube.com/watch?v=XNQcOUXC6K4&list=PLneiG4vC_8Ytff-IPFsp_zPcsFO4js_1U&index=11">
+        <img src="../../Img/INICIO_ACTIVIDAD.PNG" width="800px">
     </a>
 </div>
 
