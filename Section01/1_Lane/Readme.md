@@ -13,7 +13,7 @@ maria.latouche@escuelaing.edu.co
 Keywords: `Lane Analogy` 
 
 <div align="center">
-    <a href="https://www.youtube.com/watch?v=l05N7ss2iKs&list=PLneiG4vC_8Ytff-IPFsp_zPcsFO4js_1U&index=8">
+    <a href="https://www.youtube.com/watch?v=88RgSFbgva4&list=PLneiG4vC_8Yv09qJOZTMGO8mixQ973hb2&index=8">
         <img src="../../Img/INICIO_ACTIVIDAD.PNG" width="800px">
     </a>
 </div>
@@ -59,7 +59,7 @@ Partiendo de la condición de equilibrio, si el caudal líquido aumentara o si s
 ### Actividad resuelta
 
 <div align="center">
-    <a href="https://www.youtube.com/watch?v=YkOwlSLUjlw&list=PLneiG4vC_8Ytff-IPFsp_zPcsFO4js_1U&index=9">
+    <a href="https://www.youtube.com/watch?v=OBF1_sB2lOI&list=PLneiG4vC_8Yv09qJOZTMGO8mixQ973hb2&index=9">
         <img src="../../Img/INICIO_ACTIVIDAD.PNG" width="800px">
     </a>
 </div>

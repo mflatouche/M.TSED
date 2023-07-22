@@ -13,7 +13,7 @@ maria.latouche@escuelaing.edu.co
 Keywords: `Clasificación ríos` `Schumm` 
 
 <div align="center">
-    <a href="https://www.youtube.com/watch?v=t47MjVGfQZE&list=PLneiG4vC_8Ytff-IPFsp_zPcsFO4js_1U&index=3">
+    <a href="https://www.youtube.com/watch?v=PQy25twJ6TE&list=PLneiG4vC_8Yv09qJOZTMGO8mixQ973hb2&index=3">
         <img src="../../Img/INICIO_ACTIVIDAD.PNG" width="800px">
     </a>
 </div>

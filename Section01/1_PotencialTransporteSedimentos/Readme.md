@@ -13,7 +13,7 @@ maria.latouche@escuelaing.edu.co
 Keywords: `Sediment transport` 
 
 <div align="center">
-    <a href="https://www.youtube.com/watch?v=CYsxpQI7nrY&list=PLneiG4vC_8Ytff-IPFsp_zPcsFO4js_1U&index=10">
+    <a href="https://www.youtube.com/watch?v=0YTQspS-mmQ&list=PLneiG4vC_8Yv09qJOZTMGO8mixQ973hb2&index=10">
         <img src="../../Img/INICIO_ACTIVIDAD.PNG" width="800px">
     </a>
 </div>

@@ -13,7 +13,7 @@ maria.latouche@escuelaing.edu.co
 Keywords: `Shear stress` `Shields` `Incipient motion`
 
 <div align="center">
-    <a href="https://www.youtube.com/watch?v=DMWHC01nMoE&list=PLneiG4vC_8Ytff-IPFsp_zPcsFO4js_1U&index=5">
+    <a href="https://www.youtube.com/watch?v=31mGqMXujDc&list=PLneiG4vC_8Yv09qJOZTMGO8mixQ973hb2&index=5">
         <img src="../../Img/INICIO_ACTIVIDAD.PNG" width="800px">
     </a>
 </div>

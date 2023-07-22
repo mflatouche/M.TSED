@@ -12,7 +12,7 @@ maria.latouche@escuelaing.edu.co
 <br>
 
 <div align="center">
-    <a href="https://www.youtube.com/watch?v=tHEI6CVskiU&list=PLneiG4vC_8Ytff-IPFsp_zPcsFO4js_1U">
+    <a href="https://www.youtube.com/watch?v=A5ym3mSIkUI&list=PLneiG4vC_8Yv09qJOZTMGO8mixQ973hb2">
         <img src="./Img/INTRODUCCION_CURSO.PNG" width="800px">
     </a>
 </div>

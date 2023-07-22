@@ -13,7 +13,7 @@ maria.latouche@escuelaing.edu.co
 Keywords: `Sediment transport` `Bedload` `Suspended load` `Washload`
 
 <div align="center">
-    <a href="https://www.youtube.com/watch?v=YsQiZtXLtgc&list=PLneiG4vC_8Ytff-IPFsp_zPcsFO4js_1U&index=2">
+    <a href="https://www.youtube.com/watch?v=BNAOI6lppA0&list=PLneiG4vC_8Yv09qJOZTMGO8mixQ973hb2&index=2">
         <img src="../../Img/INICIO_ACTIVIDAD.PNG" width="800px">
     </a>
 </div>
